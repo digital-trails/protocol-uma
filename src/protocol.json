@@ -1,14 +1,4 @@
 {
-  "home": {
-    "title": "MindTrails",
-    "element": {
-      "type": "ref",
-      "path": "protocols/${global:group}/home.json"
-    }
-  },
-  "config-queues": {
-    "group": "mtm${global:population}group"
-  },
   "settings": {
     "unenroll": "flow://flows/treatment/reasons for ending/",
     "font_scale": 1.25
