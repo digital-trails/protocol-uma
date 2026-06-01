@@ -67,10 +67,9 @@ def _create_survey_page(row):
 
 def domain_selection_text():
     return (
-        "Los dominios enumerados aquí son algunas áreas que pueden hacerte sentir "
-        "ansioso. Seleccione en qué le gustaría trabajar durante el día de hoy"
-        "formación. \n\nTe animamos a elegir diferentes dominios para practicar "
-        "¡Pensar con flexibilidad en todas las áreas de tu vida!"
+"The domains listed here are some areas that may cause you to feel anxious." 
+"Please select the one that you'd like to work on during today's training.\n\n"
+"We encourage you to choose different domains to practice thinking flexibly across areas of your life!"
     )
 
 def create_lessons_learned():
