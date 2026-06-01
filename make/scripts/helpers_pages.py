@@ -54,12 +54,12 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to respond"]} # changed
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
-    if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
+    if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "It's time to practice flexible thinking! Head to MindTrails for your scheduled session."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
-        "correct_feedback": "Correcto!",  # changed
+        "correct_feedback": "Correct!",  # changed
         "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
         "incorrect_delay": 5000,
         "display_delay": 2000,
@@ -146,13 +146,12 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             "header_icon": "assets/subtitle.png",
             "elements": [{
                 "type": "Text",
-                "text": "Las historias que estás a punto de ver son un poco diferentes a las que has visto"
-                        "visto antes. En lugar de completar las letras que faltan para completar la palabra final,"
-                        "Vamos a desafiarte a generar tu propia última palabra que completará"
-                        "la historia. Tu objetivo es pensar en una palabra que terminará la historia en un "
-                        "nota positiva. El final no tiene por qué ser tan positivo como para no serlo"
-                        "Parece posible, pero queremos que imagines que estás manejando bien la situación."
-                        # changed
+                "text": "The scenarios you are about to see are a little different from the ones you have seen before."
+                        "Instead of choosing the missing letter to complete the final word, we are going to challenge "
+                        "you to generate your own final word that will complete the story. Your goal is to think of "
+                        "a word that will end the scenario on a positive note. The end doesn't have to be so positive "
+                        "that it no longer seems possible, but we want you to imagine that you are handling the "
+                        "situation well."
             }]
         })
 
@@ -176,7 +175,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
                 "correct_feedback": "Correcto!",  # changed
-                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                 "incorrect_delay": 5000,
                 "display_delay": 2000,
                 "words": [word_1]
@@ -202,7 +201,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
                     "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                    "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                     "incorrect_delay": 5000,
                     "display_delay": 2000,
                     "words": [word_2]
@@ -228,7 +227,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
                     "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                    "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                     "incorrect_delay": 5000,
                     "buttons": [a.strip() for a in answers],
                     "column_Count": 1,
@@ -367,13 +366,13 @@ def create_subdomain_page(subdomain, resource_texts):
 def create_video_page(video_number):
     return {
         "elements": [
-            {"type": "Text" , "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"},
+            {"type": "Text" , "text": "Press play on the training video to continue to learn more information!"},
             {"type": "Media", "url": f"/videos/video{video_number}.mp4", "border": True}
         ]
     }
 
 def create_write_your_own_page(text, input_1, title, input_name):
     page = create_survey_page(text=text, input_1=input_1, title=title, input_name=input_name)
-    page["header_text"] = title or "Escribe El tuyo"
+    page["header_text"] = title or "Write Your Own"
     page["header_icon"] = "assets/subtitle.png",
     return page

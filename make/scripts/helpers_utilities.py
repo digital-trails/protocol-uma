@@ -134,7 +134,7 @@ def get_ER(file_path):
 
         for i,row in enumerate(reader,1):
             for strats, domain_index in zip(domain_strats, count(1)):
-                if row[domain_index]: strats.append([f"Estrategia de Regulación Emocional #{i}", row[domain_index]])
+                if row[domain_index]: strats.append([f"Emotional Regulation Strategy #{i}", row[domain_index]])
 
         return dict(zip(domain_names,domain_strats))
 
