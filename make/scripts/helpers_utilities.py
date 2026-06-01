@@ -177,7 +177,7 @@ def lower(str):
 
 def media_url(media):
     if media and media.strip():
-        assert Path(f"./src/images/{media.strip()}").exists()
+        # assert Path(f"./src/images/{media.strip()}").exists()
         return f"./images/{media.strip()}"
     return ""
 

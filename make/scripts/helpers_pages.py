@@ -51,7 +51,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
 
     ## Based on what the input is, create input "add"
     if tipe == "picker"   : return {"type": "Picker", "items": items}
-    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefiero no responder"]} # changed
+    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to respond"]} # changed
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
@@ -60,7 +60,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
         "correct_feedback": "Correcto!",  # changed
-        "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+        "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
         "incorrect_delay": 5000,
         "display_delay": 2000,
         "words": items
@@ -84,7 +84,7 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
     feelings  = [f.strip() for f in feelings ]
     behaviors = [b.strip() for b in behaviors]
 
-    with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
+    with open(f"{dir_csv}/htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
             input_1, is_image, timeout = lower(row[6]), lower(row[10]) == "true", row[13]
@@ -99,11 +99,11 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
 
             if input_1 != "timedtext":
                 timedtext = None
-            elif "pensamientos" in descr:
+            elif "thoughts" in descr:
                 timedtext = thoughts
-            elif "sentimientos" in descr:
+            elif "feelings" in descr:
                 timedtext = feelings
-            elif "comportamientos" in descr:
+            elif "behaviors" in descr:
                 timedtext = behaviors
 
             if timedtext: shuffle(timedtext,"long_pages")
@@ -131,7 +131,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if include_lessons_learned and domain in lessons_learned_dict:
         pages.append({
-            "header_text": "Lecciones Aprendidas",  # changed
+            "header_text": "Lessons Learned",  # changed
             "header_icon": "assets/subtitle.png",
             "elements": [
                 {"type": "Text","Text": clean_up_unicode(lessons_learned_dict[domain])},
@@ -142,7 +142,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if n_missing == "all" and is_first:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
-            "header_text": "Instrucciones",  # changed
+            "header_text": "Instructions",  # changed
             "header_icon": "assets/subtitle.png",
             "elements": [{
                 "type": "Text",

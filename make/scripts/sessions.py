@@ -19,7 +19,7 @@ def flat(dictionary):
     return list(chain.from_iterable(dictionary.values()))
 
 def _create_practice_pages():
-    with open(f"{dir_csv}/Spanish_dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
+    with open(f"{dir_csv}/dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
         
         scenario_num = 0
         for row in islice(csv.reader(dose1_read_obj),1,None):
@@ -82,26 +82,26 @@ def create_lessons_learned():
 
     https://docs.google.com/spreadsheets/d/1kM80BHglwtsBgxntJDRdfNj-cusgGGJ0sx814ctB1pk/edit#gid=0
     """
-    with open(f"{dir_csv}/Spanish lessons_learned_text.csv", 'r', encoding='utf-8') as read_obj:
+    with open(f"{dir_csv}/lessons_learned_text.csv", 'r', encoding='utf-8') as read_obj:
         return { row[0]:row[1] for row in islice(csv.reader(read_obj),1,None) }
 
-def create_long_sessions(i):
+def create_long_sessions():
     sessions = defaultdict(list)
 
-    with open(f"{dir_csv}/Spanish_Long_Scenarios.csv", "r",encoding="utf-8") as read_file:
+    with open(f"{dir_csv}/Final Long Scenarios.csv", "r",encoding="utf-8") as read_file:
         for row in islice(csv.reader(read_file),2,None):
 
             if not row: continue # Skip empty lines
 
-            if len(row) > i + 16:  # Ensure the row has enough columns
+            if len(row) > 16:  # Ensure the row has enough columns
                 domain_1 = row[0].strip()
                 domain_2 = row[1].strip() if row[1] else None
                 label = row[3]
                 image_url = media_url(row[5])
-                scenario_description = row[i]
-                thoughts = row[i+2:i+7]
-                feelings = row[i+7:i+12]
-                behaviors = row[i+12:i+17]
+                scenario_description = row[4]
+                thoughts = row[6:11]
+                feelings = row[11:16]
+                behaviors = row[16:]
 
                 if not has_value(scenario_description) or not has_value(label): continue
 
@@ -117,19 +117,21 @@ def create_long_sessions(i):
 
     return {k:iter(cycle(v)) for k,v in sessions.items()}
 
-def create_short_sessions(i):
+def create_short_sessions():
     sessions     = defaultdict(list)
     scenarios    = defaultdict(list)
 
     lessons_learned_dict = create_lessons_learned()
 
-    with open(f"{dir_csv}/Spanish_Short_Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
+    with open(f"{dir_csv}/short_scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
 
-            domain    = row[0].strip()
-            label     = row[4]
-            image_url = media_url(row[11])
-            tipe      = lower(row[3]).strip()
+            domain   = row[3].strip()
+            domain2   = row[4].strip()
+            domain3   = row[5].strip()
+            label     = row[6]
+            image_url = media_url(row[12])
+            tipe      = row[2].strip()
 
             if not domain or not label: continue
 
@@ -145,17 +147,15 @@ def create_short_sessions(i):
 
             else:
 
-                puzzle1,puzzle2 = map(create_puzzle,row[i:i+2])
+                puzzle1,puzzle2 = map(create_puzzle,row[7:9])
 
                 if puzzle1 == (None,None): continue
 
-                comp_question, choices, answer  = row[i+2], row[i+3:i+5], row[i+3]
-
-                if lower(choices[0]).strip() in ['yes','si','no','sí']: choices = ["Sí","No"] #changed
+                comp_question, choices, answer  = row[9], row[10:12], row[10]
 
                 shuffle(choices)
 
-                if row[12]: letters_missing = row[12]
+                if row[13]: letters_missing = row[13]
 
                 is_first_session = len(sessions[domain]) == 0
                 is_first_scenario = len(scenarios[domain]) == 0
@@ -184,14 +184,14 @@ def create_surveys():
     surveys = { "BeforeDomain_All": defaultdict(list), "AfterDomain_All": defaultdict(list), "Dose_1": defaultdict(list), "Control_Dose_1": defaultdict(list) }
 
     # Open the file with all the content
-    with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as read_obj:
+    with open(f"{dir_csv}/survey_questions.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id = f"{row[3]}_{row[2]}"
             subgroup_id = row[0]
 
             if lookup_id not in surveys: continue
 
-            elif row[0] == "Práctica CBM-I":
+            elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages())
             elif row[2]:
                 surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
@@ -200,7 +200,7 @@ def create_surveys():
 
 def create_write_your_own_session():
     pages = []
-    with open(f"{dir_csv}/Spanish_write_your_own.csv", "r", encoding="utf-8") as f:
+    with open(f"{dir_csv}/write_your_own.csv", "r", encoding="utf-8") as f:
         for row in islice(csv.reader(f),1,None):
             text = clean_up_unicode(row[4])
             if text:
@@ -211,9 +211,9 @@ def create_write_your_own_session():
     return pages
 
 def create_resource_dose_creator():
-    ER_lookup = get_ER(file_path=f"{dir_csv}/ER_Strategies.csv")
+    ER_lookup = get_ER(file_path=f"{dir_csv}/ER Strategies.csv")
     tips      = get_tips(file_path=f"{dir_csv}/tips.csv")
-    resources = get_resources(file_path=f"{dir_csv}/Spanish_Resources.csv")
+    resources = get_resources(file_path=f"{dir_csv}/UMA Resources.csv")
 
     return lambda domain: [create_resource_page(resources, tips, ER_lookup, domain)]
 
@@ -237,7 +237,7 @@ def create_discrimination_session(pop):
 
 def create_reminders():
     reminders = defaultdict(list)
-    with open(f"{dir_csv}/Reminders.csv", "r", encoding="utf-8") as read_obj:
+    with open(f"{dir_csv}/tips.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
             reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[5]])
 
@@ -260,8 +260,8 @@ populations = [ ["Español", 5, 4] ]
 for pop,s,l in populations:
 
     surveys         = create_surveys()
-    short_sessions  = create_short_sessions(s)             # dict of short session iter by domain
-    long_sessions   = create_long_sessions(l)              # dict of long session cycle by domain
+    short_sessions  = create_short_sessions()             # dict of short session iter by domain
+    long_sessions   = create_long_sessions()              # dict of long session cycle by domain
     wyo_session     = create_write_your_own_session()      # one session used over and over again
     resources       = create_resource_dose_creator()       # lambda that takes a domain and returns a dose
     discrim_session = create_discrimination_session(pop)   # one session used over and over again
