@@ -43,7 +43,7 @@ def _create_survey_page(row):
 
 # Read the questions
 survey_pages = defaultdict(lambda: defaultdict(list))
-with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as read_obj:
+with open(f"{dir_csv}/survey_questions.csv", "r", encoding="utf-8") as read_obj:
 
     for row in islice(csv.reader(read_obj),1,None):
 
@@ -64,24 +64,24 @@ with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as
         group_id    = (dose,subject)
         subgroup_id = row[0]
 
-        if row[2] and row[0] != "Práctica CBM-I": survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
+        if row[2] and row[0] != "Practice CBM-I": survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
 
 # Define folders
 folders = {
-    "treatment/final del dia": flat(survey_pages[("all","eod")]),
+    "treatment/end of day": flat(survey_pages[("all","eod")]),
     "treatment/reasons for ending": flat(survey_pages[("all","reasonsforending")]),
-    "treatment/sigue tu progreso/__flow__.json": {"mode":"sequential","take":1},
-    "treatment/sigue tu progreso/1": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("2","biweekly")]),
-    "treatment/sigue tu progreso/2": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("4","biweekly")]),
-    "treatment/sigue tu progreso/3": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("6","biweekly")]),
-    "treatment/sigue tu progreso/4": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("8","biweekly")]),
-    "control/final del dia": flat(survey_pages[("all","eod")]),
+    "treatment/track your progress/__flow__.json": {"mode":"sequential","take":1},
+    "treatment/track your progress/1": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("2","biweekly")]),
+    "treatment/track your progress/2": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("4","biweekly")]),
+    "treatment/track your progress/3": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("6","biweekly")]),
+    "treatment/track your progress/4": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("8","biweekly")]),
+    "control/end of day": flat(survey_pages[("all","eod")]),
     "control/reasons for ending": flat(survey_pages[("all","reasonsforending")]),
-    "control/sigue tu progreso/__flow__.json": {"mode":"sequential","take":1},
-    "control/sigue tu progreso/1": flat(survey_pages[("2","biweekly_control")]),
-    "control/sigue tu progreso/2": flat(survey_pages[("4","biweekly_control")]),
-    "control/sigue tu progreso/3": flat(survey_pages[("6","biweekly_control")]),
-    "control/sigue tu progreso/4": flat(survey_pages[("8","biweekly_control")]),
+    "control/track your progress/__flow__.json": {"mode":"sequential","take":1},
+    "control/track your progress/1": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("2","biweekly_control")]),
+    "control/track your progress/2": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("4","biweekly_control")]),
+    "control/track your progress/3": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("6","biweekly_control")]),
+    "control/track your progress/4": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("8","biweekly_control")]),
 }
 
 # Delete old JSON
