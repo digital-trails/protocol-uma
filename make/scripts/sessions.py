@@ -20,7 +20,7 @@ def flat(dictionary):
 
 def _create_practice_pages():
     with open(f"{dir_csv}/dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
-        
+
         scenario_num = 0
         for row in islice(csv.reader(dose1_read_obj),1,None):
 

@@ -31,7 +31,7 @@ def resource_text(resource_name, resource_link, resource_text):
 domains = defaultdict(lambda: defaultdict(list))
 
 # Read the resources
-with open(f"{dir_csv}/MTSpanish_on-demand.csv", "r", encoding="utf-8") as read_obj:
+with open(f"{dir_csv}/Resources for On-Demand Library.csv", "r", encoding="utf-8") as read_obj:
     for row in islice(csv.reader(read_obj), 2, None):
         domain,subdomain,res_name,res_link,res_text = row
         domains[domain][subdomain].append(resource_text(res_name,res_link,res_text))
