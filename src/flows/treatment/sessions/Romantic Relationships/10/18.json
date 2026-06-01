@@ -1,0 +1,16 @@
+{
+    "header_text": "Making a Decision",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Making a Decision"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1YwDMyzmTgXHa05VDtgeCgzOs2TMnZlPY/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

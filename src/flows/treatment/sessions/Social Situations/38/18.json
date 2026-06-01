@@ -1,0 +1,17 @@
+{
+    "header_text": "Greeting Someone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Greeting Someone_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

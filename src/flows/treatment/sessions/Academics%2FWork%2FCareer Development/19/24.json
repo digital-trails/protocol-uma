@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting an Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting an Opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1kw58e9iPvU1vOT2PxZuYepma0F30V2qn/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Balancing Home Life and Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Balancing Home Life and Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ahnx3c5S7xhmW9qeHplPosctvWEMV4oh/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

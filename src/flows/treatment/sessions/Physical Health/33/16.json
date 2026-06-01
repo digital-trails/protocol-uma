@@ -1,0 +1,16 @@
+{
+    "header_text": "Checks at the dentist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Checks at the dentist"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PUQshZgNL6tX5cS4aP636BXA9VNXNVpq/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

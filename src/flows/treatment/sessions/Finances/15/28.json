@@ -1,0 +1,16 @@
+{
+    "header_text": "Job Stability",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Job Stability"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FHxUxqljF1SCzboPqQ4jJ5Iv2YLogdbi/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

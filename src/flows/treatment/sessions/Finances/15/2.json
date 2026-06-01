@@ -1,0 +1,16 @@
+{
+    "header_text": "Trip After COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trip After COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1e3zraVEUn7RmjLowvgvogw0xfvCDX3Ua/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

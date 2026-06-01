@@ -1,0 +1,16 @@
+{
+    "header_text": "Old Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Old Friends "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/19C7toEPndzExnPZqhv9WwfUM2jnf7-8D/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "A sudden stumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A sudden stumble"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DttLONiIj8xl29lRpUM8ExKkKo4JbVNe/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 0
+}

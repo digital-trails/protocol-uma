@@ -1,0 +1,16 @@
+{
+    "header_text": "Stuck in the Middle",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stuck in the Middle"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ftgcSnzMhpFI41H8c5OD_1qoWZWEzBP2/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

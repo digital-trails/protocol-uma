@@ -1,0 +1,16 @@
+{
+    "header_text": "Missed Connection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missed Connection"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1W-3y9MBzBjx8H95X6f2oIWBLj-DtqM3n/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

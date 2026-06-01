@@ -1,0 +1,16 @@
+{
+    "header_text": "Managing Responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Managing Responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1mnjPZpYIVahZEm1gr4Zu9gKZfMCjl2Tk/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

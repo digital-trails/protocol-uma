@@ -1,0 +1,16 @@
+{
+    "header_text": "Crowd of speech",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crowd of speech"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1j_wTSZ6LyYqWqgOAZFYdxFtjd0jBduSd/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "A lengthy read",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been assigned a task, and you try very hard to make sure it is thorough. The job is quite difficult. When your supervisor sees it, you think they will judge your efforts as..."
+        },
+        {
+            "type": "Entry",
+            "name": "A lengthy read_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

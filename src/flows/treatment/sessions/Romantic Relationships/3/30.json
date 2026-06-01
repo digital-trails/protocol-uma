@@ -1,0 +1,16 @@
+{
+    "header_text": "First meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "First meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1UHVGhPfVm-xSZWchGYLBl20hMhjK2jRV/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

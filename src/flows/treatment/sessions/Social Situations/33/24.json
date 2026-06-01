@@ -1,0 +1,16 @@
+{
+    "header_text": "Voicing Your Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Voicing Your Feelings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_3R4q50xu1yCQG9gAsv0N7Y30gmNDBsG/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "A foreign country",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A foreign country"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1RVjCxZh50qy4aIic-aY3PWjSmy2oAgVm/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

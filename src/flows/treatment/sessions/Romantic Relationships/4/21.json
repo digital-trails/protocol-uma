@@ -1,0 +1,16 @@
+{
+    "header_text": "Mask Insecurities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mask Insecurities"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FpwpZj9Xw_TP08acK0l00uxh8YNZ0jf8/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

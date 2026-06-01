@@ -1,0 +1,16 @@
+{
+    "header_text": "Parents Visiting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parents Visiting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ii9gWhb1eIlxBuU3IxPJk0q_7S0P3KqE/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Social Distancing Indoors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are immunocompromised, and you have been taking precautions to protect yourself from COVID. When you arrive to a meeting one day, you notice a colleague who is not wearing their mask. You ask them to put their mask... "
+        },
+        {
+            "type": "Entry",
+            "name": "Social Distancing Indoors_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

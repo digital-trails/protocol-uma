@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting a Credit Card",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting a Credit Card"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1BCeABeJlKWfM8LEMZppb0NgZqzaRXTfd/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "An international flight",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An international flight"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1GYk2FDBdJrt2X79wPnOBoOZF2QH6AcbW/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

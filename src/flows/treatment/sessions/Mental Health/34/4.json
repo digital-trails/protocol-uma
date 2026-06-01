@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1C2a62EXZZgDQ05jLqV6S9eO4NUs2R1SU/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

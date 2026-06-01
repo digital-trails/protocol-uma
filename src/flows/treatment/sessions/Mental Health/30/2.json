@@ -1,0 +1,16 @@
+{
+    "header_text": "Different Expectations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Different Expectations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1XSzs9MSKzUi9VEjvSXdG4wuW6OFlE60F/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

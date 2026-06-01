@@ -1,0 +1,17 @@
+{
+    "header_text": "Looking at your Qualifications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in a new town and need to start applying for jobs. You start looking at the qualifications for jobs and even though you've worked hard to put together you're resume, you wonder if it will be enough. You look back on your accomplishments and know that you've done more than..."
+        },
+        {
+            "type": "Entry",
+            "name": "Looking at your Qualifications_Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

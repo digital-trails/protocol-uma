@@ -1,0 +1,23 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How useful did you find the strategies and tips provided by the app?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all",
+                "Slightly",
+                "Somewhat",
+                "Mostly",
+                "Very",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "tips_use"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Messaging",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Messaging"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1KHcNfS-rLgCp7he0M7v9PyUWv91bKKlq/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

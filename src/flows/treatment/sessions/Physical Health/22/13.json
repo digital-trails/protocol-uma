@@ -1,0 +1,16 @@
+{
+    "header_text": "Risky Behavior",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Risky Behavior"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1LEdLgbjZhIOXekPN_M_E_a06C-DcFmYs/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 4
+}

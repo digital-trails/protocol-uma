@@ -1,0 +1,16 @@
+{
+    "header_text": "A sip of water",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A sip of water"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1M2nmwy6Vs-FYWSeplo1FuQ51PqchzdnB/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

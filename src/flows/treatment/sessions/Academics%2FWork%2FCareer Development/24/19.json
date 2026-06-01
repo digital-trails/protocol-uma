@@ -1,0 +1,16 @@
+{
+    "header_text": "Giving a Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Giving a Presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_2rE9XRzKQTqhk0TQjBqftLX-RvYtkqL/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

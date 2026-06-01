@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Virginia Family Nutrition Program\n\nThe Virginia Family Nutrition Program (FNP) empowers Virginians to take charge of their health by eating healthy and living an active lifestyle. We teach limited resource households how to make healthier food choices and become better managers of available food resources for optimal health and growth."
+        }
+    ]
+}

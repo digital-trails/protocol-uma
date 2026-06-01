@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Press play on the training video to continue to learn more information!"
+        },
+        {
+            "type": "Media",
+            "url": "/videos/video3.mp4",
+            "border": true
+        }
+    ]
+}

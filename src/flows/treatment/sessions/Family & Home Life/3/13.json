@@ -1,0 +1,16 @@
+{
+    "header_text": "Loud Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Loud Music"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1AZk7owEM2J5V91afv56x1rxdom3zjESu/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

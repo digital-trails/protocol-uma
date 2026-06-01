@@ -1,0 +1,21 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How would you categorize the area in which you live?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Urban/large city (residing inside of a major city, e.g., Roanoke, Richmond, Virginia Beach)",
+                "Urban/small city/town (residing inside of a small city or town, e.g., Charlottesville, Lynchburg, Salem, Blacksburg)",
+                "Suburban (residing outside of a city or town, e.g., in a county outside but near Charlottesville)",
+                "Rural (residing outside of urbanized areas, not near a city)",
+                "Don't know"
+            ],
+            "selectable": true
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "The Difficult Course",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have enrolled in a data science program offered by your workplace because you think it will be a useful skill to acquire going forward. You know the demand for people with data science experience is increasing, but the program is very... "
+        },
+        {
+            "type": "Entry",
+            "name": "The Difficult Course_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Late night sensation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late night sensation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1xOEaZdmjhMa1dZKtjfWM5xagfKuFXOER/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

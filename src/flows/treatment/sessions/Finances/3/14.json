@@ -1,0 +1,16 @@
+{
+    "header_text": "Savings Scandal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Savings Scandal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/18xsXSeYRnFaB0NuRynhv79IBJK_x7sHn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

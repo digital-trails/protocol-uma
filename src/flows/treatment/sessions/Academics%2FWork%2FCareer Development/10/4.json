@@ -1,0 +1,17 @@
+{
+    "header_text": "Certainty of being correct",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Certainty of being correct_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

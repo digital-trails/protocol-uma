@@ -1,0 +1,16 @@
+{
+    "header_text": "Running in the Cold",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Running in the Cold"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FS-osT_v7dH6pF1URFaIMXwErnTMFWu-/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 4
+}

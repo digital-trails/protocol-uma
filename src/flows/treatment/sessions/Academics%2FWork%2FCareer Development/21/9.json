@@ -1,0 +1,25 @@
+{
+    "header_text": "Important Assignment: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have an assignment at work due next week that your boss and many of your colleagues are going to see. You aren't completely comfortable with the material and worry about how the assignment will go.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel excited to prove myself wrong.",
+                "I am worried about doing the assignment and failing.",
+                "I feel ready to get going with the assignment.",
+                "I will feel disappointed in myself if I don't do good work, but that feeling will pass.",
+                "I feel stupid for asking for help, but I know it will help me produce better work."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Rainy Weather",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rainy Weather"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1UejoAZIzw5j2-fZDO54rqRL0ITIi4iOf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

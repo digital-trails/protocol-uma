@@ -1,0 +1,17 @@
+{
+    "header_text": "Parents Visiting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath and re-focus on hosting the shower. You decide that you can't control your parents'..."
+        },
+        {
+            "type": "Entry",
+            "name": "Parents Visiting_Family & Home Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

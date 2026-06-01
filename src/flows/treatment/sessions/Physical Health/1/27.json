@@ -1,0 +1,16 @@
+{
+    "header_text": "Health evaluation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Health evaluation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1WUA_iuY9HxHRZBVvI8Hq39NskzbzC-0e/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

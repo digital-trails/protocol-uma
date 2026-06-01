@@ -1,0 +1,14 @@
+{
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #1_entry"
+        }
+    ]
+}

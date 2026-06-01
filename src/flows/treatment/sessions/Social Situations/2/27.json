@@ -1,0 +1,16 @@
+{
+    "header_text": "Anniversary Let-down",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anniversary Let-down"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1CgrLjr1VnBJzGXYveoJeXLo40-5Mt3ny/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

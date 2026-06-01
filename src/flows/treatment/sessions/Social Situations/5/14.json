@@ -1,0 +1,16 @@
+{
+    "header_text": "Spotting a friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spotting a friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ed7CaenQ9rbkqDg31nHg13-TRsdjeflf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

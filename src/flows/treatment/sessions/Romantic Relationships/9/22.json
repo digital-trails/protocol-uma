@@ -1,0 +1,16 @@
+{
+    "header_text": "Big Families ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Big Families "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1a_dFMhpbbpL2sucL2bxvmYYpEHxomTlq/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Alternative Contact ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You meet a new staff member in your online meeting for your department and they ask if you have Facebook. When you tell them that you don't have Facebook, they grow quiet. They coud be brainstorming other ways to contact you, which makes you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Alternative Contact _Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

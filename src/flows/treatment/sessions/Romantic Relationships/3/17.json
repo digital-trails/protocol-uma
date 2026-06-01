@@ -1,0 +1,16 @@
+{
+    "header_text": "Going to a Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Going to a Wedding"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FZDhwtssqO1rW3jcyk4NNlMV43KeQy4S/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

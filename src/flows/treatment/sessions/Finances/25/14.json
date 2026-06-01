@@ -1,0 +1,16 @@
+{
+    "header_text": "Affording Expenses",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Affording Expenses"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1HZH-0nM2AWwMrt0gJttn0l5Qxiyelr24/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

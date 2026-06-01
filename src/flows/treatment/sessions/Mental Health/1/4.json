@@ -1,0 +1,16 @@
+{
+    "header_text": "Locked door",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Locked door"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1L06ap5ra_s6MnwpMX2bIkWHmxWYaUpYT/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

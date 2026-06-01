@@ -1,0 +1,16 @@
+{
+    "header_text": "Finish a Long Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finish a Long Run"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1b6SHlzW0ox4gYWPHJ4V0XNGxwHqJO5rg/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Speaking Up at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Speaking Up at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1qGMXNyoVsjti9RZVA8vAZ6RjVRacfgBv/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

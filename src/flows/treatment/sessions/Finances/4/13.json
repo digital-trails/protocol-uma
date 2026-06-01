@@ -1,0 +1,16 @@
+{
+    "header_text": "Worrying About Savings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Worrying About Savings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14E87lNQCbYQYaw2WEZUgqpLVllxzh0qo/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

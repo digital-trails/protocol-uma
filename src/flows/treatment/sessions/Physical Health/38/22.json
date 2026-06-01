@@ -1,0 +1,16 @@
+{
+    "header_text": "Annual checkup results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Annual checkup results"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1BVKNqBpLdgfT2kJpyOrEvhicjUJSFpHZ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

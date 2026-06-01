@@ -1,0 +1,17 @@
+{
+    "header_text": "Visiting Aging Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go home to your parents' home for the holidays and notice that your mother looks frail. You find yourself wondering about her health and whether she's sick. You think her health will probably be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Visiting Aging Family_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Alternative Contact ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Alternative Contact "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PEUKUXMS1lyIs1M8OykJgDxAj2U0uhUM/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1mfPOr__w6g_DX68Qv4rp11wDL15AzfTN/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

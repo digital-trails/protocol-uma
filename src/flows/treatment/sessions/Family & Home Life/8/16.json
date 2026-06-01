@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Over It",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Over It"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_e_EPXNDtdc2m6ukOLI0eBYTAX0iLbKc/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

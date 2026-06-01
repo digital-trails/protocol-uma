@@ -1,0 +1,16 @@
+{
+    "header_text": "Paying for Repairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Paying for Repairs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1iwnSvOtF3QT1_rhG81NkX6UqlQeVh0f4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

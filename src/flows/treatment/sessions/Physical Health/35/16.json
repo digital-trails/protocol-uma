@@ -1,0 +1,16 @@
+{
+    "header_text": "Tingled fingers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tingled fingers"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1fj906rRvObqRqYlvQh_8sC4u8vkYHYJP/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

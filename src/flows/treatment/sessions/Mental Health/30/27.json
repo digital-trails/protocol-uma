@@ -1,0 +1,16 @@
+{
+    "header_text": "Sitting in a Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sitting in a Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/10fLWhto09ulpTOoQ_oICa06UK6vWzttW/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

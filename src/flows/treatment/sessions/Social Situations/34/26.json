@@ -1,0 +1,16 @@
+{
+    "header_text": "Cooking a Casserole",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cooking a Casserole"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12kKvu8IBTJkLrM3hsryH2oaUOq9wkAyI/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

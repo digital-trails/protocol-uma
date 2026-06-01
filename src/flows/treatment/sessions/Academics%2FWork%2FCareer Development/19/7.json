@@ -1,0 +1,16 @@
+{
+    "header_text": "1, 2, 3. Eyes on Me",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "1, 2, 3. Eyes on Me"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1nUDKdq79IsojabL_DGbGTayRJ_gaEEvX/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

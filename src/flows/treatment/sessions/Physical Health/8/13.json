@@ -1,0 +1,16 @@
+{
+    "header_text": "Birthday Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Birthday Party"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1cfjkxrnn1-Ws7c5KzE7-FN0aIqqXiOQF/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

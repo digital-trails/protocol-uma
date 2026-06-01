@@ -1,0 +1,17 @@
+{
+    "header_text": "Coffee shop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are working on a project with a coworker at a small table in a coffee shop, and when your coffee arrives, you accidentally spill it all over their papers, which makes them jump in..."
+        },
+        {
+            "type": "Entry",
+            "name": "Coffee shop_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

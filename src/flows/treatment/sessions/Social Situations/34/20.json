@@ -1,0 +1,16 @@
+{
+    "header_text": "Lunch with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lunch with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1em0l3V7p1ogxMfcVABV3Q6jMzd0__bfK/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

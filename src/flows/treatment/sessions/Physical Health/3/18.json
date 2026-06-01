@@ -1,0 +1,16 @@
+{
+    "header_text": "COVID Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "COVID Worries"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1BxmUUVgj2Iau_pHkovTQetlDHezR_Wkp/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

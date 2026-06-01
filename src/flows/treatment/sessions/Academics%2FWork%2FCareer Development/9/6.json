@@ -1,0 +1,16 @@
+{
+    "header_text": "Brief Introduction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Brief Introduction"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1lgF7Z1c-zfEyeOyad_Bo6EmeBmmYmSe7/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

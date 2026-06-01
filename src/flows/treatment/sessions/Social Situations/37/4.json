@@ -1,0 +1,16 @@
+{
+    "header_text": "Expressing Your Ideas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expressing Your Ideas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1LZX5Q9czPuvVzkKhTglyiF6nhzh1mqA1/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

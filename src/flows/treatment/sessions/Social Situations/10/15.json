@@ -1,0 +1,16 @@
+{
+    "header_text": "Quiet Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quiet Time"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1uPswEtGbVoTygCiTFVT2mLvmuTMOUQ8A/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

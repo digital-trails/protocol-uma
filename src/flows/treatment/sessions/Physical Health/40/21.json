@@ -1,0 +1,16 @@
+{
+    "header_text": "A Toothache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Toothache"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1tx8o8w91aqw3k6CaxI1f-gxpAoV22yp6/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

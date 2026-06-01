@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1WRdSe-A7DF7qtHDLgV4kxPeUKhubKnG1/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

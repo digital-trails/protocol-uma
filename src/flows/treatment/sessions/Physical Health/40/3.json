@@ -1,0 +1,16 @@
+{
+    "header_text": "Running a Mile",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Running a Mile"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Ba88gEkP7CKNLp4OYy0jKaTec5G1fIIh/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

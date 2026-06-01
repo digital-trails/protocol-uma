@@ -1,0 +1,16 @@
+{
+    "header_text": "Letting Others See Your Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Letting Others See Your Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_v0XVyjgJOJpCTokQcFjgQ8I8d4-jNxu/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

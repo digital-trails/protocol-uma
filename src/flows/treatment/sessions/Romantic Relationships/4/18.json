@@ -1,0 +1,16 @@
+{
+    "header_text": "Relationship Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Relationship Worries"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1-1RaTpi3BmK-Ce4IuLJGwNwnNA2Vfeoa/view?usp=share_link"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

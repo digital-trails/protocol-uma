@@ -1,0 +1,16 @@
+{
+    "header_text": "Your Family's Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your Family's Car"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1jkOOfJWbCDVRymQ01TrUAX4_GRkDLWoN/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

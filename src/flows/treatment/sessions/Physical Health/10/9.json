@@ -1,0 +1,17 @@
+{
+    "header_text": "Hiking with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on a weekend hiking trip with a friend. When you reach a steep incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the... "
+        },
+        {
+            "type": "Entry",
+            "name": "Hiking with a Friend_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

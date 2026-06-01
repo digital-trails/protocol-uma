@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Presence",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Presence"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1sVKizgA3QnMOtyy7qNs8X9ndbUMsWmuE/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

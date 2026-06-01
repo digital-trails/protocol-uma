@@ -1,0 +1,16 @@
+{
+    "header_text": "Early Morning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Early Morning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Zc-4xffN0v0XdDSXW-x1NAACedZAqgXQ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

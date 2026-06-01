@@ -1,0 +1,16 @@
+{
+    "header_text": "Not Having Much to Say",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Not Having Much to Say"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1kCPmxpqPwahYN9Zk_mUwXoNnwNeBw6-w/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Jealousy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Jealousy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FFM4xwd8gWBonD31XzmGbV8AX8u5WUDA/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

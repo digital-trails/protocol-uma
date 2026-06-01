@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Function",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Function"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vlJU-VMiYEl9wnZHcIoXPgxfa49YTcF4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

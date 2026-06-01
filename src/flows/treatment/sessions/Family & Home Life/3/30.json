@@ -1,0 +1,16 @@
+{
+    "header_text": "Upset Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Upset Parents"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1LZnhgjX_Ooy4zJ7r99Iydqi6bvIOcszd/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Hiking with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You look around and your friends are tiring too. You decide you will probably be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Hiking with Friends_Physical Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Visiting Neighbors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visiting Neighbors"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14_16MBBgKRM9oZwTGSN9GJblFNuwndpf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

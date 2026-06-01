@@ -1,0 +1,16 @@
+{
+    "header_text": "Deciding to Share a Picture",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deciding to Share a Picture"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Ev1HphDd6ARyBxl2_PUoyWxWlfAh9n7F/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

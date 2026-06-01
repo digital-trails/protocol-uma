@@ -1,0 +1,16 @@
+{
+    "header_text": "Unknown Sensations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unknown Sensations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1TaGhr-WWip-eRu9sYUy8KrsB9UlfG_Im/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

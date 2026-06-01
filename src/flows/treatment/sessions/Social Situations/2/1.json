@@ -1,0 +1,16 @@
+{
+    "header_text": "Suggestion to meet again",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Suggestion to meet again"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1zcSYCq7ymkaCpr9sIJm7rsA3luVq-XEs/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

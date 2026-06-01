@@ -1,0 +1,16 @@
+{
+    "header_text": "An Important Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An Important Presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1pQHZTO39FaMtxe96k3wQ-bwUufBsPYvC/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

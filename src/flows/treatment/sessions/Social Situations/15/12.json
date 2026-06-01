@@ -1,0 +1,16 @@
+{
+    "header_text": "Bumping into someone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bumping into someone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12a320KFU49Q22OyTOvACDVixcRer1v4H/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

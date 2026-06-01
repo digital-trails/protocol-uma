@@ -1,0 +1,25 @@
+{
+    "header_text": "Finding a Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Finding a Home_Finances_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "everyone"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 2
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Financial Resources\n\nThis comprehensive list cultivated by the UVA Faculty and Employee Assistance Program (FEAP) can help you meet your financial needs."
+        }
+    ]
+}

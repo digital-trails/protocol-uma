@@ -1,0 +1,16 @@
+{
+    "header_text": "Favorite watch ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Favorite watch "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1rZmwzVLqwav8NQcIfkgyiLKeBOdqSS-y/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

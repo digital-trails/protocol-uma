@@ -1,0 +1,16 @@
+{
+    "header_text": "A big laugh",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A big laugh"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ROKk7mE-G6EUNhfR7a4vAXrr6UQFpbXw/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

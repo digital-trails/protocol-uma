@@ -1,0 +1,16 @@
+{
+    "header_text": "Hanging Out with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hanging Out with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1fiU4LXhMtwbHsk-TL8j4fPXdxTFpO-rz/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

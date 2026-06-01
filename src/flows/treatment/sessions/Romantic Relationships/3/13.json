@@ -1,0 +1,16 @@
+{
+    "header_text": "Stress in Your Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stress in Your Relationship"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12we_hPc3VBlERJpy5lceauE4EbnAmMSA/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Blurry eyesight",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Blurry eyesight"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1p3MZ2l74Zw8yLG7DGA22YUKqeK1K3i0n/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

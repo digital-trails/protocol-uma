@@ -1,0 +1,22 @@
+{
+    "header_text": "The Elevator",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE ELEVATOR: The building looks old, and as you get on the elevator...\n\nYou think that riding the elevator will be safe."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_elevator_interpretation_4"
+        }
+    ]
+}

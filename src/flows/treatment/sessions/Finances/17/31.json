@@ -1,0 +1,25 @@
+{
+    "header_text": "Fear of Disappointment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are deciding between two jobs, one of them that pays more. You prefer the one that pays less, but your partner has made it clear that they want you to get a job with a high salary. When you think about telling them your decision, you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Fear of Disappointment_Finances_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

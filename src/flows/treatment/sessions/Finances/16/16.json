@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FEAP Food Resources\n\nFood assistance, delivered food resources."
+        }
+    ]
+}

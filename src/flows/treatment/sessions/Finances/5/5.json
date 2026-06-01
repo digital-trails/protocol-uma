@@ -1,0 +1,16 @@
+{
+    "header_text": "Making a Plan",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Making a Plan"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/10FlqcsDlR2eRV8T1RQn48jY5XFXXFTwJ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Meeting New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Meeting New Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vmEFLzq1i5guQSpr0uE5nLlEbZHH1whv/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

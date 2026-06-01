@@ -1,0 +1,16 @@
+{
+    "header_text": "Bill for a fix",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bill for a fix"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1tCizqz0P97OBuOF2WPjjlFPS5gMg05EH/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Critical Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Critical Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/13C46DCNwa01dfLqreKVRIq8Gnv03aKQI/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

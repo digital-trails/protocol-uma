@@ -1,0 +1,16 @@
+{
+    "header_text": "Receiving Recognition",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Receiving Recognition"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1azOE2eRIrdOPl9AdAR61tTkqUFdsq0zB/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

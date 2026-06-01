@@ -1,0 +1,16 @@
+{
+    "header_text": "Headache at the Doctor's Office",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Headache at the Doctor's Office"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1E_zU43NdPQrQs_EbbgIeOVJr1IAQ1b_O/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

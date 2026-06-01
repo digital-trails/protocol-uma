@@ -1,0 +1,25 @@
+{
+    "header_text": "Dry mouth cause",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Considering that you are relatively healthy and don't have many other symptoms, you think that the likelihood that your dry mouth reflects a serious health problem is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dry mouth cause_Physical Health_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "minimal"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

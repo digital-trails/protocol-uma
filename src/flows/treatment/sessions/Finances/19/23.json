@@ -1,0 +1,16 @@
+{
+    "header_text": "Jacket return",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Jacket return"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/18b-tqKcB1o6S6rl8tPxY7UqRfh43e5mH/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

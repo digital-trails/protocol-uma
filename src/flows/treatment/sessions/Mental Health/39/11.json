@@ -1,0 +1,17 @@
+{
+    "header_text": "Heartrate Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When the event gets louder as more people arrive, you consider leaving, but you decide you can handle these feelings and keep on..."
+        },
+        {
+            "type": "Entry",
+            "name": "Heartrate Worries_Mental Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

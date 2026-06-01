@@ -1,0 +1,17 @@
+{
+    "header_text": "Issues While Shopping",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're hosting a dinner at your place with some neighborhood friends. When you go grocery shopping for the event, the price was more than you anticipated, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help..."
+        },
+        {
+            "type": "Entry",
+            "name": "Issues While Shopping_Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

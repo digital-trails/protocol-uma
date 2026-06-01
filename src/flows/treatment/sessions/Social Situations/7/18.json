@@ -1,0 +1,16 @@
+{
+    "header_text": "Bilingual Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bilingual Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vTuw-1aglVPbYE4oaEYbIP6LLuikDSFt/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Reporting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>Civil Rights Division:</strong> The Civil Rights Division enforces federal laws that protect you from discrimination based on your race, color, national origin, disability status, sex, religion, familial status, or loss of other constitutional rights. If you believe your civil rights, or someone else's, have been violated, submit a report using our online form. <a href=\"https://civilrights.justice.gov/\">https://civilrights.justice.gov/</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Discrimination",
+        "=",
+        "Reporting"
+    ]
+}

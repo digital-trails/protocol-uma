@@ -1,0 +1,17 @@
+{
+    "header_text": "Interview anticipation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly..."
+        },
+        {
+            "type": "Entry",
+            "name": "Interview anticipation_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

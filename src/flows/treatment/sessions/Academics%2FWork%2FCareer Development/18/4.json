@@ -1,0 +1,16 @@
+{
+    "header_text": "Supportive Person ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Supportive Person "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1qKLzJvu3ftF-gQS35abj99xkrcgmZQX_/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Writing workshop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Writing workshop"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vQbs0ifLnQbnC1ejFEq6WujzKLqZl7vv/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

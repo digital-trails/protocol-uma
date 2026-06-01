@@ -1,0 +1,16 @@
+{
+    "header_text": "Expensive Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expensive Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1AaIWHmvou3Sgfp-66NqegxPqt6lA-9SY/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

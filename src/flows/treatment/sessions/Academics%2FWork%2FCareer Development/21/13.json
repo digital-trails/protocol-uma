@@ -1,0 +1,25 @@
+{
+    "header_text": "Important Assignment: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have an assignment at work due next week that your boss and many of your colleagues are going to see. You aren't completely comfortable with the material and worry about how the assignment will go.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'll pretend to be sick on the due date so I don't have to do the assignment.",
+                "I don't want to tell my family about how difficult this assignment is, but decide to tell them anyways.",
+                "I want to work on the assignment instead of going to sleep for the night, but I realize it's important to get rest.",
+                "I'll set aside time every day to work on the assignment.",
+                "I'll ask my friends with expertise in this area questions if I don't understand something."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

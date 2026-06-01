@@ -1,0 +1,16 @@
+{
+    "header_text": "Attending Wedding Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Attending Wedding Alone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1NMhgtm8VnCvrZsw5E6INJmkmxBzil_FZ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

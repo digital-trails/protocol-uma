@@ -1,0 +1,16 @@
+{
+    "header_text": "A different haircut",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A different haircut"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1nxCfWyJ_lSYhZLviVa67EuNv-JzlUoEO/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

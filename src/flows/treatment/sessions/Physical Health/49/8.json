@@ -1,0 +1,16 @@
+{
+    "header_text": "Masks with Sensitive Skin",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Masks with Sensitive Skin"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1kxwTqZLKkj_Ga1sxMdjcBk6LLutuz39T/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Dry Throat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dry Throat"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1EYKumlSsrqKHNA6TbZfnrscg0F5KgSYg/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

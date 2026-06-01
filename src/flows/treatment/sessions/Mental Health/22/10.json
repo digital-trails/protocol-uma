@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Lightheaded",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Lightheaded"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DivZOcoKB52Y-av9UMmPiIogDTLacT_W/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

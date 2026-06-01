@@ -1,0 +1,16 @@
+{
+    "header_text": "Unusual views",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unusual views"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1MIRt_i8n5z7nk9CNWYXVsQ6oMzfE70xz/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

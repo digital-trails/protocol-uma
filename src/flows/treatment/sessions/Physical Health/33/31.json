@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nutrition Counseling:\n\nMeet with a Registered Dietitian for individualized guidance on how to nourish yourself."
+        }
+    ]
+}

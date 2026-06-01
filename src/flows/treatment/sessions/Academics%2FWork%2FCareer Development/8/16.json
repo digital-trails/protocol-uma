@@ -1,0 +1,17 @@
+{
+    "header_text": "Quick correction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the end, you remind yourself that occasionally making mistakes does not make you a bad employee. Your boss had corrected you kindly, as was their job, and you feel that the whole interaction went..."
+        },
+        {
+            "type": "Entry",
+            "name": "Quick correction_Academics/Work/Career Development_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

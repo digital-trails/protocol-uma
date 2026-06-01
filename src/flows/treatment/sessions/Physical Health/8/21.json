@@ -1,0 +1,16 @@
+{
+    "header_text": "Poisonous Snakes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Poisonous Snakes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1U2_8uATTliNhBZDx61INANKTKxk7cpTi/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

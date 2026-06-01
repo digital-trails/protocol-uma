@@ -1,0 +1,16 @@
+{
+    "header_text": "Going out in day clothes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Going out in day clothes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Dy28jSdmZo4fX1XDHXxVQVxNVpf54tdw/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

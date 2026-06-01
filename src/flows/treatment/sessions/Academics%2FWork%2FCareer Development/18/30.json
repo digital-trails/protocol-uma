@@ -1,0 +1,16 @@
+{
+    "header_text": "Public speaking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Public speaking"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1un3NKc9Sb0zVmL2t-X9oQ68FQeyI49D6/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

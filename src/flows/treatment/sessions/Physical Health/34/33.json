@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "VDH Family Planning Resources\n\nVisit the Virginia Department of Health Family Planning site for information and services related to reproductive health."
+        }
+    ]
+}

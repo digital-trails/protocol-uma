@@ -1,0 +1,16 @@
+{
+    "header_text": "Home Introductions ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Home Introductions "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1VCybtiOeMs0Sxk93nEyA51k4mVoIITAu/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

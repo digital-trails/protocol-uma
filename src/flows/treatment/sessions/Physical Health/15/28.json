@@ -1,0 +1,16 @@
+{
+    "header_text": "Computer Screen Problems",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Computer Screen Problems"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14SW8n5lb3oYoXJv_Rvnap-Aq51sdmBW9/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

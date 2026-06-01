@@ -1,0 +1,16 @@
+{
+    "header_text": "Optional presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Optional presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1f7AX8AtByV-EKIO86OXhrR2a6P9gCwXU/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Taking Your Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Taking Your Time"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1peJsSeWbW75_7SXUaFUQcsUBkEkp3q7I/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

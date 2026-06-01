@@ -1,0 +1,16 @@
+{
+    "header_text": "Your New Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your New Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1TU-vDyoLAB5--Mx4gvO5P_0Cu9AVyDqC/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

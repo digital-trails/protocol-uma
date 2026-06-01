@@ -1,0 +1,16 @@
+{
+    "header_text": "Stomach Ache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stomach Ache"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1rbCs8iZS6b3LtSyDCOMcEXH8GAlOt4qZ/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

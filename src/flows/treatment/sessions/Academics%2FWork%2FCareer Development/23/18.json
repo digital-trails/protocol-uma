@@ -1,0 +1,16 @@
+{
+    "header_text": "Nerve-wracking presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nerve-wracking presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/16jiyG_dY7BTG2s8QjNuSQJn_RwkLlqXH/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

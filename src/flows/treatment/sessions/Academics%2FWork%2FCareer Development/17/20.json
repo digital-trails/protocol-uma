@@ -1,0 +1,16 @@
+{
+    "header_text": "Deleted Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deleted Project"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1GCrKOzwl1UC_Ekj6ZbzSSgZLWAASM60G/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

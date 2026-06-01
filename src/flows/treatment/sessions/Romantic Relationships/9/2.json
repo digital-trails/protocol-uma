@@ -1,0 +1,16 @@
+{
+    "header_text": "Finding The One",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finding The One"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ugNtH1ppiOXsqiXMIot6I3Eusy8UvLV2/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Social media photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social media photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1sVKizgA3QnMOtyy7qNs8X9ndbUMsWmuE/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

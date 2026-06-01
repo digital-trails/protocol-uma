@@ -1,0 +1,16 @@
+{
+    "header_text": "Office Talk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Office Talk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1EVK1YWntA3eHXiFL5ok7Rw3ZBpkKE_D7/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

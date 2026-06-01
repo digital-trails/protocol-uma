@@ -1,0 +1,17 @@
+{
+    "header_text": "Trusting Yourself ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a project with some coworkers. You give offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're..."
+        },
+        {
+            "type": "Entry",
+            "name": "Trusting Yourself _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

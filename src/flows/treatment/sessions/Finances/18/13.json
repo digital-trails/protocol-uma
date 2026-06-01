@@ -1,0 +1,16 @@
+{
+    "header_text": "House Hunting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "House Hunting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1kUoE9ke0lMNRDE1GMJIouPzHh63zOCXy/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

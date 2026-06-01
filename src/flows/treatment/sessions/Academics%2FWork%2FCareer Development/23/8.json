@@ -1,0 +1,17 @@
+{
+    "header_text": "Coffee shop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After you clean up the mess as best as you can, you realize that their response was a normal, knee-jerk reaction. They say that they are not upset with you, and you believe that they are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Coffee shop_Academics/Work/Career Development_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

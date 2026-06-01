@@ -1,0 +1,16 @@
+{
+    "header_text": "Tripping in Public",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tripping in Public"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/11-uMVO6c3eldXkQ4PgY3t0lVEBXj_ULF/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 8
+}

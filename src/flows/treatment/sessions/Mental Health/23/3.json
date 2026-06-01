@@ -1,0 +1,17 @@
+{
+    "header_text": "Session Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently had to pay a large sum of money toward repairs for your car. This unexpected expense cut into the money you use to pay your therapy copays, and you are concerned about what will happen if you miss sessions to save money. You call the therapy office, and they help you come up with a... "
+        },
+        {
+            "type": "Entry",
+            "name": "Session Costs_Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Outfit",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Outfit"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Tj_Fffv-Mc7x6_jQoPut_j9SUCcoydah/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

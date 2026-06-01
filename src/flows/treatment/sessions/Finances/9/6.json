@@ -1,0 +1,16 @@
+{
+    "header_text": "Budgeting Your Allowance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Budgeting Your Allowance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1st59uAHp21ZsWE6_bcU-Ed2spXBKr23o/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

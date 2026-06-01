@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FEAP Aging Resources\n\nResources for aging needs including temporary in-home care."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Opportunity for Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Opportunity for Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/10fLWhto09ulpTOoQ_oICa06UK6vWzttW/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

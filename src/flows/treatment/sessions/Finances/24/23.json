@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When working on your budget, give yourself a moment to focus on something else, such as listenting to your favorite song."
+        }
+    ]
+}

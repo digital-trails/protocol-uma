@@ -1,0 +1,17 @@
+{
+    "header_text": "Judging Your Performance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Right now you aren't happy, but you think about your group's overall presentation. You realize that it was..."
+        },
+        {
+            "type": "Entry",
+            "name": "Judging Your Performance_Academics/Work/Career Development_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

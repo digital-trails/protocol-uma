@@ -1,0 +1,16 @@
+{
+    "header_text": "Party with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Party with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ooVd4XP2M8uvAgD3jqy3SN9TjXcZXBCO/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

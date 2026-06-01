@@ -1,0 +1,16 @@
+{
+    "header_text": "Spring Allergies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spring Allergies"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1XwVIMD-qlNp532-AByRuhQltoTAlm_qS/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

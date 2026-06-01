@@ -1,0 +1,16 @@
+{
+    "header_text": "A Homemade Gift",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Homemade Gift"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1UoBTJwOaRbMpWrYnOWNPOBzR-axREE4s/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

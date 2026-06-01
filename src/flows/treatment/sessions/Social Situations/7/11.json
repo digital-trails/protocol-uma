@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Self-Confidence",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Self-Confidence"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PNlqc0Jg4bm9KOsakVSsKmJDaQwqLGrB/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

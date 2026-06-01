@@ -1,0 +1,16 @@
+{
+    "header_text": "The New City",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The New City"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vmg4TsmrtbYfXhY-wPcqKCSfD3CWS8Kl/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

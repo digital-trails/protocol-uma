@@ -1,0 +1,17 @@
+{
+    "header_text": "Spending Time With Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see... "
+        },
+        {
+            "type": "Entry",
+            "name": "Spending Time With Family_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

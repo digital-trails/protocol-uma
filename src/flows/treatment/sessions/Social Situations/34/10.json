@@ -1,0 +1,16 @@
+{
+    "header_text": "Your Closest Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your Closest Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1j-GXdH0RVew2yK6cL-6R3AjG0Sq_ydWc/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

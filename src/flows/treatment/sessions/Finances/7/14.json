@@ -1,0 +1,16 @@
+{
+    "header_text": "Attending a Show",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Attending a Show"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1eIU_nKJ0QOc8XPy4BK5sTlOzdsWp62uQ/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

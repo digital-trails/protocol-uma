@@ -1,0 +1,16 @@
+{
+    "header_text": "Coffee shop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coffee shop"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1g0Aaap92WMbAwnbJvE20t419aXKMEHdi/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

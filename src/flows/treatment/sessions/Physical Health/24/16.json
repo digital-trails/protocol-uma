@@ -1,0 +1,16 @@
+{
+    "header_text": "Friendly Neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friendly Neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14_16MBBgKRM9oZwTGSN9GJblFNuwndpf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

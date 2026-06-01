@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Distancing Indoors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Distancing Indoors"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ZaHC8JkZK3uAQbvp8hBPnP6YtIA2v7Kk/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

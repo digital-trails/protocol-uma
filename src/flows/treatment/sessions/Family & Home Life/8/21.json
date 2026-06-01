@@ -1,0 +1,17 @@
+{
+    "header_text": "Divorced Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're hosting a party and both your parents are attending. They're divorced and they sometimes have trouble getting along. During the event, they bicker but you are able to concentrate on your..."
+        },
+        {
+            "type": "Entry",
+            "name": "Divorced Parents_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

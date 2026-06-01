@@ -1,0 +1,16 @@
+{
+    "header_text": "Work-Study Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work-Study Balance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/11q5pKXoPWPhEb3Jj9q5NvtB1VcTrqt3e/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

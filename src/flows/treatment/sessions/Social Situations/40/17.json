@@ -1,0 +1,16 @@
+{
+    "header_text": "Running with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Running with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1eJ-08i7HtFvPYHdRnELsblgm6tY079fj/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

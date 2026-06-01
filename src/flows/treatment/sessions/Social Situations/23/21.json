@@ -1,0 +1,17 @@
+{
+    "header_text": "Alone at Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In between meetings, you have time to grab lunch at a cafe near your next meeting's location. When you walk in, you see that most people are sitting with a friend, but you don't have anybody to eat with. You decide that it's normal to eat alone and enjoy your...  "
+        },
+        {
+            "type": "Entry",
+            "name": "Alone at Lunch_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

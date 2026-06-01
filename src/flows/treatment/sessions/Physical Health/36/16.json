@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "UMA Primary Care Physician\n\nDon't hesitate to talk to your primary care physician about your physical health."
+        }
+    ]
+}

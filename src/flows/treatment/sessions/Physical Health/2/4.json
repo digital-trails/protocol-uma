@@ -1,0 +1,16 @@
+{
+    "header_text": "Appointment with the doctor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Appointment with the doctor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1kpVx-RP6RkIBeO0BP6bI-6pktQV171VI/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

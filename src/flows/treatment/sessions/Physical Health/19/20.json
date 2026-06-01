@@ -1,0 +1,16 @@
+{
+    "header_text": "Sweat Stains",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sweat Stains"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Wch_kcxO-_MSrBd4tyGQsC_dXyOttIIF/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

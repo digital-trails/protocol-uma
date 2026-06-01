@@ -1,0 +1,16 @@
+{
+    "header_text": "Confronting a Friend ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confronting a Friend "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Vg9pDOIb4D_9uk_FU-PN67RDhh3URJqT/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

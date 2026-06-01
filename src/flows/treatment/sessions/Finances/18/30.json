@@ -1,0 +1,16 @@
+{
+    "header_text": "Managing Your Credit Card",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Managing Your Credit Card"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1uRGDET4-zqSsG6BOcCCWUfiXM7AOEbHs/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

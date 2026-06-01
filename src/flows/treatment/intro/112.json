@@ -1,0 +1,14 @@
+{
+    "header_text": "Contributing to a discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Contributing to a discussion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1JLyALw0FAi4CqbIXE3sRzXwYRToDyEgw/view?usp=sharing"
+        }
+    ]
+}

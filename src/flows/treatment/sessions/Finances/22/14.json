@@ -1,0 +1,16 @@
+{
+    "header_text": "Session Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Session Costs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1yu9h9aas60Qlgw4LN5PXrYPCRmTlEye4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

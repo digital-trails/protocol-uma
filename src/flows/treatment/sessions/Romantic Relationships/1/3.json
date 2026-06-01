@@ -1,0 +1,29 @@
+{
+    "header_text": "Texting Someone You Like",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "They probably asked for your phone number because"
+        },
+        {
+            "type": "Buttons",
+            "name": "Texting Someone You Like_Romantic Relationships_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "They want to ask you for a favor.",
+                "They think you are attractive."
+            ],
+            "column_Count": 1,
+            "correct_value": "They think you are attractive."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

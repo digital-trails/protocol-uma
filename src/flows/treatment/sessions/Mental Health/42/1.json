@@ -1,0 +1,12 @@
+{
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In this exercise, help the Hoos Think Calmly team come up with new training stories that may be included in our future program to help other participants!"
+        }
+    ]
+}

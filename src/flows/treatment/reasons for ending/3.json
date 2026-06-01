@@ -1,0 +1,10 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "To the extent you completed the program..."
+        }
+    ]
+}

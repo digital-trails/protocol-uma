@@ -1,0 +1,16 @@
+{
+    "header_text": "Jokes with Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Jokes with Friends "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12y3RCcUA6c2px4Via0vV9blbTbjsS6yw/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

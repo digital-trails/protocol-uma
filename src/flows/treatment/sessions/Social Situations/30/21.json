@@ -1,0 +1,16 @@
+{
+    "header_text": "Trick or Treat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trick or Treat"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1rrV-LGMh61x6R9PewBmeTL1d64KcHetZ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

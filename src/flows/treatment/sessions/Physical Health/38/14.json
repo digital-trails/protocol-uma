@@ -1,0 +1,16 @@
+{
+    "header_text": "Trampoline Safety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trampoline Safety"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1CUsrIf1BGnnhCTX1GHmaVbo11NgeEMgr/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

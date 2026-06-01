@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Rushed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Rushed"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14ZIwQ896HvOjHOGbQ8gdomNAa3eKx7B_/view?usp=share_link"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

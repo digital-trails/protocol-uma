@@ -1,0 +1,16 @@
+{
+    "header_text": "Retirement Funds",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Retirement Funds"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1zPgAUvOWnt9u_VBVuY7G97mzMIGDpKs8/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

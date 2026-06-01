@@ -1,0 +1,17 @@
+{
+    "header_text": "Meeting New People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You started working at a new school this fall. Since classes are all online, you haven't been able to meet any of your colleagues in person. You have seen some of them hanging out and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Meeting New People_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

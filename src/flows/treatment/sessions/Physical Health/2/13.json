@@ -1,0 +1,16 @@
+{
+    "header_text": "Blood test results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Blood test results"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1op21VnIDCX_kpphMiw4zXhVcpVx_Znwn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

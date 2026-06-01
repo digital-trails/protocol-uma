@@ -1,0 +1,16 @@
+{
+    "header_text": "Morning meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Morning meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ugNcKK4aK5sfykfGJelCbC0BlHQmzJue/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

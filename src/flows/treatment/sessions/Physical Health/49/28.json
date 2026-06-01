@@ -1,0 +1,25 @@
+{
+    "header_text": "COVID Confrontation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a cold and since you tested negative for COVID, you decided to go back to work. You can't help but cough a few times throughout the day, and when you're about to leave a coworker confronts you, accusing you of coming to work with COVID. You feel like that person must be going through a stressful..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "COVID Confrontation_Physical Health_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "time"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

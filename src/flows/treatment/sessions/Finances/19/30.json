@@ -1,0 +1,16 @@
+{
+    "header_text": "Party Outfit",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Party Outfit"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/18egshSZOxNQd_tYNAeaDqytaOWFm2FuV/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

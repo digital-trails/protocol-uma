@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Family & Home Life",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Oftentimes, establishing boundaries improves relationships."
+        }
+    ]
+}

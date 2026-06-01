@@ -1,0 +1,17 @@
+{
+    "header_text": "Deleted Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath and decide to tell your boss about what happened. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Deleted Project_Mental Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

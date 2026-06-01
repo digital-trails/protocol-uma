@@ -1,0 +1,16 @@
+{
+    "header_text": "A loud sound",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A loud sound"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/112L-8dcWTlW0PBIwlzQ1tji-mxaOJI19/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

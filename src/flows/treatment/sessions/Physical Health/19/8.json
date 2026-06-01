@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner Party Supplies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner Party Supplies"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1QevesjiyIZoUiGS00ScGoNoxtScdTp8W/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

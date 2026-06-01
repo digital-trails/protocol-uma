@@ -1,0 +1,16 @@
+{
+    "header_text": "Applying to Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Applying to Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12wCJ5Ffbo2FQWJoyCCjGdJUCGOFpqs8y/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Helping an elder neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Helping an elder neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1B36NDbsAD14_1cBxKfNBFE2bacoiiIA-/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

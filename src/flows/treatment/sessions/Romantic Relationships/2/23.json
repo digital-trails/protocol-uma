@@ -1,0 +1,16 @@
+{
+    "header_text": "Anticipating a date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anticipating a date"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FccvJOxJ1IrfcxS0GzHIlNxNV5GiBH3P/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

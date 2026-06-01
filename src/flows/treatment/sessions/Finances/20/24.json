@@ -1,0 +1,16 @@
+{
+    "header_text": "Buying New Clothes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Buying New Clothes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1KQCuxX95_1QzsNqkKcSAiu6i65pzXcEX/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

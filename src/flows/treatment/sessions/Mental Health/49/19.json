@@ -1,0 +1,16 @@
+{
+    "header_text": "Picture with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Picture with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1NvTM1g3vx1Kut8y_4vvBJo79qKHzUztk/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

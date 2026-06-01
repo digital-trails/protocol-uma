@@ -1,0 +1,16 @@
+{
+    "header_text": "Savings Account",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Savings Account"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ntIIxm81GLLVv4ADzPrrHkj2df_z9XrL/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

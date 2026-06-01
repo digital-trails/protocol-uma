@@ -1,0 +1,16 @@
+{
+    "header_text": "A welcome greeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A welcome greeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1aYVo11BbHjCNVlQCgjgs7aqhzmTaikXj/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

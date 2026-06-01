@@ -1,0 +1,16 @@
+{
+    "header_text": "Swimming laps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Swimming laps"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1VALnSYTdN8clzOrVZO4oEh1vWMUO7WgK/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

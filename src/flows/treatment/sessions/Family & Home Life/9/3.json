@@ -1,0 +1,17 @@
+{
+    "header_text": "Travel decisions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are considering multiple options for where to go for vacation. You have only a little bit of information about each potential destination before you make your choice. When you decide, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Travel decisions_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

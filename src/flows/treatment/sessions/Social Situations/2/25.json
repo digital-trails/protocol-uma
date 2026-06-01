@@ -1,0 +1,25 @@
+{
+    "header_text": "Practicing presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Practicing presentation_Social Situations_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "admirable"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

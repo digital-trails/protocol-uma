@@ -1,0 +1,19 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How did you hear about the program?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "My provider told me about it",
+                "I saw a sign on the wall in the lobby or patient room",
+                "!Other:"
+            ],
+            "selectable": true
+        }
+    ]
+}

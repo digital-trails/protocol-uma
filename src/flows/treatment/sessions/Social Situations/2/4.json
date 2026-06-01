@@ -1,0 +1,16 @@
+{
+    "header_text": "Dealing with Group Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dealing with Group Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1MSvkZ7ilWBOwRh_oL2pAafze77-a_M3n/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pool Time"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14PpW4hP6WC0D2w8vTG9u7dihy5qj4aKs/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Affording Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Affording Therapy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1oOjp17AzniUmJnuYe-gQ8IiWi4W8RJ71/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

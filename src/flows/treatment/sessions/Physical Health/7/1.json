@@ -1,0 +1,16 @@
+{
+    "header_text": "Learning how to ski",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Learning how to ski"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/17uXb5H0kSMesHVAR7r1_6NraiAfQA0yi/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

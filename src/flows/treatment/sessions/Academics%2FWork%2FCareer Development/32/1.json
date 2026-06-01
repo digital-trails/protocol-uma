@@ -1,0 +1,16 @@
+{
+    "header_text": "Waiting for Big News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Waiting for Big News"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1N6vR25DLC0FZk7m0Kj9cqT3vnyjdyQOA/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

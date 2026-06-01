@@ -1,0 +1,16 @@
+{
+    "header_text": "Truthful Texting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Truthful Texting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1XmEF3Y_EVn1lonn_hWKIbtSjgRFn_dbg/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Comparing Yourself to Others",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comparing Yourself to Others"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1qYR_sw_sAKU_sUueHbH0iJ5hWVTrmZeX/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Overhearing an Argument",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Overhearing an Argument"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1g5l905rSslaK-uHj6vY5LZpSy42h1tjN/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

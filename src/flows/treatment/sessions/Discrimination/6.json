@@ -1,0 +1,16 @@
+{
+    "header_text": "Allyship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>Talking About Race:</strong> Conversations about race are important - here's how you can do them right. <a href=\"https://nmaahc.si.edu/learn/talking-about-race\">https://nmaahc.si.edu/learn/talking-about-race</a><br><br><strong>The Guide to Allyship:</strong> Interested in learning what it takes to be an effective ally? Here's a guide. <a href=\"https://guidetoallyship.com/\">https://guidetoallyship.com/</a><br><br><strong>How Organizations Can Support the Mental Health of Black Employees:</strong> Here's how you can support the mental health of your colleagues that identify as Black. <a href=\"https://hbr.org/2020/06/how-organizations-can-support-the-mental-health-of-black-employees\">https://hbr.org/2020/06/how-organizations-can-support-the-mental-health-of-black-employees</a><br><br><strong>Workplace Mental Health for Asian American Professionals:</strong> Learn about the challenges that people who identify as Asian American face in the workplace - and how they overcome them. <a href=\"https://www.mindsharepartners.org/post/workplace-mental-health-for-asian-american-professionals-featuring-insights-from-employees-at-adobe\">https://www.mindsharepartners.org/post/workplace-mental-health-for-asian-american-professionals-featuring-insights-from-employees-at-adobe</a><br><br><strong>How to Support Asian American colleagues amid the recent wave of anti-Asian violence:</strong> Here's how you can support your colleagues that identify as Asian American. <a href=\"https://www.cnbc.com/2021/02/19/how-to-support-asian-american-colleagues-amid-anti-asian-violence.html\">https://www.cnbc.com/2021/02/19/how-to-support-asian-american-colleagues-amid-anti-asian-violence.html</a><br><br><strong>Allies and Antiracism:</strong> Project Ready is a free online professional development curriculum provides information about how to be an ally and engage in anti-racist work. <a href=\"https://ready.web.unc.edu/\">https://ready.web.unc.edu/</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Discrimination",
+        "=",
+        "Allyship"
+    ]
+}

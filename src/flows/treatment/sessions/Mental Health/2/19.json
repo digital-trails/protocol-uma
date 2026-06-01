@@ -1,0 +1,16 @@
+{
+    "header_text": "Being a Parent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being a Parent"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1l-0RqRBinZMdVZ2IJnJYWMKbDwph54bS/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

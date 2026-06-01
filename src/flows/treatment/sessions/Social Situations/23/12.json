@@ -1,0 +1,16 @@
+{
+    "header_text": "Inside Jokes ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Inside Jokes "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1828HR7oyHuDJpNFSn5JmLlYAZ24vA7x7/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

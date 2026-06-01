@@ -1,0 +1,16 @@
+{
+    "header_text": "Annual physical exam",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Annual physical exam"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1gfUANnECP3LDzTjUtm_9lBpdAe3s4Xyw/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

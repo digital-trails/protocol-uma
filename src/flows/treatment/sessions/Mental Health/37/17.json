@@ -1,0 +1,16 @@
+{
+    "header_text": "One-On-One Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One-On-One Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1XdpsyI2ipYQdebyRJI6icWGBOLJlNXCD/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

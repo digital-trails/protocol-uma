@@ -1,0 +1,16 @@
+{
+    "header_text": "A scratchy throat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A scratchy throat"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/118UoiMp2MPYeDFHJgRZF-D2-TtLE53Ov/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

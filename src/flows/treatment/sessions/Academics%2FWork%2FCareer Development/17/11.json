@@ -1,0 +1,16 @@
+{
+    "header_text": "Writing Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Writing Project"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ZdlotRy46kMOko2PYg-y4oaDD1yOaad1/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

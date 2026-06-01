@@ -1,0 +1,25 @@
+{
+    "header_text": "Paying Bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rent for the next month is due soon. You’ve been under financial stress lately, and you don't think you have enough money to make your rent... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Paying Bills_Finances_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "payment"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

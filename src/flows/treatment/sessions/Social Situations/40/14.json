@@ -1,0 +1,16 @@
+{
+    "header_text": "A heated discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A heated discussion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DEZz52RsghdgI_jZTMn-mx0br1fwpFru/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

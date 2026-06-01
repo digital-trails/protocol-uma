@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Physical Activity Basics\n\nRegular physical activity is one of the most important things you can do for your health. Learn more about it here."
+        }
+    ]
+}

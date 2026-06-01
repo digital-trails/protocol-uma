@@ -1,0 +1,16 @@
+{
+    "header_text": "Flashing movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Flashing movie"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1SjRDhO4HJ_WO82IWqrR9SG8vahCwKzNn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

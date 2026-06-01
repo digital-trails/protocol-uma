@@ -1,0 +1,16 @@
+{
+    "header_text": "Practicing presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Practicing presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Cw3oPXTNc-8SRhdtrmQYyiTvDaszARPN/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

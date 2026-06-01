@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Pressure Going Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Pressure Going Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/10IGnyYUM6HhVHrjyLQWr8FqH_2riVqrW/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Smelly Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Smelly Lunch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Xy_Atc0CRVipJzZ4bR5RCYHdQORn6Yxp/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

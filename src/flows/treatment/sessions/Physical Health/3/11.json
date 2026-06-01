@@ -1,0 +1,16 @@
+{
+    "header_text": "Sudden noise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sudden noise"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1EYgCsAXuhxtIYuCSSWKugZP_JiM8jjqz/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

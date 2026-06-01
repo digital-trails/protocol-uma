@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Ready for a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Ready for a Date"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1n_bcpbFSXquY0KQS_zn-LiEMPHpcDK0w/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

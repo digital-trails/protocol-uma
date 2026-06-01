@@ -1,0 +1,16 @@
+{
+    "header_text": "Intrusive Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Intrusive Thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1lb5unRFMzlCZwR4qVYPDwPXdw7evicTa/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

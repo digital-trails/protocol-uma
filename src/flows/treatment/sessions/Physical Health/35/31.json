@@ -1,0 +1,16 @@
+{
+    "header_text": "Dry mouth cause",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dry mouth cause"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1IeejxodAEOPnBK-2VdYiVAvRH6sKjGMd/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

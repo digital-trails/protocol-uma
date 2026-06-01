@@ -1,0 +1,16 @@
+{
+    "header_text": "Out on a boat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Out on a boat"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1NC-kP-pSY9wJdrgbZnKbNcCzbSV962qB/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

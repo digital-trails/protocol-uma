@@ -1,0 +1,17 @@
+{
+    "header_text": "Taking Your Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Taking Your Time_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

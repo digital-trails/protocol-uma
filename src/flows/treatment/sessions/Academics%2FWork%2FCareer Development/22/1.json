@@ -1,0 +1,16 @@
+{
+    "header_text": "Judging Your Performance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Judging Your Performance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14a4DahQYPIJ3NTQ9Unf1v00amnMGcw0k/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 0
+}

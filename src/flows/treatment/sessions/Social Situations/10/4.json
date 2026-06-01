@@ -1,0 +1,17 @@
+{
+    "header_text": "Social Media Scores",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently downloaded a social media app, and when you look at your score compared to other people you know, you notice that yours is really low. If anyone sees your score, they will know that you don't use the app as much as them. This makes you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Social Media Scores_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

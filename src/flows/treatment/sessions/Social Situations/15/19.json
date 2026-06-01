@@ -1,0 +1,16 @@
+{
+    "header_text": "The Soccer Tournament",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The Soccer Tournament"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PQ_kdmKXsfTKUUEZbyfP4dhmzJiKXw8g/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

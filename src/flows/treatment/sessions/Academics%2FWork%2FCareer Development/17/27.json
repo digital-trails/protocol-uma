@@ -1,0 +1,16 @@
+{
+    "header_text": "Completion Complications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Completion Complications"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1HUpZhRLel0QTYYZM64ONySSJM68ju4jm/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

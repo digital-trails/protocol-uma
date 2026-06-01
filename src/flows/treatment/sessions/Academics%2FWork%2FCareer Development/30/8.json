@@ -1,0 +1,16 @@
+{
+    "header_text": "Finishing Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finishing Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12ozsRqQm34HuapdP-IpswqSXrE7BODWH/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

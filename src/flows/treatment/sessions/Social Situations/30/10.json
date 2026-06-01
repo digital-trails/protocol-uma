@@ -1,0 +1,29 @@
+{
+    "header_text": "Friendships in the Future",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about your retirement, your friends"
+        },
+        {
+            "type": "Buttons",
+            "name": "Friendships in the Future_Social Situations_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Stay an important part of your life.",
+                "Eventually fade out of the picture."
+            ],
+            "column_Count": 1,
+            "correct_value": "Eventually fade out of the picture."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

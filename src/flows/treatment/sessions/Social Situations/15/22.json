@@ -1,0 +1,16 @@
+{
+    "header_text": "The Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1v_4FGXs96Yggu3t319aUfGuvOfo--Ji7/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

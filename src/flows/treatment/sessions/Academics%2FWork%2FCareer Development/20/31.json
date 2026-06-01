@@ -1,0 +1,16 @@
+{
+    "header_text": "Bad rumor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bad rumor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Ufz-pbEsTswKD1WwWeGUqfBKkpWje2t7/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Visiting Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A long weekend is coming up and you planned to travel home to visit family. However, this morning you found out that you were exposed to someone who tested positive for COVID. You are vaccinated, but unsure of your risk for contracting COVID and possibly passing it onto your family. You think your family will understand if you decide not to come home in order to keep them... "
+        },
+        {
+            "type": "Entry",
+            "name": "Visiting Family_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

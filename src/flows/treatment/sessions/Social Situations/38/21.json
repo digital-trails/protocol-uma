@@ -1,0 +1,16 @@
+{
+    "header_text": "Important opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Important opinion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1sS8e3ZmixCVH2YAFPuVlOAoIhpt-vfWE/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

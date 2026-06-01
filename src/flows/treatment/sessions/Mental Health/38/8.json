@@ -1,0 +1,17 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You apologize to your partner, and volunteer to go get sunscreen somewhere. Your partner thanks you for going, and is not... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pool Time_Mental Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "First time ice skating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "First time ice skating"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DDUPUz1PJYIlmUsQ4fi7k8l6xKAqzb0q/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

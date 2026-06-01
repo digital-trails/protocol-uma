@@ -1,0 +1,16 @@
+{
+    "header_text": "Train of thought",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Train of thought"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1PHmQe4AQ2pdApKjmB9uPD73GJXIyik1b/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

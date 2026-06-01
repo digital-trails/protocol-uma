@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner party invitation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner party invitation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1s0lSdcl9afdDlvTXYzKPm_70WTjqmo3Z/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Reconnecting With People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reconnecting With People"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1oRVHiCteKOP5kuq94IS2VDj-UvycRI7V/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

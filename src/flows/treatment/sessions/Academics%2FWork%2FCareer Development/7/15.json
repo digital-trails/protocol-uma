@@ -1,0 +1,25 @@
+{
+    "header_text": "Deleted section",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently turned in a manuscript to a research journal. You decide to re-read your submitted manuscript, and realize that you accidentally deleted a section you meant to include in the paper. Given that you accidentally made this deletion, you think that you are likely to recieve positive..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Deleted section_Academics/Work/Career Development_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "feedback"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

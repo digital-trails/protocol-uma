@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Feedback ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Feedback "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1qWNftiUjp_6PFO-bW7sN6OLGfcD-I8OY/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

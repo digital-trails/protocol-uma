@@ -1,0 +1,16 @@
+{
+    "header_text": "Putting Yourself Out There",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Putting Yourself Out There"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/175t4xW0IN99gRfCfKY3yXEMDERREEH5-/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

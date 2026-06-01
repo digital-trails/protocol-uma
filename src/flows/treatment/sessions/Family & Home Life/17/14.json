@@ -1,0 +1,16 @@
+{
+    "header_text": "Differing Beliefs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Differing Beliefs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1V9enBLw4iWozyu0nY4pNLSUJ4-RiRp_s/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

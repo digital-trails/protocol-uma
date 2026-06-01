@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Write down your feelings and validate every one you express.  Remember that there are no \"good\" or \"bad\" emotions, although it can be helpful to pinpoint the source of your emotions to understand the function they are serving. "
+        }
+    ]
+}

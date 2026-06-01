@@ -1,0 +1,16 @@
+{
+    "header_text": "Treating Yourself",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Treating Yourself"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1zr-ojLmvOUbAd2xJRvcq3QG2d7z_oRgu/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

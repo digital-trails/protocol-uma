@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Try writing about your feelings and thoughts in order to understand them more clearly."
+        }
+    ]
+}

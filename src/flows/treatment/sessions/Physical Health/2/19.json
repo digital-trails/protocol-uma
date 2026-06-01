@@ -1,0 +1,16 @@
+{
+    "header_text": "Weekend horseback riding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Weekend horseback riding"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1gp4EB_H5pnsJTvhJfzP4qEeoWkq9bVqP/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

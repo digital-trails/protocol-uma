@@ -1,0 +1,16 @@
+{
+    "header_text": "Managing Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Managing Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1GUeW4GffQB953R9gzA4NwFtSZk-7zD1l/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

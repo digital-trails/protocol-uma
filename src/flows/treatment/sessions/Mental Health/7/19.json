@@ -1,0 +1,16 @@
+{
+    "header_text": "An Invitation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An Invitation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1b0lHedBVO7x_rukR1faGc_vfaGCmTSgj/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

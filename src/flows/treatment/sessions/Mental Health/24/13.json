@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Numb",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Numb"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1lb5unRFMzlCZwR4qVYPDwPXdw7evicTa/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

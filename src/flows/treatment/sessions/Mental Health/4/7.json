@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Called Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Called Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1fZ5gwS6hpP38y6RtFHzIC7gnpeeFtrLF/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

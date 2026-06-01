@@ -1,0 +1,16 @@
+{
+    "header_text": "Community",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>Womens Initiative - Sister Circle:</strong> Sister Circle offers a social support group to meet the needs of people from across the African diaspora who identify as women in various ways: one of which being, recognizing the unique mental health challenges and trauma created by anti-Black racism and systemic oppression of BIPOC individuals. <a href=\"https://thewomensinitiative.org/sister-circle\">https://thewomensinitiative.org/sister-circle</a><br><br><strong>PFLAG:</strong> \"First and largest\" organization for connected to the LGTBQ+ community with over 400 chapters, including one in Charlottesvile. <a href=\"https://pflagblueridge.org/charlottesville.html\">https://pflagblueridge.org/charlottesville.html</a><br><br><strong>The Activists' Guide:</strong> The Activists' Guide is a Charlottesville based organization that hat connects activists across the community and provides with resources such as activists' techniques and a newsletter, and more! <a href=\"https://activistsguide.org/\">https://activistsguide.org/</a><br><br><strong>VDH Division of Multicultural Health and Community Engagement:</strong> Programs and partnerships to empower racial and ethnic minority communities to promote awareness of health inequities. <a href=\"https://www.vdh.virginia.gov/health-equity/division-of-multicultural-health-and-community-engagement/\">https://www.vdh.virginia.gov/health-equity/division-of-multicultural-health-and-community-engagement/</a><br><br><strong>National Alliance for Hispanic Health:</strong> Culturally based trauma supportive services and culturally responsive counseling services. <a href=\"https://www.healthyamericas.org/\">https://www.healthyamericas.org/</a><br><br><strong>Equality VA:</strong> Leading statewide non-partisan advocacy, outreach, and educational organizations seeking equality for LGBTQ Virginians. <a href=\"https://equalityvirginia.org/\">https://equalityvirginia.org/</a><br><br><strong>Side by Side:</strong> Weekly curriculum based support groups for LGBTQ youth ages 14-20. Information and referrals for youth and families; training opportunities available for professionals and community agencies. <a href=\"https://www.sidebysideva.org/\">https://www.sidebysideva.org/</a><br><br><strong>UVA Teen & Young Adult Health Center:</strong> Comprehensive healthcare services to teens and young adults up to age 26, including transgender health services, mental health assessment, eating disorder assessment and treatment and mental health assessments. Most insurance accepted and financial assistance is available. <a href=\"https://uvahealth.com/services/lgbtq\">https://uvahealth.com/services/lgbtq</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Discrimination",
+        "=",
+        "Community"
+    ]
+}

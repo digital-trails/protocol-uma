@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Central Virginia Clinicans of Color Network (CVCCN)\n\nCVCCN is a supportive network that empowers clinicians of color and builds capacity for providing culturally responsive mental health treatment."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "header_text": "Stress in Your Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking about your future with your spouse, you see yourself"
+        },
+        {
+            "type": "Buttons",
+            "name": "Stress in Your Relationship_Romantic Relationships_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Mostly cooperating.",
+                "Arguing more."
+            ],
+            "column_Count": 1,
+            "correct_value": "Arguing more."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

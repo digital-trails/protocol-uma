@@ -1,0 +1,23 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Technical problems with the mobile app (e.g., app crashing or freezing) made it difficult\nto use."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all",
+                "Slightly",
+                "Somewhat",
+                "Mostly",
+                "Very",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "tech_problems"
+        }
+    ]
+}

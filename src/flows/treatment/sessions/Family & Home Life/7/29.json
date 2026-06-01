@@ -1,0 +1,16 @@
+{
+    "header_text": "Absent Roommate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Absent Roommate"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1pOKjumfIC5ABON2fMxlUDPuMpMP6LjE4/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

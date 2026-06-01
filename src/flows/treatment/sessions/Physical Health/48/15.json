@@ -1,0 +1,16 @@
+{
+    "header_text": "Unmasked Neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unmasked Neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1nUmCRu4wnqWaowKbc8AkUMsjxFN1g9BU/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

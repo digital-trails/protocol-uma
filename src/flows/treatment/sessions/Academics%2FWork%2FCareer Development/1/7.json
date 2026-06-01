@@ -1,0 +1,16 @@
+{
+    "header_text": "New work opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New work opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1OpOhL2p65K4b_HCgRQpLm16ZlkzUCe2s/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

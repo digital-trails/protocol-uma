@@ -1,0 +1,16 @@
+{
+    "header_text": "Thinking about Flying",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking about Flying"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1wnxiRUTD_wAP7gp1JGI-BwXD0_dNvvjq/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

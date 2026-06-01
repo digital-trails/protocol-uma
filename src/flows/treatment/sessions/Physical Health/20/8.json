@@ -1,0 +1,16 @@
+{
+    "header_text": "Health and aging",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Health and aging"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1WQ98TKdbZ08AjbW2rG-0WPXkWDfK2eYl/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

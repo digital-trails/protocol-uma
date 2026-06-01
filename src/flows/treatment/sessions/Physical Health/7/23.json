@@ -1,0 +1,16 @@
+{
+    "header_text": "Cold Weather",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cold Weather"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1wf6c8LLSodZ_5OvMkPTLXeXSwKibzPvZ/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

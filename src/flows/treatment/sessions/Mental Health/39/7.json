@@ -1,0 +1,16 @@
+{
+    "header_text": "Waking Up Ready",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Waking Up Ready"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1C9qzCVMZ7rrXL8Njc7rKFEyQWGercs6i/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

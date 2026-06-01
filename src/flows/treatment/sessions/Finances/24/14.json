@@ -1,0 +1,16 @@
+{
+    "header_text": "Break Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Break Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1jjfvM58iyLIIgV9YT_iTmezJo_ZUcvF-/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

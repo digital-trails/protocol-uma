@@ -1,0 +1,16 @@
+{
+    "header_text": "Food Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Food Costs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1EiUCRYYf5uaji37PRSH_mjjnF5O5RPgn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

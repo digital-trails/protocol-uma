@@ -1,0 +1,16 @@
+{
+    "header_text": "Differing opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Differing opinion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/13jEwppiT8qS5mOqlYMd5R6Jvm04tUxpq/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FEAP Transportation Resources\n\nBus and other transportation services."
+        }
+    ]
+}

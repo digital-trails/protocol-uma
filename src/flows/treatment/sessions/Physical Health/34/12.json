@@ -1,0 +1,16 @@
+{
+    "header_text": "Finger cut",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finger cut"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1nOyp1h4xXHZTxnQALqhJ08E4YeNJ6C6p/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

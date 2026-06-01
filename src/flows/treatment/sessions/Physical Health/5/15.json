@@ -1,0 +1,25 @@
+{
+    "header_text": "Colleague Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to give a presentation for your coworkers today. When you stand up in front of your colleagues, you feel your cheeks get hot and your hands start to tremble. You wonder if you are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Colleague Presentation_Physical Health_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ill"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

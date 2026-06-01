@@ -1,0 +1,16 @@
+{
+    "header_text": "Theater group thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Theater group thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1LReBi4l_MLl7STd2g4biqxzTxAx9bA4a/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

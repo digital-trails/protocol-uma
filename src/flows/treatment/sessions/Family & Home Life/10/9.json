@@ -1,0 +1,17 @@
+{
+    "header_text": "Bringing a New Friend Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You live with a few extended family members. Your colleague asks if they can come over for dinner one day and they don't know how many people live in your home. As you picture your colleague coming into your home, you think they will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Bringing a New Friend Home_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

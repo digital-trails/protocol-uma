@@ -1,0 +1,16 @@
+{
+    "header_text": "Quick correction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quick correction"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1LkIEzSKHGt3ThPYYrQWPZjfUroEcuFve/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

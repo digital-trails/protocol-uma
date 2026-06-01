@@ -1,0 +1,16 @@
+{
+    "header_text": "Seeing Your Ex",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Seeing Your Ex"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ZQt5JWW8C01c1XQC4OoVeC8SugNsBZsF/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Job Stability",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recently, the economy has not been doing well. You love your job, but you wonder if you will be able to keep it.  You realize that whether you will stay employed at your current job is out of your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Job Stability_Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

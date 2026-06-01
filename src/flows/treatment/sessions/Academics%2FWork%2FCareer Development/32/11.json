@@ -1,0 +1,16 @@
+{
+    "header_text": "Deleted section",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deleted section"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Yt4G6HZMK_t-ihnEQ6iXy7znjFBPDG8C/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

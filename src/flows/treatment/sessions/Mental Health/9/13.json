@@ -1,0 +1,16 @@
+{
+    "header_text": "Trying New Foods",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trying New Foods"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1fy6cbZwgERtFvVwovTW5yKZIRNqVSJzB/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

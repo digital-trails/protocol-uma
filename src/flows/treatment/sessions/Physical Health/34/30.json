@@ -1,0 +1,16 @@
+{
+    "header_text": "A birthday cake",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A birthday cake"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1HQHBTRpNUNY2kQ0B3sOzw3AIKiQ5XsJl/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Judging Your Performance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You prepared a lot for an important presentation with your colleagues. Your section of the presentation didn't go as well as you expected. You think about whether you will be able to do better in your next section, and realize this was your last..."
+        },
+        {
+            "type": "Entry",
+            "name": "Judging Your Performance_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Evaluation results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Evaluation results"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1wsTsWXkjfok0Sn3yNthn2D51nUUgPfAo/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

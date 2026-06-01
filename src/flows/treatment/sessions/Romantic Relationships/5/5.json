@@ -1,0 +1,16 @@
+{
+    "header_text": "Advice for a friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Advice for a friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/16B6D0IDuHuixxTYqmvYLjeLuAh-_nWS0/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

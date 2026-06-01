@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Anxious ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Anxious "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FcB5CvXNaJdV8qJE0nz1NN6MVKPtk2zJ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

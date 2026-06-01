@@ -1,0 +1,16 @@
+{
+    "header_text": "Corner laughter",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Corner laughter"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1TT4fuIpUKuMK-jVrWlcStBgpHS3YAMh6/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 0
+}

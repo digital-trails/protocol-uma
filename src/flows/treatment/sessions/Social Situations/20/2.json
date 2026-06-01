@@ -1,0 +1,16 @@
+{
+    "header_text": "Controversial news story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Controversial news story"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1WhBEvVG2zKE6RE_RLPbh8jfuPj-DLb3e/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 0
+}

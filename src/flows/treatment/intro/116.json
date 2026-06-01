@@ -1,0 +1,14 @@
+{
+    "header_text": "Attention in store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Attention in store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1bNjz8xEGK6sK4_mFB7n0BzUStvi02qzP/view?usp=sharing"
+        }
+    ]
+}

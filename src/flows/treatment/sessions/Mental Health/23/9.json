@@ -1,0 +1,17 @@
+{
+    "header_text": "Monday Phone Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Every Monday you call your parent to say hello. Today is Monday, and they did not pick up the phone when you called, which is unusual. Your parent probably did not answer the phone because they are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Monday Phone Call_Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 3
+}

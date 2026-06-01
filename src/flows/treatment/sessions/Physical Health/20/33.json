@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Active\n\nThe American Heart Association has the tools and resources to get you on the right path to a healthier lifestyle."
+        }
+    ]
+}

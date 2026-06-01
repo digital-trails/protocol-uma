@@ -1,0 +1,22 @@
+{
+    "header_text": "Sadness scale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nFeeling down, depressed, or hopeless."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all",
+                "Several days",
+                "More than half the days",
+                "Nearly every day",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "biweekly_depressed"
+        }
+    ]
+}

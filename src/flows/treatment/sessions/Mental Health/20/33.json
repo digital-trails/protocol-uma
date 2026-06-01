@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Region Ten\n\nLooking for mental health support? Region Ten offers several services for mental health, including case management, intellectual disability, substance use, rehabilitation, and counseling."
+        }
+    ]
+}

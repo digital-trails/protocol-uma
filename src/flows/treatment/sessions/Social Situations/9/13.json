@@ -1,0 +1,16 @@
+{
+    "header_text": "Collecting an old friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Collecting an old friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1IiQh9VjcPADWHw-EUkf-WjJmJgtCUIl6/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

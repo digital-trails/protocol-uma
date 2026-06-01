@@ -1,0 +1,16 @@
+{
+    "header_text": "Fear of Missing Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fear of Missing Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1FT6P2q_cktpRqA58pw5JI58tA9R0P3BS/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

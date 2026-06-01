@@ -1,0 +1,16 @@
+{
+    "header_text": "Participation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Participation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Dh2em2eifFjm2KkfZDfxM2WuvxRCmMV7/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

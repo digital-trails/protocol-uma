@@ -1,0 +1,16 @@
+{
+    "header_text": "Affording a Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Affording a Trip"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ITdnDbj3DvjZZDphPp_I5FrO9KSr9X3j/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

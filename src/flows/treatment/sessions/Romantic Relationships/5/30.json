@@ -1,0 +1,16 @@
+{
+    "header_text": "Silent Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Silent Partner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1JAMeED7-u0koy2bJ6ZZhhu2cGCZc2VjH/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

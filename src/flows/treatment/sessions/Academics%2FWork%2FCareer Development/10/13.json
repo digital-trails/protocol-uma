@@ -1,0 +1,17 @@
+{
+    "header_text": "Group Project Due",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are working on a very important team project. The project deadline is soon, and your colleagues still haven't completed their portion, and you wonder if you should complete their part. You reach out to them, conveying your concerns about the deadline and workload, and they begin working in a timely..."
+        },
+        {
+            "type": "Entry",
+            "name": "Group Project Due_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

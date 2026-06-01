@@ -1,0 +1,29 @@
+{
+    "header_text": "Asking Someone Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think the two of you will probably"
+        },
+        {
+            "type": "Buttons",
+            "name": "Asking Someone Out_Romantic Relationships_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Go out to coffee and have a great time.",
+                "Never see each other again."
+            ],
+            "column_Count": 1,
+            "correct_value": "Never see each other again."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Negative",
+    "scenario_num": 7
+}

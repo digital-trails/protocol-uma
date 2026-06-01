@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "UMA Primary Care Physician\n\nTalk to your primary care physician about ways to work through mental health concerns. You are not alone"
+        }
+    ]
+}

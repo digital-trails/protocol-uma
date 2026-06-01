@@ -1,0 +1,17 @@
+{
+    "header_text": "Friend's Birthday",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You talk to your friends, and they reassure you that the restaurant they choose will be one that everyone can afford, and they'll even run it by you..."
+        },
+        {
+            "type": "Entry",
+            "name": "Friend's Birthday_Finances_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

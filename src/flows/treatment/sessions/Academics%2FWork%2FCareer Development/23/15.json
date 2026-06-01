@@ -1,0 +1,17 @@
+{
+    "header_text": "Falling Behind",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently started a new job. As you've been working, it seems like everyone around you knows what they're doing, but you're still confused. You think this is because you're still learning, and you'll catch on... "
+        },
+        {
+            "type": "Entry",
+            "name": "Falling Behind_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

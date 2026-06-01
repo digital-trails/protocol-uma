@@ -1,0 +1,17 @@
+{
+    "header_text": "Safe Delivery",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One of your close friends tests positive for COVID, and they ask you to deliver them groceries. You don't want to get exposed by being close to their home, but you also want to be helpful. You find a way to safely deliver the food from..."
+        },
+        {
+            "type": "Entry",
+            "name": "Safe Delivery_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

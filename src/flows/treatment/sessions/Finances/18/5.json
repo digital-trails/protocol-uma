@@ -1,0 +1,25 @@
+{
+    "header_text": "High Paying Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are having dinner with your college friends and you all end up talking about your careers. You realize that many of them have higher salaries than you whereas you chose a lower-paying job that aligns with your passions. When you think about your career moving forward, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "High Paying Jobs_Finances_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "excited"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "An organized outing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An organized outing"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1DUJ30Sl4i34yGG5leZIL91AAOYQypycm/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

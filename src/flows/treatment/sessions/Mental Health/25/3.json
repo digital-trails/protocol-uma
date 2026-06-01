@@ -1,0 +1,16 @@
+{
+    "header_text": "Having People Over",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Having People Over"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1cta4lpPhoahfL1nlRrl3fYCs86bhsNjd/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

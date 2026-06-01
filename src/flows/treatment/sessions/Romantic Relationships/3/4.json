@@ -1,0 +1,16 @@
+{
+    "header_text": "Asking Out Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Asking Out Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ge0uSpMcmvzD_Cpmw8O9XZDxmWjnwoVr/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

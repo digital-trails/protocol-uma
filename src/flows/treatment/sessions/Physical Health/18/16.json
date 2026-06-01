@@ -1,0 +1,25 @@
+{
+    "header_text": "Plans to Visit Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It is just one day before you are supposed to leave to go visit your family, and your friend is told they were exposed to someone with COVID. You both go get tested, but results typically come back in 72 hours and you have a flight booked for tomorrow. When you think about how your family will react, you think they will..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Plans to Visit Family_Physical Health_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "understand"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

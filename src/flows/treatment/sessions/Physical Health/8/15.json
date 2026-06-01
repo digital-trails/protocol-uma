@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Dizzy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Dizzy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/11iBGMQfdQzKS4Wie-FoCiOstUhF1691I/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

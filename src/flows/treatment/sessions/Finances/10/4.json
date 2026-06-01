@@ -1,0 +1,17 @@
+{
+    "header_text": "Going broke",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have decided to go back to school for another degree. Although you have been saving for this for the past few years, you worry about not having an income while you are back in school. The likelihood that you will go broke while in school is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Going broke_Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

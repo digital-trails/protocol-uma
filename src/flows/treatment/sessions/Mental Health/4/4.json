@@ -1,0 +1,16 @@
+{
+    "header_text": "Change of Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Change of Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/15JLTnj5zhDkQ3CWNpfiDS51ykFhKEhI1/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

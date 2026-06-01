@@ -1,0 +1,16 @@
+{
+    "header_text": "A new camera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A new camera"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1gIc6npFIezWPuRAQClkBHg3K5HpAwDTk/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

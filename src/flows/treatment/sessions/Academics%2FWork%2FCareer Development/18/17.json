@@ -1,0 +1,16 @@
+{
+    "header_text": "Mistakes while working",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mistakes while working"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/14pWmSJ9hsPOJZFuIKcrGQjriu93VzLz0/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Too Much Attention",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Too Much Attention"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1m8Y-P-lBw6IkILN6LVQ2sO9xx9D8qSBD/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

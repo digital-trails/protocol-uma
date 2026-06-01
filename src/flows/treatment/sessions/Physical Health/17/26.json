@@ -1,0 +1,25 @@
+{
+    "header_text": "Exposure Guilt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After noticing your throat hurting a bit, you decide to go get tested for COVID. Your partner barely goes out in order to keep themself safe, and you think they'll be mad at you for a possible exposure. You hope that they'll forgive you easily, because getting COVID isn't fully in your... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Exposure Guilt_Physical Health_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

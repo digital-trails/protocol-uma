@@ -1,0 +1,16 @@
+{
+    "header_text": "Approaching Deadline",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Approaching Deadline"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1q13omJofjfnPiBpNlEwv-3_ZALGQEk6h/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Recent Exposure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recent Exposure"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1skPUUmw_frFjR4sIPO4dIxk0mnDUH5UN/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "The Dance Showcase",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The Dance Showcase"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1i0Fyi1U2KcNHbvvvDIlINUkFHD4jNSh-/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Holiday Gifts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holiday Gifts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1jWzJuwkqvTss1X1vO90z40f-28aw_x4n/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

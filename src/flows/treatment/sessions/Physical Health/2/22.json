@@ -1,0 +1,16 @@
+{
+    "header_text": "Exercise Class with Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exercise Class with Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1VlsI9LlwAnuIBOVvXzcOaRgcOTFzDdfO/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

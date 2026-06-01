@@ -1,0 +1,16 @@
+{
+    "header_text": "Meeting the Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Meeting the Parents"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1VI_Qcv_yN9Y5Pv8Kc8hv-yo9x-EtTweT/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

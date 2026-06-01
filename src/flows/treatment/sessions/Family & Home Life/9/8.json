@@ -1,0 +1,16 @@
+{
+    "header_text": "Visiting Aging Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visiting Aging Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Gq9Sn1-xMI1EWDLSKgwCVl-6URaJ2yiG/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

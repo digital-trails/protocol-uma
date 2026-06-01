@@ -1,0 +1,16 @@
+{
+    "header_text": "Long Distance Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Long Distance Relationship"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1SLIlpEwAlYywGSOzmfcgtN7_OZG7Kwcb/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

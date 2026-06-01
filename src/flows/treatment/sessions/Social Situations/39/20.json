@@ -1,0 +1,16 @@
+{
+    "header_text": "Alone at Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Alone at Lunch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/19bu8gAX5fJudIIeey_0qKXwzZ-Lpgg8Q/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 8
+}

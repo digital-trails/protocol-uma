@@ -1,0 +1,16 @@
+{
+    "header_text": "New Environment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Environment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1yzXkc052e-ZcwIMbWLOvGO0t6qcqKbgg/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

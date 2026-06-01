@@ -1,0 +1,16 @@
+{
+    "header_text": "Single Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Single Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1AhFLx3VZavPXoR19YROYV6OSR11ayY3G/view?usp=share_link"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Planning Payments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You do not see yourself making a big mistake, and think that the plan you choose will leave you in a financial position that is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Planning Payments_Finances_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

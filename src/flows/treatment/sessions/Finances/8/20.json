@@ -1,0 +1,17 @@
+{
+    "header_text": "Job Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently saw on the news that the economy has been particularly bad. Even though your boss typically gives you good reviews, you wonder whether your job is safe. You think you will likely be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Job Market_Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

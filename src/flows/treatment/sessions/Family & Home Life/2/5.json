@@ -1,0 +1,25 @@
+{
+    "header_text": "Career Pressures",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in the middle of a big decision about your next step career-wise. You have the choice between staying in a familiar but lower-paying job or moving to a different industry with the potential for higher pay. When you think about making this decision, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Career Pressures_Family & Home Life_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Mistakes while working",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Even though you normally excel at your job, you recently had a rough week at work. Specifically, you made a couple of mistakes on an important project. When you think about the future, you think it is likely that your job is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mistakes while working_Academics/Work/Career Development_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

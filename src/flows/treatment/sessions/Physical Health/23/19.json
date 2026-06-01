@@ -1,0 +1,17 @@
+{
+    "header_text": "Rescheduled Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been wanting to go on a summer vacation to Europe for a few years. You rescheduled your trip from last summer to this upcoming summer, but you're worried COVID will spread again and prevent you from finally going. You decide to wait it out, and can always reschedule again if you need... "
+        },
+        {
+            "type": "Entry",
+            "name": "Rescheduled Vacation_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

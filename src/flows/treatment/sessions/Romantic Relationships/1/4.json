@@ -1,0 +1,16 @@
+{
+    "header_text": "Third Wheel",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Third Wheel"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_WmTq0L6G-N8n9uDw0BL0mLay52hPI-e/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

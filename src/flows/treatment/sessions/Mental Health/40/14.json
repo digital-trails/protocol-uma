@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FEAP Virtual Resources for Stress Management \n\nCheck out these resources to help support your mental and emotional wellness."
+        }
+    ]
+}

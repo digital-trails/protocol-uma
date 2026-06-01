@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FEAP Housing and Utilities Resources\n\nResources available in the Charlottesville and Albemarle County area."
+        }
+    ]
+}

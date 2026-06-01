@@ -1,0 +1,17 @@
+{
+    "header_text": "Trying New Foods",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your new colleague brings some very spicy food to work for lunch and you wonder if you'll be OK eating it. After eating some, your face begins to sweat, and you can feel your heart beating in your chest. You decide to focus on the conversation, and you experience the rest of lunch as..."
+        },
+        {
+            "type": "Entry",
+            "name": "Trying New Foods_Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

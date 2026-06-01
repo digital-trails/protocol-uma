@@ -1,0 +1,16 @@
+{
+    "header_text": "Future limitations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Future limitations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1RnImJE-U_C1bMfkgSBjJk7I4RaUqraB1/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

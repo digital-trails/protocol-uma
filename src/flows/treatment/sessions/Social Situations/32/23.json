@@ -1,0 +1,16 @@
+{
+    "header_text": "Silence on a drive",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Silence on a drive"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1sGtKCHYC5PGhGGovL--qGa1f1C0k0nOV/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

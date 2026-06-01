@@ -1,0 +1,16 @@
+{
+    "header_text": "Self-Care",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>Therapy for Black Girls:</strong> Podcast centered around mental wellness for Black women. <a href=\"https://therapyforblackgirls.com/podcast/\">https://therapyforblackgirls.com/podcast/</a><br><br><strong>Counseling Alliance of VA:</strong> Culturally based trauma supportive services and culturally responsive counseling services. <a href=\"https://www.cavahelps.com/\">https://www.cavahelps.com/</a><br><br><strong>Central Virginia Clinicians of Color Network:</strong> Temporary NON-CRISIS emotional support by phone for adult people of color on Wednesdays 5-8pm during COVID-19 outbreak. Call during this time and/or leave your name, phone, and email to receive a call back. If demand exceeds available resources, our team will make every effort to connect you with appropriate care. <a href=\"https://cvccn.org/\">https://cvccn.org/</a><br><br><strong>Trans Lifeline:</strong> A non-profit hotline staffed by transgender volunteers for people who are experiencing difficulty or crisis. <a href=\"https://translifeline.org/\">https://translifeline.org/</a><br><br><strong>Sister Circle Presents...10 Self-Care Tips for Black Women:</strong> Looking to engage in some self-care? Here's 10 ways you can! <a href=\"https://static1.squarespace.com/static/50a50853e4b013b04b89ffc5/t/5ed80f43b6b8fc226c25e275/1591218015612/2020-06+Sister+Circle+Self-Care+Tips.pdf\">https://static1.squarespace.com/static/50a50853e4b013b04b89ffc5/t/5ed80f43b6b8fc226c25e275/1591218015612/2020-06+Sister+Circle+Self-Care+Tips.pdf</a><br><br><strong>Tool Kits & Resources from the Black Emotional and Mental Health Collective:</strong> Explore different ways that you can care for your emotional and mental health. <a href=\"https://www.beam.community/tool-kits-education\">https://www.beam.community/tool-kits-education</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Discrimination",
+        "=",
+        "Self-Care"
+    ]
+}

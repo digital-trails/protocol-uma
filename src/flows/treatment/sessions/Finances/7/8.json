@@ -1,0 +1,16 @@
+{
+    "header_text": "Going broke",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Going broke"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1cq2-gmwNa7uibqV6o70tP4ffnn-UKaYj/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

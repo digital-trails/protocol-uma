@@ -1,0 +1,16 @@
+{
+    "header_text": "Starting a Small Business",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Starting a Small Business"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1OSRDlUvXTNnwLZlxsji3kxnfVjWLAKmD/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Mental Health Resources",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mental Health Resources"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1mYChKyj4d1Uajhz-EYP_YMVD5Fr5s6MH/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

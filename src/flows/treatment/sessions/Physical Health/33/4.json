@@ -1,0 +1,16 @@
+{
+    "header_text": "Heartrate Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Heartrate Worries"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1cTKQhk1Gcvsa36S3yS-5EU4WtbW56xaQ/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

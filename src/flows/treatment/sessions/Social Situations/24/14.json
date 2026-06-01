@@ -1,0 +1,17 @@
+{
+    "header_text": "Keeping Up With Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you think about their reaction to this lull in contact, you do not worry about the strength of your friendship, and you think that your friend will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Keeping Up With Friends _Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

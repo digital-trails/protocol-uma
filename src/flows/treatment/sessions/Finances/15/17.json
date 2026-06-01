@@ -1,0 +1,16 @@
+{
+    "header_text": "Show Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Show Opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1eIU_nKJ0QOc8XPy4BK5sTlOzdsWp62uQ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

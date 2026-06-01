@@ -1,0 +1,16 @@
+{
+    "header_text": "Your Resume",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your Resume"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/12Cgn_OOe7x5Oai-qSUktQ4QZ57TSL-zp/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

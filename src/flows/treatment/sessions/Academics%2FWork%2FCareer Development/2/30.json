@@ -1,0 +1,16 @@
+{
+    "header_text": "An interview panel",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An interview panel"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1mTDpifErX2S2EJttSEMaqR6mz1MpzjR7/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Taking a Break",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Taking a Break"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1OSRDlUvXTNnwLZlxsji3kxnfVjWLAKmD/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

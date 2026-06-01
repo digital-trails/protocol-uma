@@ -1,0 +1,17 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner are on vacation and decide to spend time at the pool, and you notice you forgot to pack sunscreen.  Your partner specifically reminded you to pack the sunscreen before leaving the hotel room. Recently, you and your partner have been fighting more than usual, and you think your partner will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pool Time_Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

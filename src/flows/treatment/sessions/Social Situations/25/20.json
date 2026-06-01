@@ -1,0 +1,16 @@
+{
+    "header_text": "Cohabitation Conflicts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cohabitation Conflicts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1MrPuOeWOe6yhwEGqHCJmj3SG5bnQbQww/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

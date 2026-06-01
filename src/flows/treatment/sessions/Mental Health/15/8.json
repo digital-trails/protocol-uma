@@ -1,0 +1,16 @@
+{
+    "header_text": "Haircut Headache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Haircut Headache"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1hJ5jSFgD9p0YWah_M35D5-XX1eWGMlRm/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

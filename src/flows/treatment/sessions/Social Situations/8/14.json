@@ -1,0 +1,16 @@
+{
+    "header_text": "Watching a Movie with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Watching a Movie with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ycooBDYhbqicxiNW3ADymBujgdMVhh8h/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

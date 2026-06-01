@@ -1,0 +1,17 @@
+{
+    "header_text": "Parents Visiting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are hosting a baby shower for a family member today and both your parents are attending. They're divorced and sometimes cause an embarrassing scene in public. During the shower, you think about your..."
+        },
+        {
+            "type": "Entry",
+            "name": "Parents Visiting_Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 5
+}

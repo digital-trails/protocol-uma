@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend in the Hospital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend in the Hospital"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1orHJdZcvNDmtHi2FCrQ29bBopJCgLT5D/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Meeting an old acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Meeting an old acquaintance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1pyQstjJZOoKDUECn8lpjVkVEJglsI_E8/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

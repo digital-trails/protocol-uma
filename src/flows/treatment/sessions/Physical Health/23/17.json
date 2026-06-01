@@ -1,0 +1,17 @@
+{
+    "header_text": "Tingled fingers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are helping a friend paint a house and have been raising your hand for a long time. Your fingers begin to tingle. This sensation is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tingled fingers_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 6
+}

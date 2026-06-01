@@ -1,0 +1,16 @@
+{
+    "header_text": "Being in Charge",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being in Charge"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1cCdFnGwW1dNBLOO7cPWVry3DULHFtlcc/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

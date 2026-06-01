@@ -1,0 +1,16 @@
+{
+    "header_text": "Being Talked About",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being Talked About"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1ykY60oGbVNzm3vm41Sw4Ts1kDiSO5gjp/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

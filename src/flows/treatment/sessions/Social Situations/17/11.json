@@ -1,0 +1,16 @@
+{
+    "header_text": "The Soccer Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The Soccer Game"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1wDb4XmW_yBIpT0LS0HM1Nf2eSspveQIp/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Nerves at a Big Moment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nerves at a Big Moment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1euj4QAMrOxGJVTxv0VX9mSsgDp8o5SwZ/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Unexpected Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unexpected Costs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1lpvvvV6h9M0GBc8a-at-2ovha4XXdfLE/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

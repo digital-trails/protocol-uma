@@ -1,0 +1,17 @@
+{
+    "header_text": "Running in the Cold",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a cold day, and you are outside jogging. Your heart starts to beat quickly a few minutes in. You decide that this feeling is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Running in the Cold_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Negative",
+    "scenario_num": 3
+}

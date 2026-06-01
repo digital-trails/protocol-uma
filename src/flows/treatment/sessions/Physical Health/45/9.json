@@ -1,0 +1,16 @@
+{
+    "header_text": "In A Hurry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In A Hurry"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Y7spXd94W33NXmmL5txT15RrsKsKPdu7/view?usp=share_link"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

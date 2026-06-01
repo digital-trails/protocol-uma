@@ -1,0 +1,16 @@
+{
+    "header_text": "Showcasing your experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Showcasing your experience"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1npkE7h685FSS9kM33IyEeOyngro5KOvm/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

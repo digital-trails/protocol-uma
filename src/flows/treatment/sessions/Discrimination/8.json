@@ -1,0 +1,16 @@
+{
+    "header_text": "Activism",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>The Activists' Guide:</strong> The Activists' Guide is a Charlottesville based organization that hat connects activists across the community and provides with resources such as activists' techniques and a newsletter, and more! <a href=\"https://activistsguide.org/\">https://activistsguide.org/</a><br><br><strong>Black Lives Matter:</strong> A global network of activists whose mission is to eradicate white supremacy and empower Black communities. <a href=\"https://blacklivesmatter.com/\">https://blacklivesmatter.com/</a><br><br><strong>Human Rights Campaign:</strong> Group striving to create equality for the LGBTQ+ community, specifically those who are trans, people of color, and HIV+, in the U.S. and the world as a whole. <a href=\"https://www.hrc.org/\">https://www.hrc.org/</a><br><br><strong>PFLAG:</strong> \"First and largest\" organization for connected to the LGTBQ+ community with over 400 chapters, including one in Charlottesvile. <a href=\"https://pflagblueridge.org/charlottesville.html\">https://pflagblueridge.org/charlottesville.html</a><br><br><strong>NCAAP:</strong> One of the oldest activism groups, NCAAP hopes to achieve equality, both socially and politically, through eradication of discrimination while securing the academic and economic well-being of black people. <a href=\"https://naacp.org/\">https://naacp.org/</a><br><br><strong>5 Calls:</strong> Want to demand change from your representatives but not sure where to start? 5 Calls can help demystify the process! Just enter your location, choose issues that are important to you, and the website will tell you who to call and what to say. <a href=\"https://5calls.org/\">https://5calls.org/</a><br><br><strong>The Equity Center:</strong> The UVA Democracy Initiative Center for the Redress of Inequity through Community Engaged Scholarship (aka The Equity Center) represents a new model of community engaged scholarship, imagining the university as not just an anchor institution, but also an authentic community resource. Our community partnerships and advocacy within the University work in tandem to create a more equitable culture. <a href=\"https://virginiaequitycenter.org/\">https://virginiaequitycenter.org/</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Discrimination",
+        "=",
+        "Activism"
+    ]
+}

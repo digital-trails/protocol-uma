@@ -1,0 +1,25 @@
+{
+    "header_text": "A Difficult Conversation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your parents are requiring more assistance and care in their old age. You feel responsible for their care and would like to have a conversation with your partner about having your parents move in with you. You are nervous about how your partner will react to this..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A Difficult Conversation_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "conversation"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 7
+}

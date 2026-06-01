@@ -1,0 +1,16 @@
+{
+    "header_text": "Not Feeling Prepared",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Not Feeling Prepared"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/143F_jObaBvG1l77hgZir8HruiOBT9qcV/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

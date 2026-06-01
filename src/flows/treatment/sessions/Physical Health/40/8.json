@@ -1,0 +1,16 @@
+{
+    "header_text": "Walking to clear mind",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Walking to clear mind"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1oiPUPbb3k3wmoRn3s5fSAPMdPX11UgYp/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

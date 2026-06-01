@@ -1,0 +1,16 @@
+{
+    "header_text": "Rescheduled Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rescheduled Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1WtqYYqos7eH6d7OI8mxrDNmuP40LHlGS/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Going on a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have..."
+        },
+        {
+            "type": "Entry",
+            "name": "Going on a Date_Romantic Relationships_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

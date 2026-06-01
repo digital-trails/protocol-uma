@@ -1,0 +1,16 @@
+{
+    "header_text": "High Paying Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "High Paying Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1vQDFA1q2B7-kGBTjDa6pcmQeERhzuoO9/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

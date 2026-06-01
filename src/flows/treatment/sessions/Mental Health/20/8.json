@@ -1,0 +1,16 @@
+{
+    "header_text": "Enjoyable Endeavor ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Enjoyable Endeavor "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/18Nfhp9FuaS1pKc7jTO3hXT4vzg-FI7Db/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

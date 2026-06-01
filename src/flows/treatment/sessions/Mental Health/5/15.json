@@ -1,0 +1,25 @@
+{
+    "header_text": "Hot day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Hot day_Mental Health_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "observe"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

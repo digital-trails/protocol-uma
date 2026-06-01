@@ -1,0 +1,16 @@
+{
+    "header_text": "New T-Shirt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New T-Shirt"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1QynCaur9NoeWUwDPTa7x50EZprKjxHzf/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Seeing an Old Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Seeing an Old Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1y8Ol0_urR_KdDlcWEw9hZ979KBQ_ozHp/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

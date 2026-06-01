@@ -1,0 +1,16 @@
+{
+    "header_text": "Concert Cancellation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Concert Cancellation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1_B3CLNZYw6j6jB-EIfyI0zEH5EdNmetw/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

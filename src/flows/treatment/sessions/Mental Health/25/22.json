@@ -1,0 +1,17 @@
+{
+    "header_text": "Instagram Post Feedback ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just received recognition for a project you worked on. You’ve only received congratulations from a few people, and by now you thought you’d have more reactions. You wonder if people aren't congratulating you because they are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Instagram Post Feedback _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 8
+}

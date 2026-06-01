@@ -1,0 +1,16 @@
+{
+    "header_text": "On a jog",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On a jog"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1btP0ByonbcpU8OlzF6uesqxs04pCNP6H/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 5
+}

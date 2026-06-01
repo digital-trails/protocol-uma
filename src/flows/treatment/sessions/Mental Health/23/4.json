@@ -1,0 +1,16 @@
+{
+    "header_text": "Driving flashback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Driving flashback"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/111tmTqhti30waD2ToHBnhDXMWZr6Fiv3/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 1
+}

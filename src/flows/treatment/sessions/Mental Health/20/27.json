@@ -1,0 +1,16 @@
+{
+    "header_text": "Sharing with Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sharing with Someone New"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1499bBYkmYnrl8QqVGgqBcog_M-Ueo1__/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 8
+}

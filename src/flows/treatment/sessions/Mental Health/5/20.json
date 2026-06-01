@@ -1,0 +1,16 @@
+{
+    "header_text": "Dry Mouth",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dry Mouth"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1eG4x0HMf4jIlTARyW3hf9EE8Q_PSqHPE/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Testing Positive for COVID-19",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Testing Positive for COVID-19"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1swyXz0EX1z3WGXTnVs4rB7-lSbq05V5E/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 6
+}

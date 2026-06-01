@@ -1,0 +1,16 @@
+{
+    "header_text": "Safe Delivery",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Safe Delivery"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1c6ieeJOV0oWUI1mr-p9FOf9xvwkeVctA/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

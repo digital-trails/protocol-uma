@@ -1,0 +1,16 @@
+{
+    "header_text": "Preparing for evaluation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Preparing for evaluation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1JqWIAI0rY_t0uGgYnmPOToM6KeNWRxvn/view?usp=sharing"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 9
+}

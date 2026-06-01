@@ -1,0 +1,17 @@
+{
+    "header_text": "Providing for Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges, but understand that this comes with a high price..."
+        },
+        {
+            "type": "Entry",
+            "name": "Providing for Family_Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

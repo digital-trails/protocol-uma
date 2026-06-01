@@ -1,0 +1,17 @@
+{
+    "header_text": "Unfinished Work ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You had a very busy day, and were not able to get all of your tasks done. At dinner, your partner brags about how they finished everything on their to-do list. Thinking about whether you can complete your work tomorrow, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Unfinished Work _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

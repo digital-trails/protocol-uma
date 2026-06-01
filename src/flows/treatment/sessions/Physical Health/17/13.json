@@ -1,0 +1,16 @@
+{
+    "header_text": "Positive Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Positive Test"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1Fq-NpWkRkGr7cLwbrV84SzufV_aWAasr/view?usp=sharing"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 3
+}

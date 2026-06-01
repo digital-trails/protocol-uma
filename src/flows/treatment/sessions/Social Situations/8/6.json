@@ -1,0 +1,17 @@
+{
+    "header_text": "Unmasked Acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You arrive to a meeting with your mask on. You notice that one of your colleagues is not wearing a mask. You think that they must have forgotten... "
+        },
+        {
+            "type": "Entry",
+            "name": "Unmasked Acquaintance_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 1
+}

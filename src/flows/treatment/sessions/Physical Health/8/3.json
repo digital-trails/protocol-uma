@@ -1,0 +1,17 @@
+{
+    "header_text": "Spinning around",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go on a spinning ride at a carnival. When you get off, you feel dizzy. You are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Spinning around_Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 0
+}

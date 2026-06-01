@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Prepared ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Prepared "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1JqWIAI0rY_t0uGgYnmPOToM6KeNWRxvn/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 4
+}

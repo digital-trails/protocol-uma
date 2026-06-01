@@ -1,0 +1,16 @@
+{
+    "header_text": "Late Communication",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late Communication"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1bUgYhh6J97bHW_fCGBklhFK19Hg6E412/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

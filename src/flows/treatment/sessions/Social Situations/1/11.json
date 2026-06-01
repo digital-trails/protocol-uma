@@ -1,0 +1,16 @@
+{
+    "header_text": "Keeping Up With Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Keeping Up With Friends "
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1zs5Zen5SreRnD91mUn6rtDWU2U5Icoe_/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

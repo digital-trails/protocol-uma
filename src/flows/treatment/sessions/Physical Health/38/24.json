@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "VDH Physical Activity Recommendations\n\nVisit the Virginia Department of Health Physical Activity site for physical activity information and recommendations."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Spacing out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spacing out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/https://drive.google.com/file/d/1KAtEMGAr-LWfEzuwFy2roR4vCQ_ecl0O/view?usp=sharing"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}
