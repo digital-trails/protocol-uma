@@ -7,7 +7,7 @@
     }
   },
   "settings": {
-    "unenroll": "flow://flows/treatment/reasons for ending/",
+    "unenroll": "flow://flows/treatment/reasons for ending",
     "font_scale": 1.25
   },
   "start_flow": "flow://flows/treatment/intro",
