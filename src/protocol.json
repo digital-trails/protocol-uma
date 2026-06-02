@@ -1,6 +1,6 @@
 {  
   "home": {
-    "title": "MindTrails",
+    "title": "UMA",
     "element": {
       "type": "ref",
       "path": "protocols/treatment/home.json"
