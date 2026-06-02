@@ -15,14 +15,6 @@
             "lock_time": "42:00:00:00"
         },
         {
-            "type": "button",
-            "hideoncomplete": true,
-            "action": {
-                "text": "Show Surveys",
-                "action": "navmodal://Survey"
-            }
-        },
-        {
             "type": "tiles",
             "title": "More resources",
             "icon": {
