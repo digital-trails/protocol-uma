@@ -1,0 +1,11 @@
+{
+    "header_text": "Substance Use",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Quit Now Virginia - Tobacco Free Living</font></b>\n               <br/><br/>Since 2005, Quit Now Virginia has been a leading tool for helping tobacco and nicotine users quit their addiction. Thousands of people have contacted 1.800.Quit Now!<br/><br/>\n               <a href=\"https://www.vdh.virginia.gov/tobacco-free-living/quit-now-virginia/\">https://www.vdh.virginia.gov/tobacco-free-living/quit-now-virginia/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Drink Less - Better Help</font></b>\n               <br/><br/>Any reduction in the amount you drink every week will be beneficial – and with the right help, it's easier than you think.<br/><br/>\n               <a href=\"https://www.nhs.uk/better-health/drink-less/\">https://www.nhs.uk/better-health/drink-less/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Quit Smoking - Better Help</font></b>\n               <br/><br/>Even if you’ve tried before, maybe more than once, you can still succeed. What you’ve already learned will help you reach your goal of becoming an ex-smoker. Check out advice, tools and tips here.<br/><br/>\n               <a href=\"https://www.nhs.uk/better-health/quit-smoking/\">https://www.nhs.uk/better-health/quit-smoking/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>UMA Primary Care Physician</font></b>\n               <br/><br/>Talk to your primary care physician about ways to work through substance use and addiction.<br/><br/>\n               <a href=\"\"></a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>SAMHSA National Helpline</font></b>\n               <br/><br/>The Substance Abuse and Mental Health Services Administration's National Helpline is a free, confidential, 24/7, 365-day-a-year treatment referral and information service (in English and Spanish) for individuals and families facing mental and/or substance use disorders.<br/><br/>\n               <a href=\"https://www.samhsa.gov/find-help/national-helpline\">https://www.samhsa.gov/find-help/national-helpline</a>"
+        }
+    ]
+}

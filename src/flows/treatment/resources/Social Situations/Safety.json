@@ -1,0 +1,11 @@
+{
+    "header_text": "Safety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>myPlan App</font></b>\n               <br/><br/>A free app to help with safety decisions if you, or someone  you care about, is experiencing abuse in their intimate relationship.  It’s private, secure, personalized, & backed by research.<br/><br/>\n               <a href=\"https://www.myplanapp.org/\">https://www.myplanapp.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Virginia Department of Criminal Justice Services</font></b>\n               <br/><br/>Find law enforcement agencies by\nname, type, or location.<br/><br/>\n               <a href=\"https://www.dcjs.virginia.gov/law-enforcement/programs/criminal-justice-directory\">https://www.dcjs.virginia.gov/law-enforcement/programs/criminal-justice-directory</a>"
+        }
+    ]
+}
