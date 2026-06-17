@@ -231,7 +231,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "incorrect_delay": 5000,
                     "buttons": [a.strip() for a in answers],
                     "column_Count": 1,
-                    "correct_value": correct_answer
+                    "correct_value": correct_answer.strip()
                 }
             ],
             "navigation_conditions":["wait_for_correct","wait_for_click"]
