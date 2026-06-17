@@ -9,7 +9,7 @@
         {
             "type": "WordPuzzle",
             "name": "Hiking with Friends_Physical Health_puzzle_word2",
-            "correct_feedback": "Correcto!",
+            "correct_feedback": "Correct!",
             "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,

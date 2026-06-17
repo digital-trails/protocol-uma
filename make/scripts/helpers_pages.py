@@ -174,7 +174,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             {
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
-                "correct_feedback": "Correcto!",  # changed
+                "correct_feedback": "Correct!",  # changed
                 "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                 "incorrect_delay": 5000,
                 "display_delay": 2000,
@@ -200,7 +200,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
-                    "correct_feedback": "Correcto!",  # changed
+                    "correct_feedback": "Correct!",  # changed
                     "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                     "incorrect_delay": 5000,
                     "display_delay": 2000,
@@ -226,7 +226,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
-                    "correct_feedback": "Correcto!",  # changed
+                    "correct_feedback": "Correct!",  # changed
                     "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",  # changed
                     "incorrect_delay": 5000,
                     "buttons": [a.strip() for a in answers],

@@ -15,13 +15,11 @@ dir_out  = f"{dir_root}/~out"
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def resource_domain_selection_text():
-    return ("Haga clic en cualquier tema para conocer "
-            "los recursos que pueden ayudarle a gestionar "
-            "esa. Parte de tu vida.")
+    return ("Click on any topic to find resources "
+            "that can help you manage that part of your life.")
 
 def resource_subdomain_selection_text():
-    return ("Haga clic en el tema específico para ver los "
-            "recursos asociados.")
+    return ("Click on a specific topic to see the associated resources.")
 
 def resource_text(resource_name, resource_link, resource_text):
     return f"""<b><font color="#9769ED" size=6>{resource_name}</font></b>
