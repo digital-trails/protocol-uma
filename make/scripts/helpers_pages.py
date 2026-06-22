@@ -332,7 +332,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     """
 
     textinput  = {"type": "Text", "text": text} if has_value(text) else None
-    mediainput = {"type": "Media", "url": lower(media), "border": lower(image_framed) == "true"} if media else None
+    mediainput = {"type": "Media", "url": media, "border": lower(image_framed) == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)

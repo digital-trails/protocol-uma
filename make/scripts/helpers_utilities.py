@@ -176,10 +176,10 @@ def lower(str):
     return str.lower() if str else ""
 
 def media_url(media):
-    if media and media.strip():
-        # assert Path(f"./src/images/{media.strip()}").exists()
-        return f"./images/{media.strip()}"
-    return ""
+    # if media and media.strip():
+    #     # assert Path(f"./src/images/{media.strip()}").exists()
+    #     return f"./images/{media.strip()}"
+    return media
 
 def get_page_index(scenario, session, position):
     curr_num  = None

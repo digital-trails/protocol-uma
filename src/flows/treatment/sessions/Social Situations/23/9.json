@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "./images/https://drive.google.com/file/d/1DEZz52RsghdgI_jZTMn-mx0br1fwpFru/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1DEZz52RsghdgI_jZTMn-mx0br1fwpFru/view?usp=sharing"
         }
     ],
     "type": "Resilience/Negation",
