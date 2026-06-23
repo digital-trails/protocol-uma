@@ -1,0 +1,23 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How helpful did you find Mindtrails for reducing your anxiety?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all",
+                "Slightly",
+                "Somewhat",
+                "Mostly",
+                "Very",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "reduce_anxiety"
+        }
+    ]
+}

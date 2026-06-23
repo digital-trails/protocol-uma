@@ -1,0 +1,22 @@
+{
+    "header_text": "The Scrape",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE SCRAPE: The scrape hurts a bit...\n\nAnd you are frustrated because you tore your shorts."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_scrape_interpretation_2"
+        }
+    ]
+}

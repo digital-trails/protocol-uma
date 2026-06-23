@@ -1,0 +1,27 @@
+{
+    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the past two months, have there been any changes to your mental health treatment? Check all that apply."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "I started therapy",
+                "I ended therapy",
+                "I changed therapists",
+                "My prescriber changed my prescription dose",
+                "I started a prescription medication",
+                "I stopped a prescription medication",
+                "^I haven't had any changes",
+                "^Prefer not to answer",
+                "!Other:"
+            ],
+            "selectable": true,
+            "multiselect": true,
+            "name": "changes_treatment"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "header_text": "Stress scale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Never",
+                "Almost Never",
+                "Sometimes",
+                "Fairly Often",
+                "Very Often"
+            ],
+            "selectable": true,
+            "name": "biweekly_difficulties"
+        }
+    ]
+}

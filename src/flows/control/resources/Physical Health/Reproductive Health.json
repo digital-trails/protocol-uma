@@ -1,0 +1,11 @@
+{
+    "header_text": "Reproductive Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Planned Parenthood</font></b>\n               <br/><br/>Check out Planned Parenthood for both informational resources on STDs, pregnancy, birth control options, and more, or to schedule an in-person or telehealth appointment with a medical professional. <br/><br/>\n               <a href=\"https://www.plannedparenthood.org/\">https://www.plannedparenthood.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Planned Parenthood: Pregnancy Information</font></b>\n               <br/><br/>Check out this resource on prenatal care, fertility treatments, pregnancy options, postpartum depression, and more! <br/><br/>\n               <a href=\"https://www.plannedparenthood.org/learn/pregnancy\">https://www.plannedparenthood.org/learn/pregnancy</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>VDH Family Planning Resources</font></b>\n               <br/><br/>Visit the Virginia Department of Health Family Planning site for information and services related to reproductive health.<br/><br/>\n               <a href=\"https://www.vdh.virginia.gov/family-planning/\">https://www.vdh.virginia.gov/family-planning/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>UMA Primary Care Physician</font></b>\n               <br/><br/>Don't hesitate to talk to your primary care physician about your reproductive health.<br/><br/>\n               <a href=\"\"></a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Thrive Central Virginia</font></b>\n               <br/><br/>Check out this center for both its 24/7 helpline and both walk-in or scheduled appointments regarding pregnancy testing, confidential options counseling, abortion information, ultrasounds, pregnancy support, post-abortion care and support, and more!  <br/><br/>\n               <a href=\"https://thrivecentralva.org/\">https://thrivecentralva.org/</a>"
+        }
+    ]
+}

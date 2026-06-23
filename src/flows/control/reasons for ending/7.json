@@ -1,0 +1,23 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How believable did you find the stories' endings in terms of those outcomes happening in your life?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all",
+                "Slightly",
+                "Somewhat",
+                "Mostly",
+                "Very",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "believable_scenarios"
+        }
+    ]
+}

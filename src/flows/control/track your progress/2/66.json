@@ -1,0 +1,22 @@
+{
+    "header_text": "The Blood Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE BLOOD TEST: The doctor says he will call you in a few weeks...\n\nAnd you think that you will not be able to stand your anxiety while you wait."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_blood_interpretation_3"
+        }
+    ]
+}

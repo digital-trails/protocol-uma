@@ -1,0 +1,22 @@
+{
+    "header_text": "The Wedding Reception",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE WEDDING RECEPTION: As you enter the room...\n\nPeople in the audience laugh in appreciation."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_wedding_interpretation_1"
+        }
+    ]
+}

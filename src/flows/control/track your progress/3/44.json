@@ -1,0 +1,22 @@
+{
+    "header_text": "The Loud Noise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE LOUD NOISE: As you walk downstairs...\n\nYou feel happy, and think about how lovely your house is."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_loud_interpretation_1"
+        }
+    ]
+}

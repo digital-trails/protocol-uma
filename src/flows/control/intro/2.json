@@ -1,0 +1,23 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your gender identity?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Woman",
+                "Man",
+                "Transgender Woman",
+                "Transgender Man",
+                "!Another identity",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "gender"
+        }
+    ]
+}

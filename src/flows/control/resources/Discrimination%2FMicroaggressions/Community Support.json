@@ -1,0 +1,11 @@
+{
+    "header_text": "Community Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Womens Initiative -- Sister Circle</font></b>\n               <br/><br/>Sister Circle offers a social support group to meet the needs of people from across the African diaspora who identify as women in various ways: one of which being, recognizing the unique mental health challenges and trauma created by anti-Black racism and systemic oppression of BIPOC individuals.<br/><br/>\n               <a href=\"https://thewomensinitiative.org/sister-circle\">https://thewomensinitiative.org/sister-circle</a>"
+        }
+    ]
+}

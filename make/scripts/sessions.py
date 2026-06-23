@@ -13,6 +13,8 @@ dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
 dir_out    = f"{dir_root}/~out"
 
+# adding a comment for clarity
+
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def flat(dictionary):
