@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I'm annoyed that this isn't a flattering picture of me.",
                 "I feel angry at my friend, but know that thety didn't know how I feel about the picture.",
                 "I'm insecure about how I look in the picture, but that was only one moment in time.",
-                "I'm annoyed that this isn't a flattering picture of me.",
-                "I'm confident in my friendships.",
-                "I'm happy thinking about that memory."
+                "I'm happy thinking about that memory.",
+                "I'm confident in my friendships."
             ],
             "Duration": 15000
         }

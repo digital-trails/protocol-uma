@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I tell my friend it was a good idea to post a picture of everyone.",
-                "I leave a comment about how embarrassed I am.",
                 "I want to ask my friends if they think I look okay, but decide I look fine on my own.",
                 "I want to pretend the picture doesn't exist, but decide to put a nice comment instead.",
-                "I post a photo from a few weeks ago where I really like how I look."
+                "575.jpg",
+                "I tell my friend it was a good idea to post a picture of everyone.",
+                "I post a photo from a few weeks ago where I really like how I look.",
+                "I leave a comment about how embarrassed I am."
             ],
             "Duration": 15000
         }

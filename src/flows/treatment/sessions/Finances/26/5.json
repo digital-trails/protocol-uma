@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "My friend will be disappointed with the gift I can afford to bring.",
                 "I'm looking forward to celebrating with friends.",
-                "I think my friend will be happy to see me.",
+                "I think I am a bad friend, but I know that the gift I'm bringing is thoughtful.",
+                "My friend will be disappointed with the gift I can afford to bring.",
                 "I assume everyone brought an expensive gift, but I don't actually know if that's true.",
-                "I think I am a bad friend, but I know that the gift I'm bringing is thoughtful."
+                "I think my friend will be happy to see me."
             ],
             "Duration": 15000
         }

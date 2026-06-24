@@ -10,10 +10,10 @@
             "type": "TimedText",
             "texts": [
                 "I'm scared that my partner will say something offensive, but know that what they say is not a reflection on me.",
-                "I'm worried that my partner will say something embarrassing.",
                 "I'm happy to have my friend over for dinner.",
-                "I'm concerned that my friend will judge me for what my partner think, but am still happy we can get together and talk about it.",
-                "I'm calm as we sit and eat dinner together."
+                "I'm worried that my partner will say something embarrassing.",
+                "I'm calm as we sit and eat dinner together.",
+                "I'm concerned that my friend will judge me for what my partner think, but am still happy we can get together and talk about it."
             ],
             "Duration": 15000
         }

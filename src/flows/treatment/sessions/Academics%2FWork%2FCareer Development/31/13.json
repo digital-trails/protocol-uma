@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I take a few sips from my water bottle.",
                 "I take a few deep breaths.",
-                "I start looking up symptoms of a heart attack online to see if I'm dying.",
                 "I want to panic but remind myself that it's actually just my body's reaction to coming up the stairs quickly.",
-                "I feel the urge to tell my boss that something's really wrong with me, but remind myself that I'm actually OK."
+                "I feel the urge to tell my boss that something's really wrong with me, but remind myself that I'm actually OK.",
+                "I take a few sips from my water bottle.",
+                "572.jpg",
+                "I start looking up symptoms of a heart attack online to see if I'm dying."
             ],
             "Duration": 15000
         }

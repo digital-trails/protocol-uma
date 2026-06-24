@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I suggest putting together the presentation without changing the results.",
-                "I am enthusiastic about finding ways to present our findings clearly and effectively.",
                 "I change our results because I'm not confident in our work.",
-                "I want to change our results to finish the presentation more quickly, but instead I keep trying to work with what we have.",
-                "I am tempted to change our results, but decide not to."
+                "I suggest putting together the presentation without changing the results.",
+                "I am tempted to change our results, but decide not to.",
+                "568.jpg",
+                "I am enthusiastic about finding ways to present our findings clearly and effectively.",
+                "I want to change our results to finish the presentation more quickly, but instead I keep trying to work with what we have."
             ],
             "Duration": 15000
         }

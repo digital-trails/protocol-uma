@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I feel happy it is a group photo.",
                 "I'm proud of the outfit in the picture.",
                 "I'm annoyed that such a bad photo of me was posted, but remind myself that this isn't the end of the world.",
-                "I feel embarrassed everyone else looks better than me, but I try to feel glad about everyone looking happy in the picture.",
-                "I feel happy it is a group photo.",
-                "I'm embarrassed by the face I'm making in the photo."
+                "I'm embarrassed by the face I'm making in the photo.",
+                "I feel embarrassed everyone else looks better than me, but I try to feel glad about everyone looking happy in the picture."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "This person will think I'm weird for liking their profile.",
-                "I think about whether they'll think my photos are silly, but then remind myself that I'm proud of my profile.",
-                "I think about how we could go on a date.",
+                "I wonder if they think I am attractive, but remind myself that looks aren't everything.",
                 "I hope we can continue the great conversation we started at the store.",
-                "I wonder if they think I am attractive, but remind myself that looks aren't everything."
+                "I think about whether they'll think my photos are silly, but then remind myself that I'm proud of my profile.",
+                "This person will think I'm weird for liking their profile.",
+                "I think about how we could go on a date."
             ],
             "Duration": 15000
         }

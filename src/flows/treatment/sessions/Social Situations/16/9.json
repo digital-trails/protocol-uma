@@ -10,10 +10,10 @@
             "type": "TimedText",
             "texts": [
                 "I'm relieved to know this topic well.",
-                "I'm happy with how much I've prepared for this presentation.",
-                "I'm scared that my cheeks feeling hot means that I'm going to faint, but I will take a few deep breaths and this feeling will pass.",
+                "I'm nervous that people can see my hands shaking, but it's probably not as noticeable to them as it feels to me.",
                 "I'm worried that I'm going to pass out.",
-                "I'm nervous that people can see my hands shaking, but it's probably not as noticeable to them as it feels to me."
+                "I'm happy with how much I've prepared for this presentation.",
+                "I'm scared that my cheeks feeling hot means that I'm going to faint, but I will take a few deep breaths and this feeling will pass."
             ],
             "Duration": 15000
         }

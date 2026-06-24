@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "Am I having a heart attack?",
+                "I made it up those stairs really quickly.",
                 "It's scary to feel my heart beating fast, but I know that it will be over soon.",
                 "My boss might notice how out of breath I am, and it's okay if they do.",
-                "I made it up those stairs really quickly.",
+                "Am I having a heart attack?",
                 "I am excited for the meeting."
             ],
             "Duration": 15000

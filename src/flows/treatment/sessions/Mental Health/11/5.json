@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I don't think anyone will care how I look.",
-                "I think that my friend could've posted a better picture, but I know they didn't really mean to put up a bad one of me.",
                 "It's nice they posted a picture of all of us.",
+                "I don't think anyone will care how I look.",
                 "Other people will judge how I look in the picture.",
+                "I think that my friend could've posted a better picture, but I know they didn't really mean to put up a bad one of me.",
                 "I don't think this is the best post, but it's just one picture and it's not a reflection of who I am."
             ],
             "Duration": 15000

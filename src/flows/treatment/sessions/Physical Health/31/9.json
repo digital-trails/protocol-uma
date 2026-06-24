@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Although I am worried about my health, I decide to focus on the moment with my boss.",
                 "I'm glad that I was able to make it up the stairs so quickly.",
+                "I'm panicking that I'm going to die.",
                 "I want to feel concerned about this situation, but shift my attention to the meeting.",
-                "I'm proud of myself for making myself a little uncomfortable.",
-                "I'm panicking that I'm going to die."
+                "Although I am worried about my health, I decide to focus on the moment with my boss.",
+                "I'm proud of myself for making myself a little uncomfortable."
             ],
             "Duration": 15000
         }

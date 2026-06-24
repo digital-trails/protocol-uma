@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm worried that they could hear me in the bathroom, but then remember that everyone uses the bathroom so it isn't a big deal.",
-                "I am uncomfortable being around them, but I know that these are my close friends and start to calm down.",
-                "I'm thankful for the friends that I have.",
+                "I am interested in joining the conversation.",
                 "I feel defensive.",
-                "I am interested in joining the conversation."
+                "I'm thankful for the friends that I have.",
+                "I'm worried that they could hear me in the bathroom, but then remember that everyone uses the bathroom so it isn't a big deal.",
+                "I am uncomfortable being around them, but I know that these are my close friends and start to calm down."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
+                "I think about telling my friend that we should go on a walk somewhere else, but decide that it'll be OK if we walk in the park.",
+                "172.jpg",
                 "I call my friend and say that I'm busy all of a sudden.",
-                "I put on a jacket and go outside.",
                 "I want to tell my friend that I can't go, but push myself to go into the park anyway.",
                 "I tell my friend I'm ready to go.",
-                "I think about telling my friend that we should go on a walk somewhere else, but decide that it'll be OK if we walk in the park."
+                "I put on a jacket and go outside."
             ],
             "Duration": 15000
         }

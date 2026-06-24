@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I talk to my family about what we're going to do on our trip.",
-                "I'll remember that I don't have to check all of the appliances multiple times before we leave.",
-                "I want to be upset about the situation, but decide to chat with my family.",
                 "I want to ask my partner whether they think all of the appliances are off, but I decide to talk about the parts of the trip I'm looking forward to instead.",
-                "I focus on everything that could go wrong because I didn't have time to check."
+                "I'll remember that I don't have to check all of the appliances multiple times before we leave.",
+                "I focus on everything that could go wrong because I didn't have time to check.",
+                "582.jpg",
+                "I talk to my family about what we're going to do on our trip.",
+                "I want to be upset about the situation, but decide to chat with my family."
             ],
             "Duration": 15000
         }

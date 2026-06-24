@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm looking forward to talking to my friend.",
                 "I'm going to get bitten by a snake!",
-                "Even though I've heard there might be snakes in the park, I think it's unlikely that I will see one.",
+                "I'm looking forward to talking to my friend.",
+                "It'll be nice to walk in the park.",
                 "I'm really not looking forward to going into the park that might have snakes, but I know that I can tolerate my feelings of anxiety.",
-                "It'll be nice to walk in the park."
+                "Even though I've heard there might be snakes in the park, I think it's unlikely that I will see one."
             ],
             "Duration": 15000
         }

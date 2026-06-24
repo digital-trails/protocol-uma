@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I wonder if I'm really sick, but I know this feeling won't last forever.",
                 "I probably feel my heart beating because I'm excited to try this new store.",
                 "My heartbeat is distracting me, but I will focus on my grocery list to stay grounded.",
                 "I must be having a panic attack!",
-                "I like the challenge of finding my favorite foods at this new store.",
-                "I wonder if I'm really sick, but I know this feeling won't last forever."
+                "I like the challenge of finding my favorite foods at this new store."
             ],
             "Duration": 15000
         }

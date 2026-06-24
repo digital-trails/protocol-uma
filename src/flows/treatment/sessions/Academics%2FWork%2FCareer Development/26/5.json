@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "It was nice to be able to share what I think.",
+                "I didn't communicate my point as well as I would have liked this time, but I know I'll have more opportunities to speak up in the future.",
                 "My answer sounded dumb because I didn't understand the question, but no one will remember tomorrow.",
-                "My coworkers are judging my answer.",
                 "My answer was thoughtful.",
-                "I didn't communicate my point as well as I would have liked this time, but I know I'll have more opportunities to speak up in the future."
+                "It was nice to be able to share what I think.",
+                "My coworkers are judging my answer."
             ],
             "Duration": 15000
         }

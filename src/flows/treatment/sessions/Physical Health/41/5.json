@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I wonder if there's something wrong with my heart, but I can get help and solve the problem if I need to.",
                 "My heart must be beating faster because I'm walking so quickly up and down the aisles.",
                 "Even if this feeling in my chest is really uncomfortable, I know it will go away soon.",
-                "I wonder if there's something wrong with my heart, but I can get help and solve the problem if I need to.",
-                "I'm going to have a heart attack!",
-                "It's amazing how many different food options are at this grocery store."
+                "It's amazing how many different food options are at this grocery store.",
+                "I'm going to have a heart attack!"
             ],
             "Duration": 15000
         }

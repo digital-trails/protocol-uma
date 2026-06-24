@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "People haven't checked their email yet.",
                 "My colleagues may not like my idea, and I can accept that.",
-                "My suggestion wasn't the best, but I don't have to be perfect.",
+                "People ignored the idea.",
                 "I am proud of my idea.",
-                "People ignored the idea."
+                "People haven't checked their email yet.",
+                "My suggestion wasn't the best, but I don't have to be perfect."
             ],
             "Duration": 15000
         }

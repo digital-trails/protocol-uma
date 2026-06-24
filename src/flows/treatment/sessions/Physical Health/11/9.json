@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm really scared about what this feeling means.",
                 "I love it when my friends make me laugh.",
+                "I'm really scared about what this feeling means.",
                 "I'm nervous about why my chest is tight, but then remind myself that this is normal.",
-                "I'm anxious that this feeling means something's wrong with me, but I know it's probably from laughing really hard.",
-                "I feel very connected to my friend."
+                "I feel very connected to my friend.",
+                "I'm anxious that this feeling means something's wrong with me, but I know it's probably from laughing really hard."
             ],
             "Duration": 15000
         }

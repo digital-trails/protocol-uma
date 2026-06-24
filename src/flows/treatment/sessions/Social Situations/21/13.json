@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I laugh with my friends about my spill.",
-                "I clean up and keep talking to my friends.",
-                "I feel like crying, but take a deep breath.",
                 "I stay silent the rest of the time we're at the cafe.",
-                "I want to go home, but stay at the cafe."
+                "I laugh with my friends about my spill.",
+                "I want to go home, but stay at the cafe.",
+                "I clean up and keep talking to my friends.",
+                "569.jpg",
+                "I feel like crying, but take a deep breath."
             ],
             "Duration": 15000
         }

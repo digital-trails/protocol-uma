@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I take myself to the hospital immediately.",
                 "I ask an employee to help me find the bread.",
-                "I don't like this feeling but I start looking for good sales.",
+                "573.jpg",
+                "I consider leaving the store but decide it may calm me down to finish this task.",
                 "I keep walking down the aisles.",
-                "I consider leaving the store but decide it may calm me down to finish this task."
+                "I don't like this feeling but I start looking for good sales.",
+                "I take myself to the hospital immediately."
             ],
             "Duration": 15000
         }

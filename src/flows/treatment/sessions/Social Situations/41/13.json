@@ -9,10 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I smile when I see my friends.",
-                "I tell my friends that I can't breathe and I need help.",
-                "I ask how my friends are doing after I catch my breath.",
+                "586.jpg",
                 "I want to sit on the ground and avoid talking until I recover, but I acknowledge my feelings and catch my breath.",
+                "I ask how my friends are doing after I catch my breath.",
+                "I tell my friends that I can't breathe and I need help.",
+                "I smile when I see my friends.",
                 "I think about calling my partner to make sure I'm not dying, but I know that I'm actually ok."
             ],
             "Duration": 15000

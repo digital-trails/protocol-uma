@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I call out to my friend and smile.",
+                "584.jpg",
                 "I pull out a book and read until I get to my stop.",
+                "I call out to my friend and smile.",
                 "I'll want to ignore my friend the rest of the day, but I decide to talk to them instead.",
-                "I start to cry.",
-                "I want to put my head between my knees and disappear, but I take a deep breath and smile."
+                "I want to put my head between my knees and disappear, but I take a deep breath and smile.",
+                "I start to cry."
             ],
             "Duration": 15000
         }

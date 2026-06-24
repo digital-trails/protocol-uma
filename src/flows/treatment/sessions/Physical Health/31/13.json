@@ -9,10 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I smile at my boss once I make it to the meeting.",
-                "I ask my boss if I could be having a heart attack.",
-                "I breathe deeply and focus on calming myself.",
                 "I feel the urge to look up my symptoms online, but remind myself that feeling this way is normal after going up a lot of stairs.",
+                "I ask my boss if I could be having a heart attack.",
+                "587.jpg",
+                "I smile at my boss once I make it to the meeting.",
+                "I breathe deeply and focus on calming myself.",
                 "I remind myself to take a few slow breaths to recenter my thoughts after I feel the urge to cry."
             ],
             "Duration": 15000

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I think about how it could be venomous, but realize the chances of that are slim.",
                 "It's going to crawl on me!",
+                "I think about how it could be venomous, but realize the chances of that are slim.",
+                "I think about how it could bite me, but remember it is probably trying to avoid me and the water.",
                 "I'm glad it's gone.",
-                "I think it went back to it's home.",
-                "I think about how it could bite me, but remember it is probably trying to avoid me and the water."
+                "I think it went back to it's home."
             ],
             "Duration": 15000
         }

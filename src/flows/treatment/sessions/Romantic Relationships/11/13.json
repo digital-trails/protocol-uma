@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I try to see things from my partner's perspective to understand where they are coming from.",
-                "I threaten to break up with my partner if they don't agree with me.",
-                "I want to yell at my partner, but I take a few minutes to calm down before returning to the conversation.",
                 "I want to lock myself in my room, but decide that avoiding my partner won't be helpful in the long run.",
-                "I explain my views calmly and clearly."
+                "I try to see things from my partner's perspective to understand where they are coming from.",
+                "I want to yell at my partner, but I take a few minutes to calm down before returning to the conversation.",
+                "I threaten to break up with my partner if they don't agree with me.",
+                "I explain my views calmly and clearly.",
+                "592.jpg"
             ],
             "Duration": 15000
         }

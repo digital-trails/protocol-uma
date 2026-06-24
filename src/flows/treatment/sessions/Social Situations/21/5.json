@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "My friends are embarrassed by me, but they won't remember this for very long.",
                 "This has probably happened to a lot of people.",
+                "My friends are embarrassed by me, but they won't remember this for very long.",
+                "My friends will get a kick out of this.",
                 "I will look clumsy in front of my friends.",
-                "I ruined the shirt, but now I have a reason to buy a new one.",
-                "My friends will get a kick out of this."
+                "I ruined the shirt, but now I have a reason to buy a new one."
             ],
             "Duration": 15000
         }

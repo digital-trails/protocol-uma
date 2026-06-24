@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I feel excited to get the party started.",
-                "I feel grateful to be invited.",
                 "I feel ashamed, but decide that thoughtful gifts are more meaningful than expensive ones.",
+                "I feel sad that I don't make as much money as my friends",
                 "I feel guilty about bringing a cheaper gift, but remind myself that my friend will probably still appreciate it.",
-                "I feel sad that I don't make as much money as my friends"
+                "I feel grateful to be invited.",
+                "I feel excited to get the party started."
             ],
             "Duration": 15000
         }

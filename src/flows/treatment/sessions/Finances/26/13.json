@@ -9,10 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I want to leave before the presents are opened, but decide to stay.",
-                "I stay at the party.",
-                "I think about lying that I forgot the gift at home, but I give it to my friend.",
                 "I walk in and hug my friend.",
+                "I want to leave before the presents are opened, but decide to stay.",
+                "I think about lying that I forgot the gift at home, but I give it to my friend.",
+                "I stay at the party.",
+                "576.jpg",
                 "I decide to stay for an hour and leave."
             ],
             "Duration": 15000

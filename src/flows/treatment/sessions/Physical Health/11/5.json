@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I can't catch my breath!",
-                "My friend is hilarious.",
-                "That's the funniest joke I've ever heard.",
                 "This tightness is really uncomfortable, but I know it's from laughing really hard.",
-                "I wish this feeling in my chest would go away, but I can stand it until it does."
+                "I can't catch my breath!",
+                "I wish this feeling in my chest would go away, but I can stand it until it does.",
+                "That's the funniest joke I've ever heard.",
+                "My friend is hilarious."
             ],
             "Duration": 15000
         }

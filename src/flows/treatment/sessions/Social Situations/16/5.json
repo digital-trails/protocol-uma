@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I've done everything I can to prepare for this presentation.",
+                "I want to cover my face, but know I can do this even if it's uncomfortable.",
+                "I want to sit back down, but decide to go forward with the presentation knowing my hard work will pay off.",
                 "Everyone will see that my hands are shaking.",
                 "It's normal to feel a little warm when you're anxious about presenting.",
-                "I want to sit back down, but decide to go forward with the presentation knowing my hard work will pay off.",
-                "I want to cover my face, but know I can do this even if it's uncomfortable."
+                "I've done everything I can to prepare for this presentation."
             ],
             "Duration": 15000
         }

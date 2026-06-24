@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I feel confident everything was shut off.",
-                "I feel guilty about not checking everything again, but I remind myself that checking once was enough.",
-                "I feel scared that I missed something, and then gently focus on what's going on in the car.",
                 "I feel excited about the trip.",
+                "I feel confident everything was shut off.",
+                "I feel scared that I missed something, and then gently focus on what's going on in the car.",
+                "I feel guilty about not checking everything again, but I remind myself that checking once was enough.",
                 "I'm worried that an appliance was left on."
             ],
             "Duration": 15000

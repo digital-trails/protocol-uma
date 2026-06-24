@@ -10,10 +10,11 @@
             "type": "TimedText",
             "texts": [
                 "I go on with my bathroom routine.",
+                "I leave the bathroom immediately and don't take a shower.",
                 "I want to scream, but instead gently move the spider outside.",
-                "I put on my favorite song and hop in the shower.",
                 "I want to run away, but decide to stay and face my fears.",
-                "I leave the bathroom immediately and don't take a shower."
+                "581.jpg",
+                "I put on my favorite song and hop in the shower."
             ],
             "Duration": 15000
         }

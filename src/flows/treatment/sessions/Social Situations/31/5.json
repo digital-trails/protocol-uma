@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I really don't like sitting alone, but I know I can handle this short bus ride.",
                 "It feels like my friend is mad at me, but they would have said something.",
-                "I'm able to sit here alone for the rest of the ride.",
+                "My friend walked past me on purpose.",
                 "My friend probably had something to talk about with the other friend.",
-                "My friend walked past me on purpose."
+                "I really don't like sitting alone, but I know I can handle this short bus ride.",
+                "I'm able to sit here alone for the rest of the ride."
             ],
             "Duration": 15000
         }

@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm scared about what this means for my finances, but I trust that we will figure it out.",
-                "I am confident in our plan for handling this situation.",
                 "I am thrilled that my partner is out of the hospital.",
+                "I'm scared about what this means for my finances, but I trust that we will figure it out.",
                 "I am terrified that we will never recover from this financially.",
+                "I am confident in our plan for handling this situation.",
                 "The uncertainty of this situation is uncomfortable, but I can tolerate it."
             ],
             "Duration": 15000

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I feel shy about liking their profile, but decide to be excited about the opportunity.",
                 "I'm scared that I'll never find someone who's interested in me romantically.",
                 "I feel excited I have a romantic prospect.",
-                "I feel happy that I liked their profile.",
                 "I feel embarrassed by some pictures I have up, but decide to feel confident about them.",
-                "I feel shy about liking their profile, but decide to be excited about the opportunity."
+                "I feel happy that I liked their profile."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "My supervisor may be disappointed with our results, but I can handle it.",
+                "Our findings are interesting and valuable on their own.",
                 "I think that this information is important to share, even if the results are unexpected.",
                 "I may not put together the best presentation, but all I can do is try my best.",
-                "I'll make a bad impression in front of my supervisor if I don't change the numbers.",
-                "Our findings are interesting and valuable on their own."
+                "My supervisor may be disappointed with our results, but I can handle it.",
+                "I'll make a bad impression in front of my supervisor if I don't change the numbers."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
+                "I ask an employee where the bread is.",
                 "I notice the feeling in my chest and keep looking for the bread.",
                 "I feel uncomfortable but take a few slow breaths and keep shopping.",
-                "I ask an employee where the bread is.",
                 "I freeze in place and start to panic.",
-                "I start to leave but turn around and tell myself I can handle it."
+                "I start to leave but turn around and tell myself I can handle it.",
+                "573.jpg"
             ],
             "Duration": 15000
         }

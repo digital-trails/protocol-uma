@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "It's great to see my friends.",
+                "The tightness in my chest is really uncomfortable, but I know it'll go away soon.",
                 "I think I'm being judged by my friends for being out of breath, but they probably don't even notice.",
+                "It's great to see my friends.",
                 "It is a nice day for a jog.",
-                "I feel like I'm going to die.",
-                "The tightness in my chest is really uncomfortable, but I know it'll go away soon."
+                "I feel like I'm going to die."
             ],
             "Duration": 15000
         }

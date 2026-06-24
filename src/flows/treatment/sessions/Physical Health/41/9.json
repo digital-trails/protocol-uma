@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm happy looking for my favorite foods in a new place.",
+                "I'm scared that my heart racing means something is really wrong.",
                 "I'm excited to be in a new store.",
                 "I'm worried about my heart, but then remind myself that it's going to be OK.",
-                "I'm nervous about my health, but realize that my heart is probably beating because I'm excited to be somewhere new.",
-                "I'm scared that my heart racing means something is really wrong."
+                "I'm happy looking for my favorite foods in a new place.",
+                "I'm nervous about my health, but realize that my heart is probably beating because I'm excited to be somewhere new."
             ],
             "Duration": 15000
         }

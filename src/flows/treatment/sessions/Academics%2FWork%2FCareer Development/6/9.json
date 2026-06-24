@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I'm so embarrassed by my friend.",
                 "I'm instantly feeling ashamed of my loud friend, but remind myself that I can't control what they do.",
-                "I'm eager to get to the meeting and see people.",
                 "I'm excited about this meeting.",
                 "I'm nervous about what the people at the meeting might say, but they seem really nice and accepting.",
-                "I'm so embarrassed by my friend."
+                "I'm eager to get to the meeting and see people."
             ],
             "Duration": 15000
         }

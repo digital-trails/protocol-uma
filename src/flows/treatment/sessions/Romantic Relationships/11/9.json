@@ -10,10 +10,10 @@
             "type": "TimedText",
             "texts": [
                 "I'm furious that we don't see eye to eye on this.",
-                "I'm grateful to have a partner who cares so much about important issues.",
-                "I feel respected as we discuss our differences in opinion.",
+                "I'm upset that we got into a fight, but hopeful that we can move forward from this.",
                 "I'm disappointed that we disagree on this point, but I know it's normal for couples to have disagreements.",
-                "I'm upset that we got into a fight, but hopeful that we can move forward from this."
+                "I feel respected as we discuss our differences in opinion.",
+                "I'm grateful to have a partner who cares so much about important issues."
             ],
             "Duration": 15000
         }

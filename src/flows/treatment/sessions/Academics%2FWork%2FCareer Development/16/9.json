@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
+                "I'll be more confident working on projects in the future knowing that I can interpret real data effectively.",
                 "I'll feel more proud of our work if I don't change our results.",
                 "I am upset at my coworkers wanting me to take the easy way out.",
                 "I'm nervous about disagreeing with my coworkers, but I know it is the right thing to do",
-                "I'll be more confident working on projects in the future knowing that I can interpret real data effectively.",
                 "I feel embarrassed about telling my coworkers that this is wrong, but even if they judge me, I will be okay."
             ],
             "Duration": 15000

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "The spider's movements are really interesting.",
                 "I think about how scary the spider looked, but also how small it really was.",
-                "I think about all of the places the spider could be, but I can't control what it's doing.",
-                "It's going to jump on me!",
                 "The spider isn't going to hurt me.",
-                "The spider's movements are really interesting."
+                "It's going to jump on me!",
+                "I think about all of the places the spider could be, but I can't control what it's doing."
             ],
             "Duration": 15000
         }

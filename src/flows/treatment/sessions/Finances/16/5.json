@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I can figure out a way to handle this.",
                 "I'll never be able to afford all of this.",
                 "I have successfully dealt with financial challenges in the past and I can do it again now.",
-                "I can figure out a way to handle this.",
-                "This is a tough situation, but I won't have all of these expenses every month.",
-                "I think that there is no solution to this problem, but I take a step back and think through my options."
+                "I think that there is no solution to this problem, but I take a step back and think through my options.",
+                "This is a tough situation, but I won't have all of these expenses every month."
             ],
             "Duration": 15000
         }

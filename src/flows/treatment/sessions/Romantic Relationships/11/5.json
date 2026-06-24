@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "Our relationship is going to end over this argument.",
-                "Even when my partner and I are mad at each other, I know we still care about each other deeply.",
                 "I believe that I'm right, but I choose to accept that we might just disagree on this point.",
                 "My partner is really smart and thoughtful.",
+                "Even when my partner and I are mad at each other, I know we still care about each other deeply.",
+                "Our relationship is going to end over this argument.",
                 "This is such an important issue to be discussing."
             ],
             "Duration": 15000

@@ -32,7 +32,7 @@ def _create_practice_pages():
             domain, label = row[0].strip(), row[3]
             puzzle1,puzzle2 = map(create_puzzle,row[4:6])
             question, choices, answer = row[6], row[7:9], row[7]
-            image_url = media_url(row[9])
+            image_url = media_url(row[10])
 
             shuffle(choices)
 
@@ -98,7 +98,7 @@ def create_long_sessions():
                 domain_1 = row[0].strip()
                 domain_2 = row[1].strip() if row[1] else None
                 label = row[3]
-                image_url = media_url(row[5])
+                image_url = media_url(row[21])
                 scenario_description = row[4]
                 thoughts = row[6:11]
                 feelings = row[11:16]
@@ -131,7 +131,7 @@ def create_short_sessions():
             domain2   = row[4].strip()
             domain3   = row[5].strip()
             label     = row[6]
-            image_url = media_url(row[12])
+            image_url = media_url(row[13])
             tipe      = row[2].strip()
 
             if not domain or not label: continue
@@ -156,7 +156,7 @@ def create_short_sessions():
 
                 shuffle(choices)
 
-                if row[13]: letters_missing = row[13]
+                if row[14]: letters_missing = row[14]
 
                 is_first_session = len(sessions[domain]) == 0
                 is_first_scenario = len(scenarios[domain]) == 0

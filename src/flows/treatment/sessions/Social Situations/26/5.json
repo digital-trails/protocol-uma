@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "They didn't expect me to come back so soon.",
-                "They might have been having a good time without me, but that doesn't mean they don't enjoy being my friends.",
                 "Everyone must be noticing my new outfit.",
-                "I might have something on my outfit, but I can go back to the bathroom and clean it off.",
-                "Everyone is gossiping about me."
+                "They didn't expect me to come back so soon.",
+                "Everyone is gossiping about me.",
+                "They might have been having a good time without me, but that doesn't mean they don't enjoy being my friends.",
+                "I might have something on my outfit, but I can go back to the bathroom and clean it off."
             ],
             "Duration": 15000
         }

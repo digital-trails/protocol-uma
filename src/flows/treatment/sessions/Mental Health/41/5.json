@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "People are going to judge how I look.",
                 "I don't think I look good in the photo, but I probably look better to other people.",
                 "People may not like the picture, but I feel good being appreciated by my friends.",
-                "My friends enjoy hanging out with me.",
-                "People are going to judge how I look.",
-                "My friends have beautiful profiles."
+                "My friends have beautiful profiles.",
+                "My friends enjoy hanging out with me."
             ],
             "Duration": 15000
         }

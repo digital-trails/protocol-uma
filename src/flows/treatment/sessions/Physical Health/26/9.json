@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm worried that something's wrong with me, but I remind myself that it's normal to feel out of breath after walking up a bunch of stairs.",
+                "I'm feeling excited now that my blood is pumping.",
                 "I feel embarrassed about being out of breath, but I'm able to focus on what my boss has to say.",
+                "I'm worried that something's wrong with me, but I remind myself that it's normal to feel out of breath after walking up a bunch of stairs.",
                 "I'm worried that there's something really wrong with me.",
-                "I'm happy I made the meeting on time.",
-                "I'm feeling excited now that my blood is pumping."
+                "I'm happy I made the meeting on time."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
+                "I am courageous for sitting on my own.",
                 "I am upset thinking that my friend is mad at me, but I know I should not assume the worst.",
                 "I am annoyed that my friend doesn't want to sit with me, but I know that this situation will pass.",
-                "I feel mad at my friend for not sitting with me.",
                 "I am happy that my friends are happy.",
-                "I am courageous for sitting on my own."
+                "I feel mad at my friend for not sitting with me."
             ],
             "Duration": 15000
         }

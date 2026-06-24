@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I feel happy to see my friends.",
-                "I'm worried I'm really sick because of the tightness in my chest.",
                 "I feel invigorated.",
                 "Feeling out of breath reminds me of how I feel when I'm a little anxious, which is interesting to notice.",
+                "I feel happy to see my friends.",
+                "I'm worried I'm really sick because of the tightness in my chest.",
                 "Even though it's uncomfortable to feel out of breath, I know it's normal to feel this way after running."
             ],
             "Duration": 15000

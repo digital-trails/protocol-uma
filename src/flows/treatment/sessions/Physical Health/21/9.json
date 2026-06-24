@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm anxious about getting bitten, but remind myself that's the worst case scenario and it probably won't happen.",
+                "I'm worried about what we'll see in the park, but know that I can handle feeling a little worried.",
                 "I'm calm thinking about going to the park.",
                 "I'm happy my friend asked me to go on a walk.",
-                "I'm worried about what we'll see in the park, but know that I can handle feeling a little worried.",
+                "I'm anxious about getting bitten, but remind myself that's the worst case scenario and it probably won't happen.",
                 "I'm terrified that something bad is going to happen to me."
             ],
             "Duration": 15000

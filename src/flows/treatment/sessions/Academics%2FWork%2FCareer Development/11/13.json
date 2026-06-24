@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'll skip this meeting tomorrow.",
-                "I want to avoid working on the presentation, but I know that making some progress will help me feel accomplished.",
                 "I'll ask my boss what else I can do to show my skills.",
+                "70.jpg",
+                "I want to avoid working on the presentation, but I know that making some progress will help me feel accomplished.",
+                "I want to ask my colleagues how they thought I did, but it doesn't really matter what other people think.",
                 "I won't hide in my office after my presentation.",
-                "I want to ask my colleagues how they thought I did, but it doesn't really matter what other people think."
+                "I'll skip this meeting tomorrow."
             ],
             "Duration": 15000
         }

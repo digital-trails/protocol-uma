@@ -10,10 +10,11 @@
             "type": "TimedText",
             "texts": [
                 "I put my phone away so I'll be more willing to talk to people.",
-                "I go to the bathroom to avoid talking to people.",
                 "I want to avoid everyone around me, but remind myself that I'll have a better time if I talk to people.",
                 "I feel the urge to skip the meeting because I'm embarrassed, but I stay because going to this meeting is important.",
-                "I walk over to the meeting room and start talking to people."
+                "578.jpg",
+                "I walk over to the meeting room and start talking to people.",
+                "I go to the bathroom to avoid talking to people."
             ],
             "Duration": 15000
         }

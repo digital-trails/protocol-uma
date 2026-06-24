@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm mad that I wasted my money, but know that I'll be ok.",
-                "I'm embarrassed that I have this stain on my white shirt, but no one was hurt and it's not a big deal.",
                 "I feel like a fool.",
+                "I'm mad that I wasted my money, but know that I'll be ok.",
                 "I'm confident that I will get the stain out.",
-                "I feel lucky I didn't drop the whole coffee."
+                "I feel lucky I didn't drop the whole coffee.",
+                "I'm embarrassed that I have this stain on my white shirt, but no one was hurt and it's not a big deal."
             ],
             "Duration": 15000
         }

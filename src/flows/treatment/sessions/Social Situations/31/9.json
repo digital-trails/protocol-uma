@@ -10,10 +10,10 @@
             "type": "TimedText",
             "texts": [
                 "I'm excited to see my other friends and colleagues at work today.",
-                "I'm annoyed with my friend right now.",
+                "I'm glad that this is a short bus ride.",
                 "I'm scared that people will judge me, but I remember that lots of people ride the bus alone.",
                 "I am anxious about why my friend walked past me, but I can ask them about it later.",
-                "I'm glad that this is a short bus ride."
+                "I'm annoyed with my friend right now."
             ],
             "Duration": 15000
         }

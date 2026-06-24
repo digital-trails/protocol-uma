@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I want to avoid dealing with this situation, but decide to make a budget to help organize my finances.",
+                "I ask a friend for help with coming up with a plan.",
                 "I sit and do nothing.",
                 "I just want to be lazy and take a nap, but decide to start making a plan.",
-                "I ask a friend for help with coming up with a plan.",
-                "I talk to my insurance company about payment options."
+                "I talk to my insurance company about payment options.",
+                "593.jpg",
+                "I want to avoid dealing with this situation, but decide to make a budget to help organize my finances."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I think about my heartbeat, and decide that is normal for how fast I was just going.",
-                "I am happy to be on time.",
                 "I'm so out of shape.",
+                "That was an impressive mini workout!",
+                "I am happy to be on time.",
                 "I want to think about how this could be the sign of an underlying condition, but it's probably just from the stairs.",
-                "That was an impressive mini workout!"
+                "I think about my heartbeat, and decide that is normal for how fast I was just going."
             ],
             "Duration": 15000
         }

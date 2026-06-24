@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I smile at all of my friends.",
                 "I want to skip the party to deal with my anxiety about the gift, but decide to push myself to go anyway.",
+                "576.jpg",
                 "I have fun dancing at the party.",
+                "I try to sneak by my friend so they don't notice me when I walk in.",
                 "I'm tempted to leave before the presents are opened, but remind myself that I'm actually having fun.",
-                "I try to sneak by my friend so they don't notice me when I walk in."
+                "I smile at all of my friends."
             ],
             "Duration": 15000
         }

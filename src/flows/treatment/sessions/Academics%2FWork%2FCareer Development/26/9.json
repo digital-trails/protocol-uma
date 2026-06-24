@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I was really anxious while I was answering, but was able to manage my feelings.",
-                "I'm disappointed in myself because I couldn't say what I wanted to say, but I think my boss understood my point.",
-                "I'm satisfied with how I phrased my answer.",
                 "I'm glad my boss gave me the opportunity to share my answer.",
-                "I was scared while answering"
+                "I was scared while answering",
+                "I'm disappointed in myself because I couldn't say what I wanted to say, but I think my boss understood my point.",
+                "I was really anxious while I was answering, but was able to manage my feelings.",
+                "I'm satisfied with how I phrased my answer."
             ],
             "Duration": 15000
         }

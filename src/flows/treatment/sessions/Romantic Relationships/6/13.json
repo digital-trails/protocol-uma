@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I tell my friend about how I liked their profile.",
-                "I delete all of the pictures that might be embarrassing.",
-                "I want to change some of my pictures, but keep them the same.",
                 "I want to deactivate my account, but decide to keep it up.",
-                "I send them a message to start the conversation."
+                "I want to change some of my pictures, but keep them the same.",
+                "I send them a message to start the conversation.",
+                "589.jpg",
+                "I delete all of the pictures that might be embarrassing.",
+                "I tell my friend about how I liked their profile."
             ],
             "Duration": 15000
         }

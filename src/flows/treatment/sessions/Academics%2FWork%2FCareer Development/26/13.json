@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
-                "I won't speak up again in meetings.",
-                "I feel like I should crack a joke so my coworkers forget about my answer, but don't.",
-                "I want to cry, but I take a moment to calm down and focus on the next question.",
+                "565.jpg",
+                "I'll make sure I'm more prepared before the next meeting.",
                 "I smile and sit back.",
-                "I'll make sure I'm more prepared before the next meeting."
+                "I feel like I should crack a joke so my coworkers forget about my answer, but don't.",
+                "I won't speak up again in meetings.",
+                "I want to cry, but I take a moment to calm down and focus on the next question."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I wonder what is going on with his health, but reassure myself that my family takes care of him.",
                 "He looks so happy to be with family.",
-                "My father is glad that I'm visiting.",
+                "I think about whether my parents are keeping something from me, but tell myself that I can't control my father's health.",
                 "He's probably going to pass away soon.",
-                "I think about whether my parents are keeping something from me, but tell myself that I can't control my father's health."
+                "I wonder what is going on with his health, but reassure myself that my family takes care of him.",
+                "My father is glad that I'm visiting."
             ],
             "Duration": 15000
         }

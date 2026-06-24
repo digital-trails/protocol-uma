@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I think about how I enjoy spending time by myself during my commute.",
-                "I feel left out, but I know there are times that not everyone can be included.",
                 "I would rather have my friend next to me on this bus ride, but that's not always possible.",
+                "I think about how I enjoy spending time by myself during my commute.",
                 "My friend doesn't consider me their friend.",
-                "Maybe they haven't had a chance to catch up in a while."
+                "Maybe they haven't had a chance to catch up in a while.",
+                "I feel left out, but I know there are times that not everyone can be included."
             ],
             "Duration": 15000
         }

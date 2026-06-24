@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Even if my partner say something that's upsetting, my friend and I can talk about it later.",
+                "My partner will say something that makes my friend hate me.",
                 "My friend will be my friend no matter what my partner thinks.",
                 "If my partner says things that I don't agree with, they're still my partner and I love them.",
                 "We will be able to discuss the different opinions thoughtfully.",
-                "My partner will say something that makes my friend hate me."
+                "Even if my partner say something that's upsetting, my friend and I can talk about it later."
             ],
             "Duration": 15000
         }

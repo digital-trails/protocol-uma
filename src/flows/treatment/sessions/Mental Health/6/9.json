@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm anxious about getting into the shower, but know I can overcome my fear.",
-                "I'm calm as I get into the shower.",
                 "I'm grossed out, but remind myself that the spider probably can't hurt me.",
-                "I'm curious where it went.",
-                "I'm scared the spider will show up when I least expect it."
+                "I'm anxious about getting into the shower, but know I can overcome my fear.",
+                "I'm scared the spider will show up when I least expect it.",
+                "I'm calm as I get into the shower.",
+                "I'm curious where it went."
             ],
             "Duration": 15000
         }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I feel calm knowing that I tried my hardest no matter what happens.",
+                "I feel insecure about the quality of my presentation, but nothing that I do will be perfect.",
                 "I'm glad I have the self-awareness to know I need to talk to my boss soon.",
                 "I'm uneasy right now, but I can take a deep breath to help myself feel calmer.",
-                "I'm worried about what my boss will say about my presentation.",
-                "I feel insecure about the quality of my presentation, but nothing that I do will be perfect."
+                "I feel calm knowing that I tried my hardest no matter what happens.",
+                "I'm worried about what my boss will say about my presentation."
             ],
             "Duration": 15000
         }

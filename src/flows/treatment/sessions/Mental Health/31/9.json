@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "I am nervous that my boss will be let down by my progress.",
                 "I feel happy that the presentation will be over with soon.",
-                "I feel bad that I may not do as well on this presentation, but it's only one small part of my entire professional career.",
+                "I am nervous that my boss will be let down by my progress.",
+                "I feel embarrassed about asking my boss for help, but I admire my confidence for putting myself out there.",
                 "I feel better knowing that colleagues are going through the same thing I am.",
-                "I feel embarrassed about asking my boss for help, but I admire my confidence for putting myself out there."
+                "I feel bad that I may not do as well on this presentation, but it's only one small part of my entire professional career."
             ],
             "Duration": 15000
         }

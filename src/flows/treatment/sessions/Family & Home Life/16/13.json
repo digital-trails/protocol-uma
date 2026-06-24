@@ -9,11 +9,12 @@
         {
             "type": "TimedText",
             "texts": [
+                "I scream and run away.",
+                "581.jpg",
                 "I decide to turn the water on.",
                 "I start to play some music.",
-                "I want to spray bug spray everywhere, but decide to continue my shower routine since spray might do more harm than the spider.",
-                "I scream and run away.",
-                "I want to call someone to help me find the spider, but decide to just take my shower."
+                "I want to call someone to help me find the spider, but decide to just take my shower.",
+                "I want to spray bug spray everywhere, but decide to continue my shower routine since spray might do more harm than the spider."
             ],
             "Duration": 15000
         }

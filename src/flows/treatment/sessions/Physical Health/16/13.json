@@ -10,10 +10,11 @@
             "type": "TimedText",
             "texts": [
                 "I meet my friend at the park entrance.",
-                "I put on my shoes and head out the door.",
-                "I consider bailing on my friend, but push myself to go on the walk anyway.",
                 "I want to avoid going to the park, but challenge myself to go.",
-                "I tell my friend that I'm not feeling well and that I can't go."
+                "I tell my friend that I'm not feeling well and that I can't go.",
+                "172.jpg",
+                "I put on my shoes and head out the door.",
+                "I consider bailing on my friend, but push myself to go on the walk anyway."
             ],
             "Duration": 15000
         }

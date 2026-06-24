@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "My boss will be proud of me that I'm trying hard.",
-                "My boss will be disappointed by my efforts, but I can still feel proud of the work I put in.",
                 "My colleagues are going to be bored and talk to each other during my presentation.",
+                "This presentation will be a good opportunity for me to practice my public speaking skills.",
                 "I might not do my best on this presentation, but I will get through it.",
-                "This presentation will be a good opportunity for me to practice my public speaking skills."
+                "My boss will be proud of me that I'm trying hard.",
+                "My boss will be disappointed by my efforts, but I can still feel proud of the work I put in."
             ],
             "Duration": 15000
         }

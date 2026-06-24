@@ -10,10 +10,11 @@
             "type": "TimedText",
             "texts": [
                 "I want to talk about this with my other friends, but decide to keep this to myself.",
-                "I want to get mad and bring up the subject as soon as we get off of the bus, but I know that isn't right so I give my friend some time.",
                 "I say hello to my friend as they pass.",
+                "I want to get mad and bring up the subject as soon as we get off of the bus, but I know that isn't right so I give my friend some time.",
+                "I start to journal in my notebook.",
                 "I get flustered and move further away from my friend.",
-                "I start to journal in my notebook."
+                "584.jpg"
             ],
             "Duration": 15000
         }

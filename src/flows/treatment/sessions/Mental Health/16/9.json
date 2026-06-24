@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "I'm scared that our house is going to burn down.",
                 "I'm miserable worrying about whether everything is off, but remind myself to focus on the present and take a deep breath.",
-                "I am satisfied that I checked the appliances that I could on my way out.",
                 "I feel calm now that I'm in the car and on my way out of town with my family.",
+                "I am satisfied that I checked the appliances that I could on my way out.",
+                "I'm scared that our house is going to burn down.",
                 "I feel worried about the house burning down, but know that I can tolerate this feeling and it will pass."
             ],
             "Duration": 15000

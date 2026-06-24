@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "We interrupted a lot of people by making so much noise, but they are not likely to remember it or think about it afterward.",
-                "My immediate thought is that the people at the meeting will be mad at me, but I remind myself that I don't judge people for what their friends do.",
                 "I'm looking forward to this meeting.",
-                "I'm lucky to have a friend who helps me with transportation.",
-                "The people at the meeting are going to judge me."
+                "My immediate thought is that the people at the meeting will be mad at me, but I remind myself that I don't judge people for what their friends do.",
+                "We interrupted a lot of people by making so much noise, but they are not likely to remember it or think about it afterward.",
+                "The people at the meeting are going to judge me.",
+                "I'm lucky to have a friend who helps me with transportation."
             ],
             "Duration": 15000
         }
