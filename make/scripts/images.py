@@ -16,7 +16,7 @@ def get_image(id):
     except Exception as ex:
         return request.urlopen(url2)
 
-with open(f"{dir_csv}/Spanish Images.csv", "r", encoding="utf-8") as read_obj:
+with open(f"{dir_csv}/images.csv", "r", encoding="utf-8") as read_obj:
     for row in islice(csv.reader(read_obj), 1, None):
         url,name = row
         try:
