@@ -1,22 +1,10 @@
 {
-    "header_text": "Meeting a Friend",
+    "header_text": "Great Job",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "MEETING A FRIEND: You arrive a little late, and...\n\nGet a call from your friend who is on her way, but running late."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
-                "Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "IBM_friend_interpretation_3"
+            "text": "Great job! We hope that this brief training helped clarify the purpose of these short stories and what you might be able to get out of MindTrails. Moving forward, you'll be able to choose areas of life that are causing the most stress so that the stories you read will be more relevant to you. During future sessions, you will also receive tips that are designed to help you manage your emotions, connect with resources at UVA, and apply what you learn from the short stories to your own life."
         }
     ]
 }

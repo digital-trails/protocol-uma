@@ -177,6 +177,7 @@ def lower(str):
 
 def media_url(media):
     if media and media.strip():
+        media = media.replace("https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic","lemon_pic")
         assert Path(f"./src/images/{media.strip()}").exists()
         return f"./images/{media.strip()}"
 

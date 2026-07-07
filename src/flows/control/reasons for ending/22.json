@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Did you contact any of the following resources or referrals at any point since you started using Mindtrails? Please select all that apply."
+            "text": "Did you contact any of the following resources or referrals at any point since you started using MindTrails? Please select all that apply."
         },
         {
             "type": "Buttons",

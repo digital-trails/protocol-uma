@@ -4,18 +4,19 @@
     "elements": [
         {
             "type": "Text",
-            "text": "What is your ethnicity?"
+            "text": "Which of the following best represents how you think of yourself?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Hispanic or Latino",
-                "Not Hispanic or Latino",
-                "Unknown",
+                "Lesbian or gay",
+                "Straight, that is, not gay or lesbian",
+                "Bisexual",
+                "!I use a different term",
+                "Don't know",
                 "^Prefer not to answer"
             ],
-            "selectable": true,
-            "name": "ethnicity"
+            "selectable": true
         }
     ]
 }

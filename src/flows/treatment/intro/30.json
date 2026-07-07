@@ -1,22 +1,23 @@
 {
-    "header_text": "The Wedding Reception",
+    "header_text": "Stress Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend asks you to give a speech at her wedding reception. You prepare some remarks and when the time comes, get to your feet. As you speak, you notice some people in the audience start to..."
+            "text": "In the last month, how often have you felt that you were unable to control the important things in your life?"
         },
         {
-            "type": "WordPuzzle",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "laugh"
+            "type": "Buttons",
+            "buttons": [
+                "Never",
+                "Almost Never",
+                "Sometimes",
+                "Fairly Often",
+                "Very Often",
+                "^Prefer not to answer"
             ],
-            "name": "IBM_wedding_puzzle"
+            "selectable": true,
+            "name": "PSS-4_control"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

@@ -1,20 +1,22 @@
 {
-    "header_text": "The Elevator",
+    "header_text": "Sadness Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Did you think about the elevator's safety?"
+            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nFeeling down, depressed, or hopeless."
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Yes",
-                "No"
+                "Not at all",
+                "Several days",
+                "More than half the days",
+                "Nearly every day",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "ColumnCount": 2,
-            "name": "IBM_elevator"
+            "name": "OASIS_depressed"
         }
     ]
 }

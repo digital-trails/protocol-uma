@@ -1,22 +1,10 @@
 {
-    "header_text": "The Lunch",
+    "header_text": "Great Job",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "THE LUNCH: Your friend looks at you...\n\nBecause she thinks you are a slob."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
-                "Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "IBM_lunch_interpretation_1"
+            "text": "Still have questions? Contact the team at HoosThinkCalmly@gmail.com! We would be happy to schedule a Zoom call to address any questions or concerns you may have."
         }
     ]
 }

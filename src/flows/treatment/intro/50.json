@@ -1,22 +1,23 @@
 {
-    "header_text": "The Elevator",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "THE ELEVATOR: The building looks old, and as you get on the elevator...\n\nYou think that riding the elevator will be safe."
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
-                "Prefer not to answer"
+                "Very well",
+                "Somewhat well",
+                "Neutral",
+                "Somewhat badly",
+                "Very badly",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "IBM_elevator_interpretation_4"
+            "name": "imagery_handling"
         }
     ]
 }

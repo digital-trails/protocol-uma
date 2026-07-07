@@ -1,20 +1,23 @@
 {
-    "header_text": "The Job",
+    "header_text": "Stress Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Will you be without an income soon?"
+            "text": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Yes",
-                "No"
+                "Never",
+                "Almost Never",
+                "Sometimes",
+                "Fairly Often",
+                "Very Often",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "ColumnCount": 2,
-            "name": "IBM_job"
+            "name": "PSS-4_difficulties"
         }
     ]
 }
