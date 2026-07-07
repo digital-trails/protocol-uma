@@ -1,22 +1,14 @@
 {
-    "header_text": "The Blood Test",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a routine doctor's appointment. At the appointment, the doctor decides to run a few blood tests to check your health. The doctor says he will call you in a few weeks, and you will find out your test results at that..."
+            "text": "Please describe the situation in a few words:"
         },
         {
-            "type": "WordPuzzle",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "time"
-            ],
-            "name": "IBM_blood_puzzle"
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

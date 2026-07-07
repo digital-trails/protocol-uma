@@ -1,27 +1,23 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Anxiety Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the past two months, have there been any changes to your mental health treatment? Check all that apply."
+            "text": "In the past week, how often have you felt anxious?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "I started therapy",
-                "I ended therapy",
-                "I changed therapists",
-                "My prescriber changed my prescription dose",
-                "I started a prescription medication",
-                "I stopped a prescription medication",
-                "I haven't had any changes",
-                "^Prefer not to answer",
-                "!Other:"
+                "No anxiety in the past week",
+                "Infrequent anxiety. Felt anxious a few times.",
+                "Occasional anxiety. Felt anxious as much of the time as not. It was hard to relax.",
+                "Frequent anxiety. Felt anxious most of the time. It was very difficult to relax.",
+                "Constant anxiety. Felt anxious all of the time and never really relaxed.",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "multiselect": true,
-            "name": "changes_treatment"
+            "name": "OASIS_frequency_anxious"
         }
     ]
 }

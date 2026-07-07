@@ -1,20 +1,21 @@
 {
-    "header_text": "Meeting a Friend",
+    "header_text": "Lemon Exercise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Did your friend stop?"
+            "text": "Okay...let's begin! Imagine you are holding the lemon in your right hand, and you can feel its shape and its weight."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "selectable": true,
-            "ColumnCount": 2,
-            "name": "IBM_friend"
+            "type": "Media",
+            "url": "./images/lemon_pic2.jpeg",
+            "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

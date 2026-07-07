@@ -1,22 +1,27 @@
 {
-    "header_text": "The Wedding Reception",
+    "header_text": "Contributing to a discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "THE WEDDING RECEPTION: As you enter the room...\n\nYou notice someone you do not like just walked into the reception."
+            "text": "The people in your office will probably ..."
         },
         {
             "type": "Buttons",
+            "name": "Contributing to a discussion_Academics/Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
             "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
-                "Prefer not to answer"
+                "Dislike your ideas.",
+                "Support your ideas."
             ],
-            "selectable": true,
-            "name": "IBM_wedding_interpretation_4"
+            "column_Count": 1,
+            "correct_value": "Support your ideas."
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

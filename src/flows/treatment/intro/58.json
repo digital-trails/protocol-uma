@@ -1,22 +1,23 @@
 {
-    "header_text": "The Job",
+    "header_text": "Attention in store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "THE JOB: You think about not having an income for a few weeks...\n\nAnd are sad about leaving your current coworkers."
+            "text": "After a few moments, the other shoppers turn away; they were just startled by the loud noise. The store owner kindly accepts your apology and tells you not to worry about the mess, so you then feel..."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
-                "Prefer not to answer"
+            "type": "WordPuzzle",
+            "name": "Attention in store_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "calm"
             ],
-            "selectable": true,
-            "name": "IBM_job_interpretation_4"
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

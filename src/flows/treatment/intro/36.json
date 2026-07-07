@@ -1,22 +1,21 @@
 {
-    "header_text": "Meeting a Friend",
+    "header_text": "Lemon Exercise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the street you bump into an old friend you haven't seen for a long time. She is too busy to stop, so you arrange to meet later in a bar. You arrive a little late but the bar is empty and a few minutes later she is still not..."
+            "text": "In this exercise - and throughout the training program - please remember to imagine what is happening through your own eyes, similar to the picture on the left. This is more effective than viewing the situation as an outside observer, like the picture on the right."
         },
         {
-            "type": "WordPuzzle",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "there"
-            ],
-            "name": "IBM_friend_puzzle"
+            "type": "Media",
+            "url": "./images/lemon_pic1.jpeg",
+            "border": true
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
+    ]
 }

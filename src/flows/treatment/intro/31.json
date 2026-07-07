@@ -1,20 +1,23 @@
 {
-    "header_text": "The Wedding Reception",
+    "header_text": "Stress Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Does the audience laugh when you speak?"
+            "text": "In the last month, how often have you felt confident about your ability to handle your personal problems?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Yes",
-                "No"
+                "Never",
+                "Almost Never",
+                "Sometimes",
+                "Fairly Often",
+                "Very Often",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "ColumnCount": 2,
-            "name": "IBM_wedding"
+            "name": "PSS-4_confident"
         }
     ]
 }

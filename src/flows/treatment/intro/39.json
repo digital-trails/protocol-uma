@@ -1,20 +1,21 @@
 {
-    "header_text": "The Lunch",
+    "header_text": "Lemon Exercise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Do you have salad for lunch?"
+            "text": "Now imagine that you scratch the skin with your fingernail, then you bring the lemon up to your nose, and you can smell the fresh zesty juice from the skin."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "selectable": true,
-            "ColumnCount": 2,
-            "name": "IBM_lunch"
+            "type": "Media",
+            "url": "./images/lemon_pic4.jpeg",
+            "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

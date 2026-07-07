@@ -4,23 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "What is your race?"
+            "text": "What is your gender identity?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "American Indian/Alaska Native",
-                "East Asian",
-                "South Asian",
-                "Native Hawaiian/Pacific Islander",
-                "Black/African origin",
-                "White/European origin",
-                "Other or Unknown",
+                "Woman",
+                "Man",
+                "Transgender Woman",
+                "Transgender Man",
+                "!Another identity",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "multiselect": true,
-            "name": "race"
+            "name": "gender"
         }
     ]
 }

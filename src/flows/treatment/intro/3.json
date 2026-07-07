@@ -4,19 +4,23 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Which of the following best represents how you think of yourself?"
+            "text": "What is your race?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Lesbian or gay",
-                "Straight, that is, not gay or lesbian",
-                "Bisexual",
-                "!I use a different term",
-                "Don't know",
+                "American Indian/Alaska Native",
+                "East Asian",
+                "South Asian",
+                "Native Hawaiian/Pacific Islander",
+                "Black/African origin",
+                "White/European origin",
+                "Other or Unknown",
                 "^Prefer not to answer"
             ],
-            "selectable": true
+            "selectable": true,
+            "multiselect": true,
+            "name": "race"
         }
     ]
 }

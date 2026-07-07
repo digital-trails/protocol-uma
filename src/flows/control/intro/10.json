@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How did you learn about Mindtrails? (Select all that Apply)"
+            "text": "How did you learn about MindTrails? (Select all that Apply)"
         },
         {
             "type": "Buttons",

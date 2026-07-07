@@ -1,22 +1,19 @@
 {
-    "header_text": "The Elevator",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "THE ELEVATOR: The building looks old, and as you get on the elevator...\n\nYou think that the elevator will probably break down while you are on it."
+            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. \n\n0 = Absolutely no anxiety. \n\n10 = Totally anxious."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Very different",
-                "Different",
-                "Similar",
-                "Very similar",
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
                 "Prefer not to answer"
             ],
-            "selectable": true,
-            "name": "IBM_elevator_interpretation_1"
+            "name": "imagery_anxiety"
         }
     ]
 }
