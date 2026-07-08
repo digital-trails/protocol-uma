@@ -1,14 +1,14 @@
 {
-    "header_text": "Contributing to a discussion",
+    "header_text": "A birthday cake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Contributing to a discussion"
+            "text": "A birthday cake"
         },
         {
             "type": "Media",
-            "url": "./images/54.jpg"
+            "url": "./images/386.jpg"
         }
     ]
 }

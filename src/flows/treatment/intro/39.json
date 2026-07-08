@@ -1,21 +1,23 @@
 {
-    "header_text": "Lemon Exercise",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Now imagine that you scratch the skin with your fingernail, then you bring the lemon up to your nose, and you can smell the fresh zesty juice from the skin."
+            "text": "How vividly did you imagine the situation?"
         },
         {
-            "type": "Media",
-            "url": "./images/lemon_pic4.jpeg",
-            "border": true
+            "type": "Buttons",
+            "buttons": [
+                "Not at all vivid",
+                "Somewhat vivid",
+                "Moderately vivid",
+                "Very vivid",
+                "Totally vivid",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 2000
-        },
-        "wait_for_click"
     ]
 }

@@ -1,21 +1,23 @@
 {
-    "header_text": "Lemon Exercise",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Now imagine that you squeeze the lemon and some of the juice squirts right into your eyes, and it is really stinging, making your eyes water."
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
         },
         {
-            "type": "Media",
-            "url": "./images/lemon_pic6.jpeg",
-            "border": true
+            "type": "Buttons",
+            "buttons": [
+                "Very well",
+                "Somewhat well",
+                "Neutral",
+                "Somewhat badly",
+                "Very badly",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 2000
-        },
-        "wait_for_click"
     ]
 }
