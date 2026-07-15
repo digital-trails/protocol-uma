@@ -4,13 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "During today's class, you have to present in front of your classmates and professor. You've been struggling to put this presentation together, but you haven't reached out to your professor about it yet. \n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "texts": [
                 "70.jpg",
-                "I may feel upset and want to leave the meeting, but I take a few breaths to calm myself down.",
+                "I may feel upset and want to leave the class, but I take a few breaths to calm myself down.",
                 "I make a joke at the beginning of my presentation to break the ice.",
                 "I'll make up an excuse for why I didn't prepare enough for the presentation.",
                 "I practice my presentation.",

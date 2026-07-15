@@ -4,14 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You have an assignment at work due next week that your boss and many of your colleagues are going to see. You aren't completely comfortable with the material and worry about how the assignment will go.\n\nHere are some thoughts that might pop into mind:"
+            "text": "You have an assignment due next week that your professor and many of your classmates are going to see. You aren't completely comfortable with the material and worry about how the assignment will go.\n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "My colleagues will think I'm dumb if I do not do well.",
+                "My classmates will think I'm dumb if I do not do well.",
                 "I don't understand the material enough to produce a good assignment, but I think I will still get my main point across.",
-                "My colleagues probably won't think my work is perfect, but they can give me constructive feedback that will help me improve for next time.",
+                "My classmates probably won't think my work is perfect, but they can give me constructive feedback that will help me improve for next time.",
                 "This assignment will go well.",
                 "I can ask for help on the assignment."
             ],

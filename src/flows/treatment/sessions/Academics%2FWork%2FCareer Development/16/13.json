@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "You're working on a report with a few classmates and need to report some statistics. A classmate suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
