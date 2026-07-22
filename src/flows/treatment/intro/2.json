@@ -112,7 +112,139 @@
                 "2010",
                 "^Prefer not to answer"
             ],
-            "name": "birthyear"
+            "name": "birthyear"  
+        },
+        {
+            "type": "Text",
+            "text": "What is your gender identity?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Woman",
+                "Man",
+                "Transgender Woman",
+                "Transgender Man",
+                "!Another identity",
+                "^Prefer not to answer"
+            ],
+            "name": "gender"
+        },
+        {
+            "type": "Text",
+            "text": "Which of the following best represents how you think of yourself?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Lesbian or gay",
+                "Straight, that is, not gay or lesbian",
+                "Bisexual",
+                "!I use a different term",
+                "Don't know",
+                "^Prefer not to answer"
+            ]
+        },
+        {
+            "type": "Text",
+            "text": "What is your highest educational attainment?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Elementary School",
+                "Junior High",
+                "Some High School",
+                "High School Graduate",
+                "Some College",
+                "Associate's Degree",
+                "Bachelor's Degree",
+                "Some Graduate School",
+                "Master's Degree",
+                "M.B.A.",
+                "J.D.",
+                "M.D.",
+                "Ph.D.",
+                "Other Advanced Degree",
+                "^Prefer not to answer"
+            ],
+            "name": "education"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Single",
+                "Single, but casually dating",
+                "Single, but currently engaged to be married",
+                "Single, but currently living with someone in a marriage-like relationship",
+                "Married",
+                "In a domestic or civil union",
+                "Separated",
+                "Divorced",
+                "Widow/widower",
+                "Other",
+                "Prefer not to answer"
+            ],
+            "name": "relationship"
+        },
+        {
+            "type": "Text",
+            "text": "What is your employment status?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Working full-time",
+                "Working part-time",
+                "Unemployed or laid off",
+                "Looking for work",
+                "Homemaker/keeping house or raising children full-time",
+                "Retired",
+                "Student",
+                "Other",
+                "Unknown",
+                "Prefer not to answer"
+            ],
+            "name": "employment"
+        },
+                {
+            "type": "Text",
+            "text": "What is your household annual income, before taxes and other deductions (in US dollars or equivalent)?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Less than $5,000",
+                "$5,000 through $11,999",
+                "$12,000 through $15,999",
+                "$16,000 through $24,999",
+                "$25,000 through $34,999",
+                "$35,000 through $49,999",
+                "$50,000 through $74,999",
+                "$75,000 through $99,999",
+                "$100,000 through $149,999",
+                "$150,000 through $199,999",
+                "$200,000 through $249,999",
+                "$250,000 or greater",
+                "Don't know",
+                "Prefer not to answer"
+            ],
+            "name": "income"
+        },
+        {
+            "type": "Text",
+            "text": "How would you categorize the area in which you live?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Urban/large city (residing inside of a major city, e.g., Roanoke, Richmond, Virginia Beach)",
+                "Urban/small city/town (residing inside of a small city or town, e.g., Charlottesville, Lynchburg, Salem, Blacksburg)",
+                "Suburban (residing outside of a city or town, e.g., in a county outside but near Charlottesville)",
+                "Rural (residing outside of urbanized areas, not near a city)",
+                "Don't know"
+            ]
         }
+
     ]
 }
