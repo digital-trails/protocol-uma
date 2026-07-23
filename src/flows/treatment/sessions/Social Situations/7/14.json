@@ -1,0 +1,16 @@
+{
+    "header_text": "COVID Fear",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "COVID Fear"
+        },
+        {
+            "type": "Media",
+            "url": "./images/445.jpg"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

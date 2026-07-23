@@ -1,0 +1,17 @@
+{
+    "header_text": "A different haircut",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While at the hairdresser's, you opt for a completely different haircut. When you see your friend afterwards, they gasp. Their gasp probably means that they think the new style makes you look..."
+        },
+        {
+            "type": "Entry",
+            "name": "A different haircut_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Member Tension",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Member Tension"
+        },
+        {
+            "type": "Media",
+            "url": "./images/136.jpg"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 3
+}

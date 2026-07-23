@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend Troubles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend Troubles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/529.jpg"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 6
+}

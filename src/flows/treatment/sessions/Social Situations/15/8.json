@@ -1,0 +1,16 @@
+{
+    "header_text": "Waiting For A Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Waiting For A Response"
+        },
+        {
+            "type": "Media",
+            "url": "./images/162.jpg"
+        }
+    ],
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

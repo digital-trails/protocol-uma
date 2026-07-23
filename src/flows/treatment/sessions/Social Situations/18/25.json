@@ -1,0 +1,25 @@
+{
+    "header_text": "Sore Throat at Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You make plans to go out to dinner with a friend, but you aren't sure if they've been around a large group of people recently. When they arrive at dinner, they keep taking sips of water, explaining that their throat tickles. You figure it's probably from talking a lot at... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sore Throat at Dinner_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "dinner"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 7
+}

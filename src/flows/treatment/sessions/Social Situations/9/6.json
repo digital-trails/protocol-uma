@@ -1,0 +1,16 @@
+{
+    "header_text": "Dancing class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dancing class"
+        },
+        {
+            "type": "Media",
+            "url": "./images/459.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 2
+}

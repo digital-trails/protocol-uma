@@ -1,0 +1,16 @@
+{
+    "header_text": "Introducing Your Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Introducing Your Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/156.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 7
+}

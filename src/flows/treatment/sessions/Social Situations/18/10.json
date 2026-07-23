@@ -1,0 +1,16 @@
+{
+    "header_text": "Not Getting an Invite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Not Getting an Invite"
+        },
+        {
+            "type": "Media",
+            "url": "./images/154.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

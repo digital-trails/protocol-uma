@@ -1,0 +1,16 @@
+{
+    "header_text": "Entering a nightclub",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Entering a nightclub"
+        },
+        {
+            "type": "Media",
+            "url": "./images/483.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 0
+}

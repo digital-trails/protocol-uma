@@ -1,0 +1,16 @@
+{
+    "header_text": "Tough Topics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tough Topics"
+        },
+        {
+            "type": "Media",
+            "url": "./images/194.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 3
+}

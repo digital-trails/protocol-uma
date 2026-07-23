@@ -1,0 +1,17 @@
+{
+    "header_text": "Word stumbling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to make a presentation about your work to your colleagues and your boss. As you start, you stumble on your first few words. Continuing with it, you think that your performance will be evaluated..."
+        },
+        {
+            "type": "Entry",
+            "name": "Word stumbling_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Positive",
+    "scenario_num": 9
+}

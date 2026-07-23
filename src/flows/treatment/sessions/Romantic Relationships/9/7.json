@@ -1,0 +1,16 @@
+{
+    "header_text": "Holiday Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holiday Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/154.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 2
+}

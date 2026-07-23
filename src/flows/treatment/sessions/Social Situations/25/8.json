@@ -1,0 +1,17 @@
+{
+    "header_text": "Honest Feedback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You present an idea for an event for your department. When you ask people what they think, one colleague raises their hand and says that they hate the..."
+        },
+        {
+            "type": "Entry",
+            "name": "Honest Feedback_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 2
+}

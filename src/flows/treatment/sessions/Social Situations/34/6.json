@@ -1,0 +1,29 @@
+{
+    "header_text": "The New City",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking about life in your new home going forward, you imagine:"
+        },
+        {
+            "type": "Buttons",
+            "name": "The New City_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Having a new group of friends you can rely on.",
+                "Needing to do everything yourself."
+            ],
+            "column_Count": 1,
+            "correct_value": "Having a new group of friends you can rely on."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 1
+}

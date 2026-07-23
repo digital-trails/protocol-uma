@@ -1,0 +1,16 @@
+{
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reason 3:"
+        },
+        {
+            "type": "Entry",
+            "name": "Reason3_WYO"
+        }
+    ]
+}

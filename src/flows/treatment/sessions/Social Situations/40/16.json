@@ -1,0 +1,17 @@
+{
+    "header_text": "A heated discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you are clearing up afterwards, you realize that despite it being heated, the debate between your guests was respectful and refreshing. They probably found the party..."
+        },
+        {
+            "type": "Entry",
+            "name": "A heated discussion_Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 5
+}

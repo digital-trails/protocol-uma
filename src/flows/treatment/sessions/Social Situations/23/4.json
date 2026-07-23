@@ -1,0 +1,17 @@
+{
+    "header_text": "Not Feeling Supported",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember why you worked on the project in the first place. After you think about it, you appreciate how hard you worked and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Not Feeling Supported_Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 0
+}

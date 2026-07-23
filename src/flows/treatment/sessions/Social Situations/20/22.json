@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Comments"
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ],
+    "type": "Negative",
+    "scenario_num": 6
+}

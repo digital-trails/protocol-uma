@@ -1,0 +1,16 @@
+{
+    "header_text": "A Rude Comment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Rude Comment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/353.jpg"
+        }
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}

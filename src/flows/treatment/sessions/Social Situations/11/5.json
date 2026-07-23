@@ -1,0 +1,25 @@
+{
+    "header_text": "Strong opinions: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner has some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner and sense some possible tension. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My partner will say something that makes my friend hate me.",
+                "My friend will be my friend no matter what my partner thinks.",
+                "If my partner says things that I don't agree with, they're still my partner and I love them.",
+                "We will be able to discuss the different opinions thoughtfully.",
+                "Even if my partner say something that's upsetting, my friend and I can talk about it later."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

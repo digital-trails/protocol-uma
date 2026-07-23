@@ -1,0 +1,22 @@
+{
+    "header_text": "The Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "THE LUNCH: Your friend looks at you...\n\nAnd you smile because your lunch tastes good."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very different",
+                "Different",
+                "Similar",
+                "Very similar",
+                "Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "IBM_lunch_interpretation_4"
+        }
+    ]
+}

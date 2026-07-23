@@ -1,0 +1,25 @@
+{
+    "header_text": "COVID Fear",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend has been coughing for a few days and when you ask them to get tested, they refuse, saying they shouldn’t have to because they weren’t exposed. You want to talk to them about it and understand their perspective, but you're worried about how they will..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "COVID Fear_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "react"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "Resilience/Negation",
+    "scenario_num": 4
+}

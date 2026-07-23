@@ -1,0 +1,29 @@
+{
+    "header_text": "The Soccer Tournament",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the end of the game, your teammates are likely to be thinking"
+        },
+        {
+            "type": "Buttons",
+            "name": "The Soccer Tournament_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "\"You played great today!\"",
+                "\"You blew it!\""
+            ],
+            "column_Count": 1,
+            "correct_value": "\"You blew it!\""
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Negative",
+    "scenario_num": 5
+}

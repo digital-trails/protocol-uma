@@ -1,0 +1,29 @@
+{
+    "header_text": "Feeling Different",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Is it bad that you feel different from others in your field?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Feeling Different_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                ""
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "Positive",
+    "scenario_num": 9
+}
