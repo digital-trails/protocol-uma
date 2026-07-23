@@ -1,23 +1,25 @@
 {
-    "header_text": "Attention in store",
+    "header_text": "Comprehension / Engagement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a few moments, the other shoppers turn away; they were just startled by the loud noise. The store owner kindly accepts your apology and tells you not to worry about the mess, so you then feel..."
+            "text": "What are you hoping to get out of the MindTrails program? Select all that apply."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Attention in store_Social Situations_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Oops! That doesn't seem right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "calm"
+            "type": "Buttons",
+            "buttons": [
+                "I want to think more flexibly and less negatively.",
+                "I want to be able to manage stressful situations more effectively.",
+                "I want to reduce my stress and/or anxiety.",
+                "I want to practice skills I've learned or am currently learning from a mental healthcare provider.",
+                "I want to maintain the gains I've made during mental health treatment.",
+                "I want to avoid a return of anxiety and/or stress I've experienced in the past.",
+                "!Other, please describe:"
             ],
-            "missing_letter_count": 1
+            "selectable": true,
+            "multiselect": true,
+            "name": "gain_from_HTC"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

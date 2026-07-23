@@ -186,16 +186,34 @@ def create_surveys():
 
     # Open the file with all the content
     with open(f"{dir_csv}/survey_questions.csv", "r", encoding="utf-8") as read_obj:
+
+        demographics_page = {}
+        demographics_page_elements = []
+        previous_sub_id = ""
+
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id = f"{row[3]}_{row[2]}"
             subgroup_id = row[0]
 
             if lookup_id not in surveys: continue
 
+            elif subgroup_id=="Demographics" and demographics_page_elements==[]:
+                demographics_page = _create_survey_page(row)
+                demographics_page_elements.append(demographics_page['elements'])
+
+            elif subgroup_id=="Demographics" and row[3]=="Dose": # Ignore the control dose
+                demographics_page_elements.append(_create_survey_page(row)['elements'])
+
+            elif previous_sub_id=="Demographics" and row[3]=="Dose": 
+                demographics_page['elements'] = demographics_page_elements
+                surveys["Dose_1"]["Demographics"].append(demographics_page)
+
             elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages())
             elif row[2]:
                 surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
+
+            previous_sub_id = subgroup_id
 
     return surveys
 

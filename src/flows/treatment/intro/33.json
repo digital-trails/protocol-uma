@@ -1,23 +1,23 @@
 {
-    "header_text": "Stress Scale",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?"
+            "text": "How likely is it that the situation or task will turn out well versus turn out badly?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Never",
-                "Almost Never",
-                "Sometimes",
-                "Fairly Often",
-                "Very Often",
+                "Very likely to turn out well",
+                "Somewhat likely to turn out well",
+                "Neutral",
+                "Somewhat likely to turn out badly",
+                "Very likely to turn out badly",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "PSS-4_difficulties"
+            "name": "imagery_well"
         }
     ]
 }

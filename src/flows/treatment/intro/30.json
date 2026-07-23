@@ -1,23 +1,15 @@
 {
-    "header_text": "Stress Scale",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the last month, how often have you felt that you were unable to control the important things in your life?"
-        },
+            "text": "Please imagine the situation as vividly as possible (i.e., so that it feels very real). Try to imagine you are actually in the situation. Play out the specific parts of the situation in your head. Try to imagine using all your senses.\n If you were really there...\n\n What would you see?\n What would you hear?\n What would you smell?\n How would you be thinking?\n How would you feel?"
+        }
+    ],
+    "navigation_conditions": [
         {
-            "type": "Buttons",
-            "buttons": [
-                "Never",
-                "Almost Never",
-                "Sometimes",
-                "Fairly Often",
-                "Very Often",
-                "^Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "PSS-4_control"
+            "wait_for_time": 4000
         }
     ]
 }

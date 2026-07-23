@@ -1,26 +1,38 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Mental Health and Treatment Questionnaire",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What is your race?"
+            "text": "Are you currently struggling with any of the following mental disorders? Please select all that apply."
         },
         {
             "type": "Buttons",
             "buttons": [
-                "American Indian/Alaska Native",
-                "East Asian",
-                "South Asian",
-                "Native Hawaiian/Pacific Islander",
-                "Black/African origin",
-                "White/European origin",
-                "Other or Unknown",
-                "^Prefer not to answer"
+                "Generalized anxiety disorder (GAD)",
+                "Obsessive-compulsive disorder (OCD)",
+                "Panic disorder",
+                "Agoraphobia",
+                "Posttraumatic stress disorder (PTSD)",
+                "Social anxiety disorder",
+                "Specific phobia(s)",
+                "Dementia or other cognitive disorder",
+                "Substance use disorder",
+                "Schizophrenia or other psychotic disorder",
+                "Depression",
+                "Bipolar disorder",
+                "Eating disorder",
+                "Personality disorder",
+                "Intellectual Disability",
+                "Autism Spectrum Disorder",
+                "Attention-Deficit/Hyperactivity Disorder",
+                "^I am not struggling with a mental disorder",
+                "^Prefer not to answer",
+                "!Other:"
             ],
             "selectable": true,
             "multiselect": true,
-            "name": "race"
+            "name": "mental_health_disorders"
         }
     ]
 }

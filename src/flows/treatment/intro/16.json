@@ -1,24 +1,23 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Anxiety Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has therapy (talking with a trained professional) been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "In the past week, how much has anxiety interfered with your social life and relationships?"
         },
         {
-            "type": "Slider",
-            "min": "1",
-            "max": "7",
-            "others": [
-                "^Prefer not to respond"
+            "type": "Buttons",
+            "buttons": [
+                "None: My anxiety doesn't affect my relationships.",
+                "Mild: My anxiety slightly interferes with my relationships. Some of my friendships and other relationships have suffered, but, overall, my social life is still fulfilling.",
+                "Moderate: I have experienced some interference with my social life, but I still have a few close relationships. I don't spend as much time with others as in the past, but I still socialize sometimes.",
+                "Severe: My friendships and other relationships have suffered a lot because of anxiety. I do not enjoy social activities. I socialize very little.",
+                "Extreme: My anxiety has completely disrupted my social activities. All of my relationships have suffered or ended. My family life is extremely strained.",
+                "^Prefer not to answer"
             ],
-            "name": "therapy_helpful"
+            "selectable": true,
+            "name": "OASIS_social"
         }
-    ],
-    "condition": [
-        "HelpReceived",
-        "=",
-        "Therapy"
     ]
 }

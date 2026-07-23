@@ -1,23 +1,23 @@
 {
-    "header_text": "Stress Scale",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the last month, how often have you felt that things were going your way?"
+            "text": "How vividly did you imagine the situation?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Never",
-                "Almost Never",
-                "Sometimes",
-                "Fairly Often",
-                "Very Often",
+                "Not at all vivid",
+                "Somewhat vivid",
+                "Moderately vivid",
+                "Very vivid",
+                "Totally vivid",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "PSS-4_your_way"
+            "name": "imagery_vivid"
         }
     ]
 }

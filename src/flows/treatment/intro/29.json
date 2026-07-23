@@ -1,22 +1,15 @@
 {
-    "header_text": "Sadness Scale",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nFeeling down, depressed, or hopeless."
-        },
+            "text": "Please imagine the situation as vividly as possible (i.e., so that it feels very real). Try to imagine you are actually in the situation. Play out the specific parts of the situation in your head. Try to imagine using all your senses.\n If you were really there...\n\n What would you see?\n What would you hear?\n What would you smell?\n How would you be thinking?"
+        }
+    ],
+    "navigation_conditions": [
         {
-            "type": "Buttons",
-            "buttons": [
-                "Not at all",
-                "Several days",
-                "More than half the days",
-                "Nearly every day",
-                "^Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "OASIS_depressed"
+            "wait_for_time": 4000
         }
     ]
 }

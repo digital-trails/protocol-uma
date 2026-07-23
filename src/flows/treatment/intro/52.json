@@ -1,14 +1,10 @@
 {
-    "header_text": "A birthday cake",
+    "header_text": "Great Job",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A birthday cake"
-        },
-        {
-            "type": "Media",
-            "url": "./images/386.jpg"
+            "text": "Still have questions? Contact the team at HoosThinkCalmly@gmail.com! We would be happy to schedule a Zoom call to address any questions or concerns you may have."
         }
     ]
 }

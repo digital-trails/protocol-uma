@@ -1,24 +1,23 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Stress Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has self-guided help been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "In the last month, how often have you felt that you were unable to control the important things in your life?"
         },
         {
-            "type": "Slider",
-            "min": "1",
-            "max": "7",
-            "others": [
-                "^Prefer not to respond"
+            "type": "Buttons",
+            "buttons": [
+                "Never",
+                "Almost Never",
+                "Sometimes",
+                "Fairly Often",
+                "Very Often",
+                "^Prefer not to answer"
             ],
-            "name": "self-guided_helpful"
+            "selectable": true,
+            "name": "PSS-4_control"
         }
-    ],
-    "condition": [
-        "HelpReceived",
-        "=",
-        "SelfHelp"
     ]
 }

@@ -1,27 +1,23 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Anxiety Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Are you currently receiving any help for issues related to mental health? Please select all that apply, or \"I am not receiving help\"."
+            "text": "In the past week, how much did your anxiety interfere with your ability to do the things you needed to do at work, at school, or at home?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Therapy::Therapy (talking with a trained professional)\n\nExamples: Psychologist, licensed mental health practitioner (LMHC), school counselor, social worker, marriage and family therapist, group therapist",
-                "Prescription:: Prescription medications\n\nExamples: Psychiatrist, medical doctor",
-                "Social::Seeking social support (talking with non-professionals)\n\nExamples: Teacher, family member, friend, religious leader, coach",
-                "SelfHelp::Self-guided help\n\nExamples: Self-help book, blogs, online intervention (other than MindTrails), mobile applications",
-                "OTC::Over-the-counter medications and/or supplements",
-                "^None::I am not receiving help",
-                "^NoAnswer::Prefer not to answer",
-                "!Other::Other:"
+                "None: No interference at work/home/school from anxiety",
+                "Mild: My anxiety has caused some interference at work/home/school. Things are more difficult, but everything that needs to be done is still getting done.",
+                "Moderate: My anxiety definitely interferes with tasks. Most things are still getting done, but few things are being done as well as in the past.",
+                "Severe: My anxiety has really changed by ability to get things done. Some tasks are still being done, but many things are not. My performance has definitely suffered.",
+                "Extreme: My anxiety has become incapacitating. I am unable to complete tasks and have had to leave school, have quit or been fired from my job, or have been unable to complete tasks at home and have faced consequences like bill collectors, eviction, etc.",
+                "^Prefer not to answer"
             ],
             "selectable": true,
-            "multiselect": true,
-            "name": "help",
-            "variable_name": "HelpReceived"
+            "name": "OASIS_work"
         }
     ]
 }

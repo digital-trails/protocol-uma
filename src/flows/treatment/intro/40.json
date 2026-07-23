@@ -1,23 +1,13 @@
 {
-    "header_text": "Anxious imagery prime",
-    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How likely is it that the situation or task will turn out well versus turn out badly?"
+            "text": "Press play on the training video to continue to learn more information!"
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Very likely to turn out well",
-                "Somewhat likely to turn out well",
-                "Neutral",
-                "Somewhat likely to turn out badly",
-                "Very likely to turn out badly",
-                "^Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "imagery_well"
+            "type": "Media",
+            "url": "/videos/video2.mp4",
+            "border": true
         }
     ]
 }
