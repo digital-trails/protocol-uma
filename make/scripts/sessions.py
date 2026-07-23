@@ -199,12 +199,14 @@ def create_surveys():
 
             elif subgroup_id=="Demographics" and demographics_page_elements==[]:
                 demographics_page = _create_survey_page(row)
-                demographics_page_elements.append(demographics_page['elements'])
+                for element in demographics_page['elements']:
+                    demographics_page_elements.append(element)
 
             elif subgroup_id=="Demographics" and row[3]=="Dose": # Ignore the control dose
-                demographics_page_elements.append(_create_survey_page(row)['elements'])
+                for element in _create_survey_page(row)['elements']:
+                    demographics_page_elements.append(element)
 
-            elif previous_sub_id=="Demographics" and row[3]=="Dose": 
+            elif previous_sub_id=="Demographics" and row[3]=="Dose": # This has to go here or else the Demographics survey will be placed at the end
                 demographics_page['elements'] = demographics_page_elements
                 surveys["Dose_1"]["Demographics"].append(demographics_page)
 
