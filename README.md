@@ -1,4 +1,4 @@
-# MindTrails Spanish
+# MindTrails UMA
 This repository contains the protocol for the Mind Trails UMA study, and all the code required to build the protocol from scratch. 
 
 <br>
