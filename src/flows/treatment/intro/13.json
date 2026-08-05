@@ -9,11 +9,11 @@
         {
             "type": "Buttons",
             "buttons": [
-                "Little or None: Anxiety was absent or barely noticeable.",
-                "Mild: Anxiety was at a low level. It was possible to relax when I tried. Physical symptoms were only slightly uncomfortable.",
-                "Moderate: Anxiety was distressing at times. It was hard to relax or concentrate, but I could do it if I tried. Physical symptoms were uncomfortable.",
-                "Severe: Anxiety was intense much of the time. It was very difficult to relax or focus on anything else. Physical symptoms were uncomfortable.",
-                "Extreme: Anxiety was overwhelming. It was impossible to relax at all. Physical symptoms were unbearable.",
+                "Little or None",
+                "Mild",
+                "Moderate",
+                "Severe",
+                "Extreme",
                 "^Prefer not to answer"
             ],
             "selectable": true,

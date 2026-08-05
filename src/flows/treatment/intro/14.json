@@ -9,11 +9,11 @@
         {
             "type": "Buttons",
             "buttons": [
-                "None: I do not avoid places, situations, activities, or things because of fear.",
-                "Infrequent: I avoid something once in a while, but will usually face the situation or confront the object. My lifestyle is not affected.",
-                "Occasional: I have some fear of certain situations, places, or objects, but it is still manageable. My lifestyle has only changed in minor ways. I always or almost always avoid the things I fear when I'm alone, but can handle them if someone comes with me.",
-                "Frequent: I have considerable fear and really try to avoid the things that frighten me. I have made significant changes in my lifestyle to avoid the object, situation, activity, or place.",
-                "All the time: Avoiding objects, situations, or places has taken over my life. My lifestyle has been extensively affected and I no longer do the things that I used to enjoy.",
+                "None",
+                "Infrequent",
+                "Occasional",
+                "Frequent",
+                "All the time",
                 "^Prefer not to answer"
             ],
             "selectable": true,

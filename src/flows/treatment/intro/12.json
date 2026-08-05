@@ -10,10 +10,10 @@
             "type": "Buttons",
             "buttons": [
                 "No anxiety in the past week",
-                "Infrequent anxiety. Felt anxious a few times.",
-                "Occasional anxiety. Felt anxious as much of the time as not. It was hard to relax.",
-                "Frequent anxiety. Felt anxious most of the time. It was very difficult to relax.",
-                "Constant anxiety. Felt anxious all of the time and never really relaxed.",
+                "Infrequent anxiety.",
+                "Occasional anxiety.",
+                "Frequent anxiety.",
+                "Constant anxiety.",
                 "^Prefer not to answer"
             ],
             "selectable": true,
