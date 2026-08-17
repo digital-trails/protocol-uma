@@ -46,6 +46,11 @@
       "text": "Get Help",
       "icon": "/assets/menu_help.png",
       "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
+    },
+    {
+      "text": "Privacy Policy",
+      "icon": "/assets/menu_information.png",
+      "action": "https://digital-trails.org/privacy"
     }
   ]
 }
