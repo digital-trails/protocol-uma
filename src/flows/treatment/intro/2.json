@@ -251,18 +251,6 @@
         },
         {
             "type": "Text",
-            "text": "How did you hear about the program?"
-        },
-        {
-            "type": "Picker",
-            "items": [
-                "My provider told me about it",
-                "I saw a sign on the wall in the lobby or patient room",
-                "!Other:"
-            ]
-        },
-        {
-            "type": "Text",
             "text": "What is your race?"
         },
         {
