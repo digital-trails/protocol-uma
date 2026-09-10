@@ -4,20 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past week, when you have felt anxious, how intense or severe was your anxiety?"
+            "text": "In the past week, how often have you felt anxious?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Little or None",
-                "Mild",
-                "Moderate",
-                "Severe",
-                "Extreme",
+                "No anxiety in the past week",
+                "Infrequent anxiety.",
+                "Occasional anxiety.",
+                "Frequent anxiety.",
+                "Constant anxiety.",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_intensity_anxiety"
+            "name": "OASIS_frequency_anxious"
         }
     ]
 }

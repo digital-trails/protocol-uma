@@ -1,22 +1,23 @@
 {
-    "header_text": "Sadness Scale",
+    "header_text": "Anxiety Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nLittle interest or pleasure in doing things."
+            "text": "In the past week, how much has anxiety interfered with your social life and relationships?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Not at all",
-                "Several days",
-                "More than half the days",
-                "Nearly every day",
+                "None",
+                "Mild",
+                "Moderate",
+                "Severe",
+                "Extreme",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_little_interest"
+            "name": "OASIS_social"
         }
     ]
 }

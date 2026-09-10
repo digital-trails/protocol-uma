@@ -4,20 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past week, how much did your anxiety interfere with your ability to do the things you needed to do at work, at school, or at home?"
+            "text": "In the past week, how often did you avoid situations, places, objects, or activities because of anxiety or fear?"
         },
         {
             "type": "Buttons",
             "buttons": [
                 "None",
-                "Mild",
-                "Moderate",
-                "Severe",
-                "Extreme",
+                "Infrequent",
+                "Occasional",
+                "Frequent",
+                "All the time",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_work"
+            "name": "OASIS_avoid"
         }
     ]
 }

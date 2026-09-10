@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has what you specified in \"other\" been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "Has over-the-counter medications and/or supplements been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
         },
         {
             "type": "Slider",
@@ -13,12 +13,12 @@
             "others": [
                 "^Prefer not to respond"
             ],
-            "name": "other_helpful"
+            "name": "OTC_meds_helpful"
         }
     ],
     "condition": [
         "HelpReceived",
         "=",
-        "Other"
+        "OTC"
     ]
 }

@@ -368,7 +368,8 @@ def create_video_page(video_number):
         "elements": [
             {"type": "Text" , "text": "Press play on the training video to continue to learn more information!"},
             {"type": "Media", "url": f"/videos/video{video_number}.mp4", "border": True}
-        ]
+        ],
+        "navigators": [ {"wait_for_time": 120000}, "wait_for_click" ]
     }
 
 def create_write_your_own_page(text, input_1, title, input_name):

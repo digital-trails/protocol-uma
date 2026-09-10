@@ -4,20 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past week, how often did you avoid situations, places, objects, or activities because of anxiety or fear?"
+            "text": "In the past week, when you have felt anxious, how intense or severe was your anxiety?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "None",
-                "Infrequent",
-                "Occasional",
-                "Frequent",
-                "All the time",
+                "Little or None",
+                "Mild",
+                "Moderate",
+                "Severe",
+                "Extreme",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_avoid"
+            "name": "OASIS_intensity_anxiety"
         }
     ]
 }

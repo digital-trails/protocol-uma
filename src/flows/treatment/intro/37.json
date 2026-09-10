@@ -1,14 +1,19 @@
 {
-    "header_text": "Contributing to a discussion",
-    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Contributing to a discussion"
+            "text": "Press play on the training video to continue to learn more information!"
         },
         {
             "type": "Media",
-            "url": "./images/54.jpg"
+            "url": "/videos/video1.mp4",
+            "border": true
         }
+    ],
+    "navigators": [
+        {
+            "wait_for_time": 120000
+        },
+        "wait_for_click"
     ]
 }

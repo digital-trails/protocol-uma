@@ -1,14 +1,19 @@
 {
-    "header_text": "A birthday cake",
-    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A birthday cake"
+            "text": "Press play on the training video to continue to learn more information!"
         },
         {
             "type": "Media",
-            "url": "./images/386.jpg"
+            "url": "/videos/video3.mp4",
+            "border": true
         }
+    ],
+    "navigators": [
+        {
+            "wait_for_time": 120000
+        },
+        "wait_for_click"
     ]
 }

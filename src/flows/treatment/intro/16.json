@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past week, how much has anxiety interfered with your social life and relationships?"
+            "text": "In the past week, how much did your anxiety interfere with your ability to do the things you needed to do at work, at school, or at home?"
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_social"
+            "name": "OASIS_work"
         }
     ]
 }

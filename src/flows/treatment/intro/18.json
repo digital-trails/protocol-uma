@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nFeeling down, depressed, or hopeless."
+            "text": "Over the past 2 weeks, how often have you been bothered by any of the following problems:\n\nLittle interest or pleasure in doing things."
         },
         {
             "type": "Buttons",
@@ -16,7 +16,7 @@
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OASIS_depressed"
+            "name": "OASIS_little_interest"
         }
     ]
 }

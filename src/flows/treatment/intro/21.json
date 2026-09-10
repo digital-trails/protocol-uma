@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the last month, how often have you felt that things were going your way?"
+            "text": "In the last month, how often have you felt confident about your ability to handle your personal problems?"
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "PSS-4_your_way"
+            "name": "PSS-4_confident"
         }
     ]
 }
