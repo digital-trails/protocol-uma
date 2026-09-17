@@ -10,7 +10,6 @@
     "unenroll": "flow://flows/treatment/reasons for ending",
     "font_scale": 1.25
   },
-  "start_flow": "flow://flows/treatment/intro",
   "menu": [
     {
       "text": "What is MindTrails?",
@@ -21,6 +20,11 @@
       "text": "Instructions",
       "icon": "/assets/menu_instructions.png",
       "action": "flow://flows/instructions.json"
+    },
+    {
+      "text": "Introduction",
+      "icon": "/assets/menu_information.png",
+      "action": "flow://flows/treatment/intro"
     },
     {
       "text": "What is Anxiety?",
