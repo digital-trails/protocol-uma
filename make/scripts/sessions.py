@@ -153,7 +153,8 @@ def create_short_sessions():
                 if puzzle1 == (None,None): continue
 
                 comp_question, choices, answer  = row[9], row[10:12], row[10]
-
+                if choices == ['Yes', '']: choices = ['Yes', 'No']
+                if choices == ['No', '']: choices = ['No', 'Yes']
                 shuffle(choices)
 
                 if row[14]: letters_missing = row[14]
