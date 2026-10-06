@@ -23,6 +23,15 @@
             },
             "actions": [
                 {
+                    "text": "Introduction Survey",
+                    "action": "flow://flows/treatment/intro",
+                    "backgroundcolor": "#1A206AFF",
+                    "icon": {
+                        "url": "/assets/menu_information.png",
+                        "tint": false
+                    }
+                },
+                {
                     "text": "What is MindTrails?",
                     "action": "flow://flows/rationale.json",
                     "backgroundcolor": "#1A206AFF",

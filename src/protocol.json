@@ -22,7 +22,7 @@
       "action": "flow://flows/instructions.json"
     },
     {
-      "text": "Introduction",
+      "text": "Introduction Survey",
       "icon": "/assets/menu_information.png",
       "action": "flow://flows/treatment/intro"
     },
