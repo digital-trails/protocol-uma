@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "What is your birth year?"
+            "text": "<b>What is your birth year?</b>",
+            "html": "true"
         },
         {
             "type": "Picker",
@@ -96,7 +97,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your gender identity?"
+            "text": "<b>What is your gender identity?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -113,7 +115,8 @@
         },
         {
             "type": "Text",
-            "text": "Which of the following best represents how you think of yourself?"
+            "text": "<b>Which of the following best represents how you think of yourself?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -129,7 +132,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your highest educational attainment?"
+            "text": "<b>What is your highest educational attainment?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -155,7 +159,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your relationship status?"
+            "text": "<b>What is your relationship status?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -177,7 +182,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your employment status?"
+            "text": "<b>What is your employment status?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -198,7 +204,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your annual household income, before taxes and other deductions (in US dollars or equivalent)?"
+            "text": "<b>What is your annual household income, before taxes and other deductions (in US dollars or equivalent)?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -223,7 +230,8 @@
         },
         {
             "type": "Text",
-            "text": "How would you categorize the area in which you live?"
+            "text": "<b>How would you categorize the area in which you live?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -238,7 +246,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your race? (Select all that apply)"
+            "text": "<b>What is your race? (Select all that apply)</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",
@@ -259,7 +268,8 @@
         },
         {
             "type": "Text",
-            "text": "What is your ethnicity?"
+            "text": "<b>What is your ethnicity?</b>",
+            "html": "true"
         },
         {
             "type": "Buttons",

@@ -304,7 +304,7 @@ def create_discrimination_page(conditions, text, items, input_1, input_name, var
 
 def create_survey_page(text=None, media=None, image_framed=None, items=None, input_1=None, input_2=None,
                        variable_name=None, title=None, input_name=None, minimum=None, maximum=None,
-                       show_buttons=None, conditions=None, timeout=None):
+                       show_buttons=None, conditions=None, timeout=None, html=None):
     """
     This function creates a page with a survey question.
     :param text: Text to go on the page
@@ -331,7 +331,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     :return: a page for a survey question / text page
     """
 
-    textinput  = {"type": "Text", "text": text} if has_value(text) else None
+    textinput = {"type": "Text", "text": text, "html": "true"} if lower(html)=='true' else {"type": "Text", "text": text} if has_value(text) else None
     mediainput = {"type": "Media", "url": media, "border": lower(image_framed) == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)

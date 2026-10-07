@@ -60,12 +60,16 @@ def _create_survey_page(row):
     variable_name = row[16]
     conditions = row[17]
     input_name = row[18]
+    try:
+        html = row[19] # true/false value added on to the end of the row if html is present in the 'text' element
+    except IndexError:
+        html = None
 
     return create_survey_page(conditions=conditions, text=text,
                                 show_buttons=show_buttons, media=media, image_framed=image_framed,
                                 items=items, input_1=input_1, input_2=input_2,
                                 variable_name=variable_name, title=title, input_name=input_name,
-                                minimum=minimum, maximum=maximum, timeout=timeout)
+                                minimum=minimum, maximum=maximum, timeout=timeout, html=html)
 
 def domain_selection_text():
     return (
@@ -153,8 +157,9 @@ def create_short_sessions():
                 if puzzle1 == (None,None): continue
 
                 comp_question, choices, answer  = row[9], row[10:12], row[10]
-                if choices == ['Yes', '']: choices = ['Yes', 'No']
-                if choices == ['No', '']: choices = ['No', 'Yes']
+                
+                if lower(choices[0]) in ['yes','no']: choices = ['Yes', 'No']
+
                 shuffle(choices)
 
                 if row[14]: letters_missing = row[14]
@@ -195,15 +200,20 @@ def create_surveys():
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id = f"{row[3]}_{row[2]}"
             subgroup_id = row[0]
+            text = row[4]
 
             if lookup_id not in surveys: continue
 
             elif subgroup_id=="Demographics" and demographics_page_elements==[]:
+                row.insert(19, 'true')
+                row[4] = f"<b>{text}</b>"
                 demographics_page = _create_survey_page(row)
                 for element in demographics_page['elements']:
                     demographics_page_elements.append(element)
 
             elif subgroup_id=="Demographics" and row[3]=="Dose": # Ignore the control dose
+                row.insert(19, 'true')
+                row[4] = f"<b>{text}</b>"
                 for element in _create_survey_page(row)['elements']:
                     demographics_page_elements.append(element)
 
